@@ -23,14 +23,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: blue grey
+      accent: blue grey 
     - scheme: slate 
       toggle:
-      icon: material/toggle-switch
-      name: Switch to light mode    
-      primary: teal
-      accent: lime
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode    
+      primary: blue grey
+      accent: teal
   font:
     text: Roboto Slab
     code: Roboto Mono
