@@ -16,12 +16,14 @@ theme:
   - content.code.copy
 language: en
 palette:
+  - media: "(prefers-color-scheme: light)"
   - scheme: default
     toggle:
       icon: material/toggle-switch-off-outline 
       name: Switch to dark mode
     primary: indigo
     accent: black 
+  - media: "(prefers-color-scheme: dark)"
     scheme: slate 
     toggle:
       icon: material/toggle-switch
