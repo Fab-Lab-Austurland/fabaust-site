@@ -34,7 +34,10 @@ theme:
   font:
     text: Roboto Slab
     code: Roboto Mono
-  
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt 
+      link: https://github.com/Fab-Lab-Austurland/fabaust-site
   markdown_extensions:
   - admonition
   - pymdownx.details
@@ -69,5 +72,6 @@ nav:
 - Leiðbeiningar: leidbeiningar.md
 - Kennsla: kennsla.md
 
-
 use_directory_urls: true  
+
+copyright: Copyright &copy; 2025 Fab Lab Austurland Mýrargötu 10 - 740 Neskaupstaður - fablabausturland@gmail.com 
