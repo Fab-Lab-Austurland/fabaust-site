@@ -34,7 +34,7 @@ theme:
       primary: blue grey
       accent: teal
   font:
-    text: Roboto Slab
+    text: Roboto Condensed
     code: Roboto Mono
 extra:
   social:
@@ -68,8 +68,9 @@ extra:
 nav:
 - Home: index.md
 - Um smiðjuna: um_smidjuna.md
-- Leiðbeiningar: leidbeiningar.md
-- Kennsla: kennsla.md
+- Búnaður/Leiðbeiningar: leidbeiningar.md
+- Grunnskólar: grunnskolar.md
+- Framhalsskóli: framhaldsskoli.md
 
 use_directory_urls: true  
 
