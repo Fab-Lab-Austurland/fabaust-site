@@ -2,6 +2,8 @@ site_name: Fab Lab Austurland
 site_url: https://fabaust.is/
 repo_url: https://github.com/Fab-Lab-Austurland/fabaust-site
 repo_name: Fab-Lab-Austurland/fabaust-site
+site_dir: public
+
 theme:
   name: material
   features:
@@ -23,7 +25,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: blue grey
+      primary: cyan
       accent: blue grey 
     - scheme: slate 
       toggle:
@@ -71,4 +73,4 @@ nav:
 
 use_directory_urls: true  
 
-copyright: Copyright &copy; 2025 Fab Lab Austurland Mýrargötu 10 - 740 Neskaupstaður - fablabausturland@gmail.com 
+copyright: Copyright &copy; 2025 Fab Lab Austurland - Mýrargötu 10 - 740 Neskaupstaður - fablabausturland@gmail.com 
