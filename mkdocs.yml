@@ -25,14 +25,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: cyan
+      primary: green
       accent: blue grey 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode    
       primary: blue grey
-      accent: teal
+      accent: black
   font:
     text: Roboto Condensed
     code: Roboto Mono
@@ -70,7 +70,7 @@ nav:
 - Um smiðjuna: um_smidjuna.md
 - Búnaður/Leiðbeiningar: leidbeiningar.md
 - Grunnskólar: grunnskolar.md
-- Framhalsskóli: framhaldsskoli.md
+- Framhaldsskóli: framhaldsskoli.md
 
 use_directory_urls: true  
 
