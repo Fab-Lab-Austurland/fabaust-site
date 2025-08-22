@@ -31,7 +31,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode    
-      primary: blue grey
+      primary: green
       accent: black
   font:
     text: Roboto Condensed
