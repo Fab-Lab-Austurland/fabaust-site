@@ -20,6 +20,11 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+
+  
+logo: LogoHvitt.svg
+favicon: LogoHvitt.svg
+
   palette:
     - scheme: default
       toggle:
@@ -65,8 +70,6 @@ extra:
       custom_checkbox: true
   - pymdownx.superfences:
 
-logo: LogoHvitt.svg
-favicon: LogoHvitt.svg
 
 nav:
 - Home: index.md
