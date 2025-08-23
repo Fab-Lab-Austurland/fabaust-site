@@ -19,9 +19,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
- 
- 
-  logo: LogoHvitt.png
+  
+  logo: LogoHvitt.svg
   favicon: LogoRautt.svg
 
   palette:
