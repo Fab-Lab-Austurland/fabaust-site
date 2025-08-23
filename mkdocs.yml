@@ -71,7 +71,7 @@ nav:
 - Home: index.md
 - Um smiðjuna: um_smidjuna.md
 - Búnaður/Leiðbeiningar: leidbeiningar.md
-- Grunnskólar: docs/grunnskolar.md
+- Grunnskólar: grunnskolar.md
 - Framhaldsskóli: framhaldsskoli.md
 
 use_directory_urls: true  
