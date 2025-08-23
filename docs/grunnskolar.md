@@ -1,5 +1,4 @@
 # Grunnskólar
-
 ## Að nota Inkscape forritið
 
 ![ ](img_grunnskolar/InkscapeLogo_300x150.png)
