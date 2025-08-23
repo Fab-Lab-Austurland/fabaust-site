@@ -19,53 +19,56 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  
-  
-  logo: LogoHvitt.svg
-  favicon: LogoHvitt.svg
+ 
+  plugins:
+    - mkdocs-video
+
+  logo: docs/img/LogoHvitt.png
+  favicon: docs/img/LogoHvitt.png
 
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: green
-      accent: blue grey 
-    - scheme: slate 
+      accent: black 
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate 
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/toggle-switch
         name: Switch to light mode    
       primary: green
-      accent: black
+      accent: cyan
   font:
-    text: Roboto Condensed
+    text: Roboto Slab
     code: Roboto Mono
 
-  markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite:
-  - pymdownx.snippets
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - attr_list
-  - tables
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.arithmatex:
-      generic: true
-  - footnotes
-  - def_list    
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.superfences:
-
+markdown_extensions:
+- admonition
+- pymdownx.details
+- pymdownx.highlight:
+    anchor_linenums: true
+- pymdownx.inlinehilite:
+- pymdownx.snippets
+- pymdownx.critic
+- pymdownx.caret
+- pymdownx.keys
+- pymdownx.mark
+- pymdownx.tilde
+- attr_list
+- tables
+- pymdownx.emoji:
+    emoji_index: !!python/name:materialx.emoji.twemoji
+    emoji_generator: !!python/name:materialx.emoji.to_svg
+- pymdownx.arithmatex:
+    generic: true
+- footnotes
+- def_list    
+- pymdownx.tasklist:
+    custom_checkbox: true
+- pymdownx.superfences:
 
 nav:
 - Home: index.md
