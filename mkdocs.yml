@@ -22,25 +22,25 @@ theme:
   language: en
 
   
-logo: LogoHvitt.svg
-favicon: LogoHvitt.svg
+  logo: LogoHvitt.svg
+  favicon: LogoHvitt.svg
 
-palette:
-  - scheme: default
-    toggle:
-      icon: material/toggle-switch-off-outline 
-      name: Switch to dark mode
-    primary: green
-    accent: blue grey 
-  - scheme: slate 
-    toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to light mode    
-    primary: green
-    accent: black
-font:
-  text: Roboto Condensed
-  code: Roboto Mono
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: green
+      accent: blue grey 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode    
+      primary: green
+      accent: black
+  font:
+    text: Roboto Condensed
+    code: Roboto Mono
 extra:
   social:
     - icon: fontawesome/brands/github-alt 
