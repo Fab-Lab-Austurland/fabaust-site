@@ -4,9 +4,6 @@ repo_url: https://github.com/Fab-Lab-Austurland/fabaust-site
 repo_name: Fab-Lab-Austurland/fabaust-site
 site_dir: public
 
-plugins:
-  - mkdocs-video
-
 theme:
   name: material
   features:
@@ -25,7 +22,7 @@ theme:
  
  
   logo: LogoHvitt.png
-  favicon: LogoHvitt.png
+  favicon: LogoRautt.svg
 
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -70,7 +67,7 @@ markdown_extensions:
 - pymdownx.tasklist:
     custom_checkbox: true
 - pymdownx.superfences:
-
+  
 nav:
 - Home: index.md
 - Um smiðjuna: um_smidjuna.md
