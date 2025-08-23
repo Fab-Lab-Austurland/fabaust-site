@@ -19,8 +19,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
-
+  
   
   logo: LogoHvitt.svg
   favicon: LogoHvitt.svg
@@ -41,10 +40,7 @@ theme:
   font:
     text: Roboto Condensed
     code: Roboto Mono
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt 
-      link: https://github.com/Fab-Lab-Austurland/fabaust-site
+
   markdown_extensions:
   - admonition
   - pymdownx.details
