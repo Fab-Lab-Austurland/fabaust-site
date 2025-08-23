@@ -4,6 +4,12 @@ repo_url: https://github.com/Fab-Lab-Austurland/fabaust-site
 repo_name: Fab-Lab-Austurland/fabaust-site
 site_dir: public
 
+plugins:
+  - mkdocs-video
+
+logo: LogoHvitt.png
+favicon: LogoHvitt.png
+
 theme:
   name: material
   features:
@@ -20,12 +26,6 @@ theme:
     - content.code.annotation
     - content.code.copy
  
-  plugins:
-    - mkdocs-video
-
-  logo: LogoHvitt.png
-  favicon: LogoHvitt.png
-
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
