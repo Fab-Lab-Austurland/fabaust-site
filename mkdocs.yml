@@ -68,7 +68,7 @@ markdown_extensions:
 - pymdownx.superfences:
   
 nav:
-- Home: index.md
+- Heim: index.md
 - Um smiðjuna: um_smidjuna.md
 - Búnaður/Leiðbeiningar: leidbeiningar.md
 - Grunnskólar: grunnskolar.md
