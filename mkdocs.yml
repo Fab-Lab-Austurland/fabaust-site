@@ -23,8 +23,8 @@ theme:
   plugins:
     - mkdocs-video
 
-  logo: docs/img/LogoHvitt.png
-  favicon: docs/img/LogoHvitt.png
+  logo: LogoHvitt.png
+  favicon: LogoHvitt.png
 
   palette:
     - media: "(prefers-color-scheme: light)"
