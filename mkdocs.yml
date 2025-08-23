@@ -21,7 +21,7 @@ theme:
     - content.code.copy
   
   logo: LogoHvitt.svg
-  favicon: LogoRautt.svg
+  favicon: FabLogo.png
 
   palette:
     - media: "(prefers-color-scheme: light)"
