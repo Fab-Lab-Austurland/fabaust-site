@@ -65,6 +65,9 @@ extra:
       custom_checkbox: true
   - pymdownx.superfences:
 
+logo: LogoHvitt.svg
+favicon: LogoHvitt.svg
+
 nav:
 - Home: index.md
 - Um smiðjuna: um_smidjuna.md
