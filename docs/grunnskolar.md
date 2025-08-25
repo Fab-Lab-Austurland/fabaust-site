@@ -83,7 +83,7 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
 ### Verkefni 2 - Að búa til lyklakippu
 
-#### Skriflegar leiðbeiningar
+#### Skriflegar leiðbeiningar - lyklakippa
 
 !!!Tip "Leiðbeiningar um gerð lyklakippu"
 
@@ -91,13 +91,13 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     **Athugið að þið þurfið að hafa gatið stærra en það sem gert er í leiðbeiningunum svo lyklakippuhringirnir okkar passi í það. Hafið það 4mm en ekki 3mm.** 
 
+#### Kennslumyndband - lyklakippa
+
 !!! Tip "Kennslumyndband um gerð lyklakippu"
 
     Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=7de189c998dd4df5897be38b1ab4b79c&wix-vod-comp-id=comp-l0gj7rx0). *Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík.*
 
     ![ ](img_grunnskolar/Lyklakippa1_300x225.jpg)       ![ ](img_grunnskolar/Lyklakippa2_300x225.jpg)
-
-
 
 ### Verkefni 3 - Þrívíddarhönnun í Tinkercad
 
@@ -105,9 +105,13 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass). Smellið á **Join class**. Skrifið lykilorðið sem kennarinn skrifaði upp á töflu.  
 
+#### Skriflegar leiðbeiningar - Tinkercad
+
 !!! Info "Leiðbeiningar í bók"
 
     Smellið á hlekkinn [hér](https://www.fabmennt.com/_files/ugd/0ebced_95d0764011804945837e85c2906135c7.pdf). Lesið blaðsíðu 6 og vinnið svo verkefni 1 sem byrjar á blaðsíðu 7. Það kallast **Smíðum kofa**.
+
+#### Kennslumyndband - Tinkercad
 
 !!! Info "Kennslumyndband"
 
