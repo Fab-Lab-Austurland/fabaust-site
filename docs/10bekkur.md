@@ -36,3 +36,21 @@
     Því næst smellið þið á Viðmót (á ensku er það Interface) og þá sjáið þið hvar þið getið valið tungumál. Munið svo að loka forritinu og opna það aftur.
 
     ![Viðmót - íslenska](img_grunnskolar/Vidmot_Islenska300x261.jpg)            ![Interface - enska](img_grunnskolar/Interface_Language300x262.jpg)
+
+## Verkefni 1
+
+
+
+## Verkefni 2
+
+
+
+## Verkefni 3
+
+
+
+## Verkefni 4
+
+
+
+
