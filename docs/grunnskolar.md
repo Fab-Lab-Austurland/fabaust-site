@@ -22,7 +22,7 @@
 
 ## Að skipta um tungumál í Inkscape
 
-!!!Tip "Íslenska eða annað tungumál"
+!!! Tip "Íslenska eða annað tungumál"
 
     Það er hægt að skipta um tungumál í Inkscape en það þarf að loka forritinu þegar búið er að skipta um tungumál og opna forritið svo aftur. Smellið á Breyta og svo Kjörstillingar. Hér fyrir neðan sjáið þið hvernig þetta lítur út þegar forritið er stillt á íslensku og þegar það er stillt á ensku.
 
@@ -45,7 +45,9 @@
 
 #### Skriflegar leiðbeiningar - Límmiði
 
-Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). Lesið samt fyrst upplýsingarnar hér fyrir neðan. *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
+!!! info "Skriflegar leiðbeiningar um gerð límmiða"
+
+    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). Lesið samt fyrst upplýsingarnar hér fyrir neðan. *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
 
 !!!Tip "Tvö mikilvæg atriði"
 
