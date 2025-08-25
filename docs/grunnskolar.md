@@ -91,7 +91,13 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     **Athugið að þið þurfið að hafa gatið stærra en það sem gert er í leiðbeiningunum svo lyklakippuhringirnir okkar passi í það. Hafið það 4mm en ekki 3mm.** 
 
-    ![ ](img_grunnskolar/Lyklakippa1_300x225.jpg)
+    ![ ](img_grunnskolar/Lyklakippa1_300x225.jpg)       ![ ](img_grunnskolar/Lyklakippa2_300x225.jpg)
+
+!!!Tip "Kennslumyndband um gerð lyklakippu"
+
+    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=7de189c998dd4df5897be38b1ab4b79c&wix-vod-comp-id=comp-l0gj7rx0). *Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík.*
+
+
 
 ### Verkefni 3
 
