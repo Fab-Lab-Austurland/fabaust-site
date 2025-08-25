@@ -1,3 +1,3 @@
 # Um smiðjuna
 
-## Efni kemur síðar
+Efni kemur síðar
