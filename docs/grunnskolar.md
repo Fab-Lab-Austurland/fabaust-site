@@ -37,7 +37,7 @@
 
 ## 9. bekkur
 
-### Verkefni 1 - Að búa til límmiða
+### Verkefni 1 - Límmiði
 
 !!!question "Hvaða aðferð finnst þér best?"
 
@@ -68,7 +68,6 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     ![ ](img_grunnskolar/Picture9_600x159.jpg)
 
-
 #### Kennslumyndband - límmiði
 
 !!!Tip "Myndband"
@@ -81,7 +80,7 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
 
-### Verkefni 2 - Að búa til lyklakippu
+### Verkefni 2 - lyklakippa
 
 #### Skriflegar leiðbeiningar - lyklakippa
 
@@ -99,7 +98,7 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     ![ ](img_grunnskolar/Lyklakippa1_300x225.jpg)       ![ ](img_grunnskolar/Lyklakippa2_300x225.jpg)
 
-### Verkefni 3 - Þrívíddarhönnun í Tinkercad
+### Verkefni 3 - Tinkercad
 
 !!! Info "Að fara inn á Tinkercad"
 
