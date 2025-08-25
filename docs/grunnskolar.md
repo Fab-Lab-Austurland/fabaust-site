@@ -43,7 +43,7 @@
 
     Hvort finnst þér betra að lesa leiðbeiningar eða horfa á kennslumyndband? Veldu annaðhvort **Skriflegar leiðbeiningar** eða **Kennslumyndband** hér fyrir neðan.
 
-#### Skriflegar leiðbeiningar - límmiði
+#### Skriflegar leiðbeiningar - Límmiði
 
 Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). Lesið samt fyrst upplýsingarnar hér fyrir neðan. *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
 
@@ -93,15 +93,24 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     ![ ](img_grunnskolar/Lyklakippa1_300x225.jpg)       ![ ](img_grunnskolar/Lyklakippa2_300x225.jpg)
 
-!!!Tip "Kennslumyndband um gerð lyklakippu"
+!!! Tip "Kennslumyndband um gerð lyklakippu"
 
     Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=7de189c998dd4df5897be38b1ab4b79c&wix-vod-comp-id=comp-l0gj7rx0). *Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík.*
 
 
+### Verkefni 3 - Þrívíddarhönnun í Tinkercad
 
-### Verkefni 3
+!!! Info "Að fara inn á Tinkercad"
 
+    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass). Smellið á **Join class**. Skrifið lykilorðið sem kennarinn skrifaði upp á töflu.  
 
+!!! Info "Leiðbeiningar í bók"
+
+    Smellið á hlekkinn [hér](https://www.fabmennt.com/_files/ugd/0ebced_95d0764011804945837e85c2906135c7.pdf). Lesið blaðsíðu 6 og vinnið svo verkefni 1 sem byrjar á blaðsíðu 7. Það kallast **Smíðum kofa**.
+
+!!! Info "Kennslumyndband"
+
+    Smellið á hlekkinn [hér](https://www.fabmennt.com/myndbond3d?wix-vod-video-id=9c98f19cb0ac42ad81e5196e1a787ef5&wix-vod-comp-id=comp-l0qim0ip). Þetta er sama verkefnið og er í bókinni.
 
 ### Verkefni 4
 
