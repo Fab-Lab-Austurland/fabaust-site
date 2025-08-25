@@ -53,12 +53,12 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     Smellið á **Skrá (File) og Skráareiginleikar (Document Properties)**. Það er líka hægt að hægrismella á skjáinn og velja **Eiginleikar skjals (Document properties)**. Smellið svo á litla hnappinn hægra megin við **Aðlaga stærð að innihaldi (Resize to content).** Þá minnkar hvíta svæðið þannig að það passar nákvæmlega utan um hönnunina. Svo þarf að stækka það aðeins með því að smella þrisvar sinnum á báða plúsana.
 
+![](img_grunnskolar/Picture7.png)       ![ ](img_grunnskolar/Picture8.png)
 
 
     Stundum lítur þetta öðruvísi út í tölvum (sjá hér fyrir neðan). Þá þarf að skrifa 1 í alla fjóra gluggana og smella svo á ,,Laga síðu að teikningu eða vali“ (Resize page to content).
 
-
-
+![ ](img_grunnskolar/Picture9.jpg)
 
 
 ### Verkefni 2
