@@ -1,4 +1,5 @@
-# Grunnskólar
+# 9. bekkur
+
 ## Að nota Inkscape forritið
 
 ![ ](img_grunnskolar/InkscapeLogo_300x150.png)
@@ -35,15 +36,13 @@
 
     ![Viðmót - íslenska](img_grunnskolar/Vidmot_Islenska300x261.jpg)            ![Interface - enska](img_grunnskolar/Interface_Language300x262.jpg)
 
-## 9. bekkur
-
-### Verkefni 1 - Límmiði
+## Verkefni 1 - Límmiði
 
 !!!question "Hvaða aðferð finnst þér best?"
 
     Hvort finnst þér betra að lesa leiðbeiningar eða horfa á kennslumyndband? Veldu annaðhvort **Skriflegar leiðbeiningar** eða **Kennslumyndband** hér fyrir neðan.
 
-#### Skriflegar leiðbeiningar - Límmiði
+### Skriflegar leiðbeiningar - Límmiði
 
 !!! info "Skriflegar leiðbeiningar um gerð límmiða"
 
@@ -70,7 +69,7 @@
 
     ![ ](img_grunnskolar/Picture9_600x159.jpg)
 
-#### Kennslumyndband - límmiði
+### Kennslumyndband - límmiði
 
 !!!Tip "Myndband"
 
@@ -82,9 +81,9 @@
 
     **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
 
-### Verkefni 2 - lyklakippa
+## Verkefni 2 - lyklakippa
 
-#### Skriflegar leiðbeiningar - lyklakippa
+### Skriflegar leiðbeiningar - lyklakippa
 
 !!!Tip "Leiðbeiningar um gerð lyklakippu"
 
@@ -92,7 +91,7 @@
 
     **Athugið að þið þurfið að hafa gatið stærra en það sem gert er í leiðbeiningunum svo lyklakippuhringirnir okkar passi í það. Hafið það 4mm en ekki 3mm.** 
 
-#### Kennslumyndband - lyklakippa
+### Kennslumyndband - lyklakippa
 
 !!! Tip "Kennslumyndband um gerð lyklakippu"
 
@@ -100,19 +99,19 @@
 
     ![ ](img_grunnskolar/Lyklakippa1_300x225.jpg)       ![ ](img_grunnskolar/Lyklakippa2_300x225.jpg)
 
-### Verkefni 3 - Tinkercad
+## Verkefni 3 - Tinkercad
 
 !!! Info "Að fara inn á Tinkercad"
 
     Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass). Smellið á **Join class**. Skrifið lykilorðið sem kennarinn skrifaði upp á töflu.  
 
-#### Skriflegar leiðbeiningar - Tinkercad
+### Skriflegar leiðbeiningar - Tinkercad
 
 !!! Info "Leiðbeiningar í bók"
 
     Smellið á hlekkinn [hér](https://www.fabmennt.com/_files/ugd/0ebced_95d0764011804945837e85c2906135c7.pdf). Lesið blaðsíðu 6 og vinnið svo verkefni 1 sem byrjar á blaðsíðu 7. Það kallast **Smíðum kofa**.
 
-#### Kennslumyndband - Tinkercad
+### Kennslumyndband - Tinkercad
 
 !!! Info "Kennslumyndband"
 
@@ -120,8 +119,7 @@
 
     ![ ](img_grunnskolar/Tinkercad_Hus.jpg)
 
-### Verkefni 4 - meira um það seinna
+## Verkefni 4 - meira um það seinna
 
 
 
-## 10. bekkur
