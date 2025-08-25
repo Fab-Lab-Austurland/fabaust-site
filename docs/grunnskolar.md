@@ -39,6 +39,10 @@
 
 ### Verkefni 1 - Að búa til límmiða
 
+Hvort finnst þér betra að lesa leiðbeiningar eða horfa á kennslumyndband? Veldu annaðhvort **Skriflegar leiðbeiningar** eða **Kennslumyndband** hér fyrir neðan.
+
+#### Skriflegar leiðbeiningar - límmiði
+
 Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). Lesið samt fyrst upplýsingarnar hér fyrir neðan. *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík*
 
 !!!Tip "Tvö mikilvæg atriði"
@@ -58,7 +62,11 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     Stundum lítur þetta öðruvísi út í tölvum (sjá hér fyrir neðan). Þá þarf að skrifa 1 í alla fjóra gluggana og smella svo á ,,Laga síðu að teikningu eða vali“ (Resize page to content).
 
-![ ](img_grunnskolar/Picture9.jpg)
+![ ](img_grunnskolar/Picture9_600x159.jpg)
+
+
+#### Kennslumyndband - límmiði
+
 
 
 ### Verkefni 2
