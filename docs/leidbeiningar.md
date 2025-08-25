@@ -72,6 +72,8 @@
 
 ### Þrívíddarhönnun og þrívíddarprentun
 
+#### Tinkercad
+
 !!! Example "Leiðbeiningar um þrívíddarprentun og hönnun þrívíðra hluta"
     
     Smellið [hér](https://www.fabmennt.com/leidbeiningar3d) til að skoða leiðbeiningar um hvernig hægt er að hanna þrívíða hluti og prenta þá út. *Höfundur: Hafey Viktoría Hallgrímsdóttir.*
@@ -84,18 +86,23 @@
     
     Á vefsíðu Fab Lab Ísland er að finna kennslumyndbönd um þrívíddarhönnun í Tinkercad. Smellið [hér](https://fablab.is/fablab-kennsluefni/hugbunadur/tinkercad/) til að skoða leiðbeiningar um hvernig hægt er að hanna þrívíða hluti í Tinkercad forritinu. *Höfundur: Vilhjálmur Magnússon.*
 
+#### SketchUp
+
 !!! Example "Kennslumyndbönd um þrívíddarhönnun í SketchUp"
     
     Á vefsíðu Fab Lab Ísland er að finna kennslumyndbönd um þrívíddarhönnun í SketchUp. Smellið [hér](https://fablab.is/fablab-kennsluefni/hugbunadur/sketchup/) til að skoða leiðbeiningar um hvernig hægt er að hanna þrívíða hluti í SketchUp forritinu. *Höfundur: Vilhjálmur Magnússon.*
+
+#### Fusion 360
 
 !!! Example "Kennslumyndbönd um þrívíddarhönnun í Fusion 360"
     
     Á vefsíðu Fab Lab Ísland er að finna kennslumyndbönd um þrívíddarhönnun í Fusion 360. Smellið [hér](https://fablab.is/fablab-kennsluefni/hugbunadur/sketchup/) til að skoða leiðbeiningar um hvernig hægt er að hanna þrívíða hluti í Fusion 360 forritinu. *Höfundur: Vilhjálmur Magnússon.*
 
+#### Slicer for Fusion 360
+
 !!! Example "Kennslumyndband um notkun Slicer for Fusion 360"
     
     Á vefsíðu Fab Lab Ísland er að finna kennslumyndbönd um hvernig hægt sé að umbreyta þrívíddarskrám þannig að módel sé sneitt niður. Smellið [hér](https://fablab.is/fablab-kennsluefni/hugbunadur/sketchup/) til að skoða leiðbeiningar um hvernig hægt er að umbreyta þrívíðum hlut í sneiðar í Slicer for Fusion 360 forritinu. *Höfundur: Vilhjálmur Magnússon.*
-
 
 
 
