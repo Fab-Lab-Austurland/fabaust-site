@@ -71,7 +71,8 @@ nav:
 - Heim: index.md
 - Um smiðjuna: um_smidjuna.md
 - Búnaður/Leiðbeiningar: leidbeiningar.md
-- Grunnskólar: grunnskolar.md
+- 9. bekkur: 9bekkur.md
+- 10. bekkur: 10bekkur.md
 - Framhaldsskóli: framhaldsskoli.md
 
 use_directory_urls: true  
