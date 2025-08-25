@@ -45,7 +45,7 @@
 
 #### Skriflegar leiðbeiningar - límmiði
 
-Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). Lesið samt fyrst upplýsingarnar hér fyrir neðan. *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík*
+Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). Lesið samt fyrst upplýsingarnar hér fyrir neðan. *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
 
 !!!Tip "Tvö mikilvæg atriði"
 
@@ -81,9 +81,17 @@ Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_
 
     **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
 
-### Verkefni 2
+### Verkefni 2 - Að búa til lyklakippu
 
+#### Skriflegar leiðbeiningar
 
+!!!Tip "Leiðbeiningar um gerð lyklakippu"
+
+    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
+
+    **Athugið að þið þurfið að hafa gatið stærra en það sem gert er í leiðbeiningunum svo lyklakippuhringirnir okkar passi í það. Hafið það 4mm en ekki 3mm.** 
+
+    ![ ](img_grunnskolar/Lyklakippa1_300x225.jpg)
 
 ### Verkefni 3
 
