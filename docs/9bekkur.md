@@ -123,3 +123,15 @@
 
 
 
+## Kom upp vandamál?
+
+### Hönnunin hverfur þegar ég stilli línuþykktina á 0,02mm
+
+
+### Ekkert gerist þegar form er teiknað í Inkscape
+
+
+### Vélin sker ekki skurðarlínurnar
+
+
+
