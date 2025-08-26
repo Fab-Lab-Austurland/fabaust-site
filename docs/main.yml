@@ -21,4 +21,4 @@ jobs:
       - run: pip install mkdocs-material
       - run: pip install pillow cairosvg
       - run: pip install mkdocs-pdf
-      - run: mkdocs gh-deploy --force --clean --custom-domain fabaust.is
+      - run: mkdocs gh-deploy --force
