@@ -44,6 +44,8 @@
 
     Það er líklegt að þú hafir búið til límmiða áður en þetta er mikilvæg upprifjun og því vinna allir þetta verkefni. Hafðu í huga að það er hægt að búa til allt mögulegt. Þú getur til dæmis búið til límmiða á tölvuna þína, límmiða á veggi, fatalímmiða og endurskinsmerki.
 
+    Hægt er að skoða hugmyndir á Pinterest [hér](https://www.pinterest.com/hannesdttir/l%C3%ADmmi%C3%B0ar/).
+
 !!!question "Hvaða aðferð finnst þér best?"
 
     Hvort finnst þér betra að lesa leiðbeiningar eða horfa á kennslumyndband? Veldu annaðhvort **Skriflegar leiðbeiningar** eða **Kennslumyndband** hér fyrir neðan.
