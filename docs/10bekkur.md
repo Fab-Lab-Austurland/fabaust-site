@@ -37,9 +37,55 @@
 
     ![Viðmót - íslenska](img_grunnskolar/Vidmot_Islenska300x261.jpg)            ![Interface - enska](img_grunnskolar/Interface_Language300x262.jpg)
 
-## Verkefni 1
+
+## Verkefni 1 - Límmiði
+
+!!!success "Mikilvæg upprifjun"
+
+    Það er líklegt að þú hafir búið til límmiða áður en þetta er mikilvæg upprifjun og því vinna allir þetta verkefni. Hafðu í huga að það er hægt að búa til allt mögulegt. Þú getur til dæmis búið til límmiða á tölvuna þína, límmiða á veggi, fatalímmiða og endurskinsmerki.
+
+!!!question "Hvaða aðferð finnst þér best?"
+
+    Hvort finnst þér betra að lesa leiðbeiningar eða horfa á kennslumyndband? Veldu annaðhvort **Skriflegar leiðbeiningar** eða **Kennslumyndband** hér fyrir neðan.
+
+### Skriflegar leiðbeiningar - Límmiði
+
+!!! info "Skriflegar leiðbeiningar um gerð límmiða"
+
+    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). Lesið samt fyrst upplýsingarnar hér fyrir neðan. *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
+
+!!!Tip "Tvö mikilvæg atriði"
+
+    Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S**
+
+    **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
+
+!!!Tip "Eitt mikilvæg atriði til viðbótar"
+
+    Þegar hönnunin er tilbúin er blaðsíðan oft stærri en það sem þið ætlið að búa til. Þá er gott að minnka blaðsíðuna til að efnið nýtist betur. Það gerið þið svona:
+
+    Smellið á **Skrá (File) og Skráareiginleikar (Document Properties)**. Það er líka hægt að hægrismella á skjáinn og velja **Eiginleikar skjals (Document properties)**. Smellið svo á litla hnappinn hægra megin við **Aðlaga stærð að innihaldi (Resize to content).** Þá minnkar hvíta svæðið þannig að það passar nákvæmlega utan um hönnunina. Svo þarf að stækka það aðeins með því að smella þrisvar sinnum á báða plúsana.
+
+    ![](img_grunnskolar/Picture7.png)       ![ ](img_grunnskolar/Picture8.png)
 
 
+!!!Tip "Mismundandi útlit í tölvum"
+
+    Stundum lítur þetta öðruvísi út í tölvum (sjá hér fyrir neðan). Þá þarf að skrifa 1 í alla fjóra gluggana og smella svo á ,,Laga síðu að teikningu eða vali“ (Resize page to content).
+
+    ![ ](img_grunnskolar/Picture9_600x159.jpg)
+
+### Kennslumyndband - límmiði
+
+!!!Tip "Myndband"
+
+    Myndbandið hér [hér](https://www.fabmennt.com/myndbondvinyl?wix-vod-video-id=db87a908a65e4c71819b4b41228c9e97&wix-vod-comp-id=comp-l028k5p5) sýnir hvernig límmiði er búinn til. *Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík*
+
+    ![ ](img_grunnskolar/Myndband_Limmidi600x297.jpg)
+
+    Munið að vista verkefnið reglulega með því að ýta á **Skrá og Vista**  eða **File og Save**. Þið getið líka vistað með því að **halda inni CTRL takkanum og ýta á bókstafinn S.**
+
+    **Athugið að vista verkefnið í lokin bæði sem Inskcape skjal (með endingunni .svg) og PDF skjal (með endingunni .pdf).** 
 
 ## Verkefni 2
 
