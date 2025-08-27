@@ -161,7 +161,7 @@
 
 !!! bug "Þriðja athugun"
 
-    Athugaðu hvort það er búið að stilla **Alpha (Alpha channel)** á 0. Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst undir stillingunum fyrir liti bæði undir flipanum fyrir **fyllingu** og **lit útlínu** í Inkscape.
+    Athugaðu hvort það er búið að stilla **Alpha (Alpha channel)** á 0. Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst undir stillingunum fyrir liti bæði undir flipanum fyrir **fyllingu** og **lit útlínu** í Inkscape. Hún er merkt með bókstafnum **A**.
 
     ![ ](img_grunnskolar/AlphaChannel500x233.jpg)
 
