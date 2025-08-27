@@ -58,7 +58,7 @@
 
     - Ath! Best er að vista oft á meðan þú vinnur verkefnið, svo upplýsingar glatist ekki.
 
-
+    ![ ](img_grunnskolar/FabServer.JPG)
 
 ### Að velja rétta möppu þegar vistað er í Inkscape
 
