@@ -145,8 +145,9 @@
 
     Staðsettu músina þína aðeins fyrir ofan og til vinstri við svæðið sem þú varst að teikna á. Haltu músarnappnum niðri og dragðu músina á ská niður yfir allt svæðið sem þú teiknaðir á. Þannig ertu að veiða formið/velja það. Smelltu svo á **Hlutur** og svo **Fylling og útlína**. Kveiktu á fyllingunni svona:
 
-
     Birtist formið núna? Það er vegna þess að það var slökkt á fyllingunni og línunni en núna er kveikt á fyllingunni.
+   
+    ![ ](img_grunnskolar/FyllingOn500x191.jpg)
 
 !!! bug "Athugaðu þetta ef þú sást ekkert við fyrstu athugun"
 
