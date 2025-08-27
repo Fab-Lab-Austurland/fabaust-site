@@ -139,7 +139,7 @@
 
 !!! Info "Að fara inn á Tinkercad"
 
-    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass). Smellið á **Join class**. Skrifið lykilorðið sem kennarinn skrifaði upp á töflu.  
+    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/GPTTPEYDR). Smellið á **Join class**. Skrifið lykilorðið sem kennarinn skrifaði upp á töflu.  
 
     ![ ](img_grunnskolar/JoinClass500x284.jpg)
 
