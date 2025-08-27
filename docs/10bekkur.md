@@ -1,6 +1,5 @@
 # 10. bekkur
 
-
 ## Að nota Inkscape forritið
 
 ![ ](img_grunnskolar/InkscapeLogo_300x150.png)
@@ -22,7 +21,7 @@
 
     ![ ](img_grunnskolar/Picture6.png)
 
-## Að skipta um tungumál í Inkscape
+### Að skipta um tungumál í Inkscape
 
 !!! Tip "Íslenska eða annað tungumál"
 
@@ -36,6 +35,38 @@
     Því næst smellið þið á Viðmót (á ensku er það Interface) og þá sjáið þið hvar þið getið valið tungumál. Munið svo að loka forritinu og opna það aftur.
 
     ![Viðmót - íslenska](img_grunnskolar/Vidmot_Islenska300x261.jpg)            ![Interface - enska](img_grunnskolar/Interface_Language300x262.jpg)
+
+## Að vista verkefnin á réttum stað
+
+!!!Example "Búðu til möppu fyrir þig ef þú átt ekki möppu"
+
+    - Smelltu á **gula möpputáknið** neðst á skjánum. 
+
+    - Smelltu svo á  **Desktop**. 
+
+    - Næst smellir þú á **Fab Server** táknið sem er eins og gula mappan nema með grænum lit líka.  
+
+    - Smelltu á **Grunnskólar haust 2025**.
+
+    - Smelltu á **10. bekkur**.
+    
+    - Hægrismelltu á skjáinn og veldu **Nýtt (New)** og svo **Mappa (Folder)**
+    
+    - Merktu möppuna með þínu nafni.
+
+    - Ath! Best er að vista oft á meðan þú vinnur verkefnið, svo upplýsingar glatist ekki.
+
+!!!Example "Vistaðu Inkscape verkefnin þín í réttri möppu"
+
+    Þegar þú vistar verkefnin skaltu passa að þau séu að vistast í þinni möppu en ekki möppu sem einhver annar á. Þú gerir þetta svona:
+
+    - Farðu í **Skrá (File)** og veldu **Vista sem (Save As)**. 
+    
+    - Veldu möppuna sem þú vilt vista verkefnið í. 
+
+    - Smelltu á **Vista (Save)**.
+
+    - Ath! Best er að vista oft á meðan þú vinnur verkefnið, svo upplýsingar glatist ekki.
 
 
 ## Verkefni 1 - Límmiði
