@@ -181,11 +181,15 @@
 
     Opnaðu hönnunina þína í Inkscape. Veldu hönnunina. Smelltu á **Hlutur** og svo **Fylling og útlína**. Smelltu á flipann sem er merktur sem **Stíll útlínu (stroke style)**. Athugaðu hvort línuþykktin er stillt á 0.02mm. Ef talan er önnur þarftu að breyta henni í 0.02. Svo þarftu að vista þetta aftur sem PDF skjal. Ef þú færð meldingu um að það sé ekki hægt, getur verið að gamla PDF skjalið sé enn opið. Þú þarft að loka því svo það sé hægt að vista breytingarnar.
 
+    ![ ](img_grunnskolar/StrokeStyle500x130.jpg)
+
+
 !!! bug "Athugaðu þetta ef þú sást ekkert við fyrstu athugun"
 
     Athugaðu hvort það er búið að stilla **ógegnsæi(opacity)** á 0. Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst til hægri í Inkscape.
 
     Vill vélin loksins skera? Vélin vill alls ekki nota línur með gegnsæi, jafnvel þó **ógegnsæi (opacity)** sé stillt á 99% er það nóg til að vélin geti skorið línuna. Passaðu því að skurðarlínur séu alltaf stilltar á 100%.
 
+    ![ ](img_grunnskolar/StrokeStyle500x130.jpg)
 
 
