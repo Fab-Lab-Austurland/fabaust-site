@@ -149,6 +149,9 @@
     Athugaðu hvort það stendur 0,020 eða 0.000 í reitnum þar sem þú breyttir línunni. Ef það stendur 0.000 skaltu prófa að nota punkt en ekki kommu þegar þú skrifar aftur 0.020. Í sumum tölvum þarf að nota punkt. Vonandi birtist hönnunin þín við þetta.
 
     Kannski gleymdir þú bara að stilla **stíl útlínu (stroke style)** á 0,02. Kannski minnkaðir eða stækkaðir þú hönnunina eftir að búið var að stilla línuþykktina. Þá breytist þykktin á línunni. Mundu því að stilla alltaf línuþykktina upp á nýtt ef þú breytir stærðinni á einhverju í hönnuninni.
+    
+    ![ ](img_grunnskolar/StrokeStyle500x130.jpg)
+
 
 ### Ekkert gerist þegar form er teiknað í Inkscape
 
