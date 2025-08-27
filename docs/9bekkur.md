@@ -119,7 +119,7 @@
 
     ![ ](img_grunnskolar/Tinkercad_Hus.jpg)
 
-## Verkefni 4 - meira um það seinna
+## Verkefni 4 - verkefni að eigin vali
 
 !!! Info "Upplýsingar koma seinna"
 
@@ -153,6 +153,14 @@
     Athugaðu hvort það er búið að stilla **ógegnsæi(opacity)** á 0. Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst til hægri í Inkscape.
 
     Birtist formið núna? Það er vegna þess að liturinn var gegnsær en núna er hluturinn ekki gegnsær lengur. 
+
+    ![ ](img_grunnskolar/Opacity500x126.jpg)
+
+!!! bug "Þriðja athugun"
+
+    Athugaðu hvort það er búið að stilla **Alpha (Alpha channel)** á 0. Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst undir stillingunum fyrir liti bæði undir flipanum fyrir **fyllingu** og **lit útlínu** í Inkscape.
+
+    ![ ](img_grunnskolar/AlphaChannel500x233.jpg)
 
 ### Vélin sker ekki skurðarlínurnar
 
