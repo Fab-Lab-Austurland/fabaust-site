@@ -130,9 +130,11 @@
 
     ![ ](img_grunnskolar/Tinkercad_Hus.jpg)
 
-## Verkefni 4
+## Verkefni 4 - meira um það seinna
 
+!!! Info "Upplýsingar koma seinna"
 
+    Meira seinna.
 
 ## Kom upp vandamál?
 
