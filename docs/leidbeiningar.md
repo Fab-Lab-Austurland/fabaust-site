@@ -12,7 +12,7 @@
 
 !!! Info "Að opna Inkscape"
 
-    Tvísmellið á Inkscape táknið til að opna forritið. Ef þið sjáið ekki táknið getið þið skrifað Inkscape í leitargluggann neðst á skjánum og tvísmellt svo á táknið þegar það birtist.
+    Ef þið sjáið ekki táknið getið þið skrifað Inkscape í leitargluggann neðst á skjánum.
 
     ![Leitargluggi](img_grunnskolar/Picture5.png)
 
@@ -26,7 +26,7 @@
 
 !!! Tip "Íslenska eða annað tungumál"
 
-    Það er hægt að skipta um tungumál í Inkscape en það þarf að loka forritinu þegar búið er að skipta um tungumál og opna forritið svo aftur. Smellið á Breyta og svo Kjörstillingar. Hér fyrir neðan sjáið þið hvernig þetta lítur út þegar forritið er stillt á íslensku og þegar það er stillt á ensku.
+    Það er hægt að skipta um tungumál í Inkscape en **það þarf að loka forritinu þegar búið er að skipta um tungumál og opna forritið svo aftur**. Smellið á **Breyta** og svo **Kjörstillingar**. Hér fyrir neðan sjáið þið hvernig þetta lítur út þegar forritið er stillt á íslensku og þegar það er stillt á ensku.
 
     ![Breyta - Kjörstillingar](img_grunnskolar/Breyta_Kjörstillingar310x485.jpg)           ![Edit - Preferences](img_grunnskolar/Edit_Preferences300x488.jpg)
 
