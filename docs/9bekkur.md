@@ -38,6 +38,8 @@
 
 ## Að vista verkefnin á réttum stað
 
+### Að búa til möppu
+
 !!!Example "Búðu til möppu fyrir þig ef þú átt ekki möppu"
 
     - Smelltu á **gula möpputáknið** neðst á skjánum. 
@@ -55,6 +57,8 @@
     - Merktu möppuna með þínu nafni.
 
     - Ath! Best er að vista oft á meðan þú vinnur verkefnið, svo upplýsingar glatist ekki.
+
+### Að velja rétta möppu þegar vistað er í Inkscape
 
 !!!Example "Vistaðu Inkscape verkefnin þín í réttri möppu"
 
@@ -177,7 +181,7 @@
 
 !!! bug "Fyrsta athugun"
 
-    Staðsettu músina þína aðeins fyrir ofan og til vinstri við svæðið sem þú varst að teikna á. Haltu músarnappnum niðri og dragðu músina á ská niður yfir allt svæðið sem þú teiknaðir á. Þannig ertu að veiða formið/velja það. Smelltu svo á **Hlutur** og svo **Fylling og útlína**. Kveiktu á fyllingunni svona:
+    Staðsettu músina þína aðeins fyrir ofan og til vinstri við svæðið sem þú varst að teikna á. Haltu músarhnappnum niðri og dragðu músina á ská niður yfir allt svæðið sem þú teiknaðir á. Þannig ertu að veiða formið/velja það. Smelltu svo á **Hlutur** og svo **Fylling og útlína**. Kveiktu á fyllingunni svona:
 
     Birtist formið núna? Það er vegna þess að það var slökkt á fyllingunni og línunni en núna er kveikt á fyllingunni.
    
@@ -210,7 +214,7 @@
 
     Athugaðu hvort það er búið að stilla **ógegnsæi(opacity)** á 0. Þá þarf að draga stikuna upp í 100%. Þú finnur þessa stiku neðst til hægri í Inkscape.
 
-    Vill vélin loksins skera? Vélin vill alls ekki nota línur með gegnsæi, jafnvel þó **ógegnsæi (opacity)** sé stillt á 99% er það nóg til að vélin geti skorið línuna. Passaðu því að skurðarlínur séu alltaf stilltar á 100%.
+    Vélin vill alls ekki nota línur með gegnsæi, jafnvel þó **ógegnsæi (opacity)** sé bara pínulítið og næstum því 100%, til dæmis stillt á 99%, er það nóg til að vélin geti ekki skorið línuna. Passaðu því að skurðarlínur séu alltaf stilltar á 100%.
 
     ![ ](img_grunnskolar/Opacity500x126.jpg) 
 
