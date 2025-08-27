@@ -149,9 +149,9 @@
 
 !!! Info "Að fara inn á Tinkercad"
 
-    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass). Smellið á **Join class**. Skrifið lykilorðið sem kennarinn skrifaði upp á töflu. 
+    Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/DA2REYMTH). Smellið á bláa hnappinn og skrifið notendanafnið ykkar. Notendanafnið er nafnið ykkar og eftirnafnið - allt með lágstöfum (litlum stöfum) og ekkert bil á milli nafnanna. Ef þið heitið tveimur nöfnum eða fleirum eigið þið bara að nota fyrsta nafnið og svo eftirnafnið.
 
-    ![ ](img_grunnskolar/JoinClass500x284.jpg)     
+         
 
 ### Skriflegar leiðbeiningar - Tinkercad
 
