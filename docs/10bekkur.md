@@ -48,15 +48,17 @@
 
     - Næst smellir þú á **Fab Server** táknið sem er eins og gula mappan nema með grænum lit líka.  
 
-    - Smelltu á **Grunnskólar haust 2025**.
+    - Smelltu á **Grunnskólar 2025**.
 
-    - Smelltu á **10. bekkur**.
+    - Smelltu á **Verkvit**.
     
     - Hægrismelltu á skjáinn og veldu **Nýtt (New)** og svo **Mappa (Folder)**
     
     - Merktu möppuna með þínu nafni.
 
     - Ath! Best er að vista oft á meðan þú vinnur verkefnið, svo upplýsingar glatist ekki.
+
+
 
 ### Að velja rétta möppu þegar vistað er í Inkscape
 
