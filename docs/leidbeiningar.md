@@ -36,7 +36,9 @@
 
     ![Viðmót - íslenska](img_grunnskolar/Vidmot_Islenska300x261.jpg)            ![Interface - enska](img_grunnskolar/Interface_Language300x262.jpg)
 
-## Kennslubækur, kennslumyndbönd og leiðbeiningar
+## Að búa til límmiða, fatalímmiða, endurskinsmerki og gluggafilmur
+
+### Kennslubækur og myndbönd
 
 !!! Example "Skapandi námssamfélag og Fab Lab Reykjavík"
     
@@ -50,8 +52,6 @@
 
     ![ ](img_grunnskolar/Leiðbeiningar500x346.jpg)
 
-### Vínylskeri - límmiðar, fatalímmiðar, endurskinsmerki og gluggafilmur
-
 !!! Example "Leiðbeiningar um gerð límmiða, fatalímmiða og gluggafilmu"
     
     Smellið [hér](https://www.fabmennt.com/leidbeiningarvinyl) til að skoða leiðbeiningar um hvernig hægt er að búa til límmiða, fatalímmiða, endurskinsmerki og gluggafilmu í vínylskera. *Höfundar: Hafey Viktoría Hallgrímsdóttir og Þóra Óskarsdóttir.*
@@ -60,7 +60,20 @@
     
     Smellið [hér](https://www.fabmennt.com/myndbondvinyl) til að skoða kennslumyndbönd um hvernig hægt er að búa til límmiða, fatalímmiða, endurskinsmerki og gluggafilmu í vínylskera. *Höfundar: Andri Sæmundsson og Hafey Viktoría Hallgrímsdóttir.*
 
-### Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
+### Nokkur verkefni
+
+#### Að búa til mynstur (límmiðar/fatalímmiðar og fleira)
+
+!!!Info "Að finna mynd á netinu"
+
+    * Bætið orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið * ykkar til að fá skýra, svart/hvíta mynd. 
+    
+    Smellið á **Mynd (Image)**
+
+
+
+
+## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
 
 !!! Example "Leiðbeiningar um gerð glasamottu, Halloween skreytinga, lyklakippu, jólaskrauts og fleira"
     
