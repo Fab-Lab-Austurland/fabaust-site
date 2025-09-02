@@ -12,13 +12,13 @@
 
 !!! Info "Að opna Inkscape"
 
-    Ef þið sjáið ekki táknið getið þið skrifað Inkscape í leitargluggann neðst á skjánum.
+    Ef þú sérð ekki táknið getur þú skrifað Inkscape í leitargluggann neðst á skjánum.
 
     ![Leitargluggi](img_grunnskolar/Picture5.png)
 
 !!! Info "Tvísmellið á táknið"
 
-    Tvísmellið svo á táknið þegar þið sjáið það. Stundum er forritið lengi að opnast svo það er gott að bíða smástund til að sjá hvort það opnist. Annars tvísmellið þið aftur.
+    Tvísmelltu svo á táknið þegar þú sérð það. Stundum er forritið lengi að opnast svo það er gott að bíða smástund til að sjá hvort það opnist. Annars tvísmellir þú aftur.
 
     ![ ](img_grunnskolar/Picture6.png)
 
@@ -26,13 +26,13 @@
 
 !!! Tip "Íslenska eða annað tungumál"
 
-    Það er hægt að skipta um tungumál í Inkscape en **það þarf að loka forritinu þegar búið er að skipta um tungumál og opna forritið svo aftur**. Smellið á **Breyta** og svo **Kjörstillingar**. Hér fyrir neðan sjáið þið hvernig þetta lítur út þegar forritið er stillt á íslensku og þegar það er stillt á ensku.
+    Það er hægt að skipta um tungumál í Inkscape en **það þarf að loka forritinu þegar búið er að skipta um tungumál og opna forritið svo aftur**. Smelltu á **Breyta** og svo **Kjörstillingar**. Hér fyrir neðan sérðu hvernig þetta lítur út þegar forritið er stillt á íslensku og þegar það er stillt á ensku.
 
     ![Breyta - Kjörstillingar](img_grunnskolar/Breyta_Kjörstillingar310x485.jpg)           ![Edit - Preferences](img_grunnskolar/Edit_Preferences300x488.jpg)
 
 !!! Tip "Íslenska eða annað tungumál - framhald"
 
-    Því næst smellið þið á Viðmót (á ensku er það Interface) og þá sjáið þið hvar þið getið valið tungumál. Munið svo að loka forritinu og opna það aftur.
+    Því næst smellir þú á Viðmót (á ensku er það Interface) og þá sérðu hvar þú getur valið tungumál. Mundu svo að loka forritinu og opna það aftur.
 
     ![Viðmót - íslenska](img_grunnskolar/Vidmot_Islenska300x261.jpg)            ![Interface - enska](img_grunnskolar/Interface_Language300x262.jpg)
 
@@ -54,11 +54,11 @@
 
 !!! Example "Leiðbeiningar um gerð límmiða, fatalímmiða og gluggafilmu"
     
-    Smellið [hér](https://www.fabmennt.com/leidbeiningarvinyl) til að skoða leiðbeiningar um hvernig hægt er að búa til límmiða, fatalímmiða, endurskinsmerki og gluggafilmu í vínylskera. *Höfundar: Hafey Viktoría Hallgrímsdóttir og Þóra Óskarsdóttir.*
+    Smelltu [hér](https://www.fabmennt.com/leidbeiningarvinyl) til að skoða leiðbeiningar um hvernig hægt er að búa til límmiða, fatalímmiða, endurskinsmerki og gluggafilmu í vínylskera. *Höfundar: Hafey Viktoría Hallgrímsdóttir og Þóra Óskarsdóttir.*
 
 !!! Example "Myndbönd um gerð límmiða, fatalímmiða og gluggafilmu"
     
-    Smellið [hér](https://www.fabmennt.com/myndbondvinyl) til að skoða kennslumyndbönd um hvernig hægt er að búa til límmiða, fatalímmiða, endurskinsmerki og gluggafilmu í vínylskera. *Höfundar: Andri Sæmundsson og Hafey Viktoría Hallgrímsdóttir.*
+    Smelltu [hér](https://www.fabmennt.com/myndbondvinyl) til að skoða kennslumyndbönd um hvernig hægt er að búa til límmiða, fatalímmiða, endurskinsmerki og gluggafilmu í vínylskera. *Höfundar: Andri Sæmundsson og Hafey Viktoría Hallgrímsdóttir.*
 
 ### Nokkur verkefni
 
@@ -66,24 +66,42 @@
 
 !!!Info "Að finna mynd á netinu"
 
-    * Bætið orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið ykkar til að fá skýra, svart/hvíta mynd. 
-    
-    * Smellið á **Mynd (Image)**. 
-    * Smellið svo á **Verkfæri (Tools)** 
-    * Veljið Creative Commons leyfið.
+    * Bættu orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið þitt til að fá skýra, svart/hvíta mynd. 
+    * Smelltu á **Mynd (Image)**. 
+    * Smelltu svo á **Verkfæri (Tools)** 
+    * Veldu Creative Commons leyfið.
 
     ![ ](img_grunnskolar/CreativeCommons700x189.jpg)
 
-    * Vistið myndina.
+    * Vistaðu myndina.
 
 
 !!!Info "Að flytja myndina inn í Inkscape"
 
-    * Opnið Inkscape forritið
-    * Veljið **Skrá (File)** og **Flytja inn (Import)**. Veldu myndina og smelltu á **Opna (Open)**
+    * Opnaðu Inkscape forritið
+    * Veldu **Skrá (File)** og **Flytja inn (Import)**. Veldu myndina og smelltu á **Opna (Open)**.
 
 
+!!!Info "Að búa til mynstur í Inkscape"
 
+    * Veldu myndina.
+    * Smelltu á **Breyta (Edit)**, svo **Klóna (Clone)** og að lokum á **Búa til tíglaða klóna (Create tiled clones)**.
+
+    ![ ](img_grunnskolar/CreateTiledClones800x388.jpg)
+
+    * Á myndinn hér fyrir neðan sést hvernig búið er að nota litlu örina hægra megin til að velja **CM: speglun + spegilhliðrun**. Það sést einnig neðarlega að búið er að skrifa 4 raðir og 4 dálka. Útkoman sést á myndinni.  
+
+    ![ ](img_grunnskolar/Tiglar_Speglun_Spegilhlidrun800x545.jpg)
+
+    * Taktu eftir því að það eru örvar í kringum upphaflegu vektormyndina. Hún liggur í raun ofan á mynstrinu sem þú varst að búa til. Dragðu hana til hliðar. Þú getur notað þessa vektormynd til að prófa þig áfram með önnur mynstur. Prófaðu að nota örina og velja aðrar útfærslur
+
+    ![ ](img_grunnskolar/Hlidrun800x393.jpg)
+
+    * Veldu mynstrið sem þú vilt eiga. Hægrismelltu á skjáinn og veldu **Eiginleikar skjals (Document properties)**. 
+    * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
+    * Smelltu þrisvar á báða plúsana.
+    * Færðu mynstrið inn á miðja blaðsíðuna.
+    * vistaðu skjalið sem .svg og sem .pdf.
 
 ## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
 
