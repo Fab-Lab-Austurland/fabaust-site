@@ -66,9 +66,21 @@
 
 !!!Info "Að finna mynd á netinu"
 
-    * Bætið orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið * ykkar til að fá skýra, svart/hvíta mynd. 
+    * Bætið orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið ykkar til að fá skýra, svart/hvíta mynd. 
     
-    Smellið á **Mynd (Image)**
+    * Smellið á **Mynd (Image)**. 
+    * Smellið svo á **Verkfæri (Tools)** 
+    * Veljið Creative Commons leyfið.
+
+    ![ ](img_grunnskolar/CreativeCommons700x189.jpg)
+
+    * Vistið myndina.
+
+
+!!!Info "Að flytja myndina inn í Inkscape"
+
+    * Opnið Inkscape forritið
+    * Veljið **Skrá (File)** og **Flytja inn (Import)**. Veldu myndina og smelltu á **Opna (Open)**
 
 
 
