@@ -97,11 +97,11 @@
 
     ![ ](img_grunnskolar/Hlidrun800x393.jpg)
 
-    * Veldu mynstrið sem þú vilt eiga. Hægrismelltu á skjáinn og veldu **Eiginleikar skjals (Document properties)**. 
+    * Veldu mynstrið sem þú vilt eiga. **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
     * Smelltu þrisvar á báða plúsana.
     * Færðu mynstrið inn á miðja blaðsíðuna.
-    * vistaðu skjalið sem .svg og sem .pdf.
+    * Vistaðu skjalið sem **.svg og sem .pdf.**
 
 ## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
 

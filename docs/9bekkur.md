@@ -144,7 +144,7 @@
 
 !!!Tip "Leiðbeiningar um gerð lyklakippu"
 
-    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf). *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
+    Farið eftir leiðbeiningunum [hér](https://www.fabmennt.com/leidbeiningargeisla). *Leiðbeiningarnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
 
     **Athugið að þið þurfið að hafa gatið stærra en það sem gert er í leiðbeiningunum svo lyklakippuhringirnir okkar passi í það. Hafið það 4mm en ekki 3mm.** 
 
