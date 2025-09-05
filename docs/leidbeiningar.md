@@ -40,17 +40,13 @@
 
 ### Kennslubækur og myndbönd
 
-!!! Example "Skapandi námssamfélag og Fab Lab Reykjavík"
+!!! Example "Leiðbeiningar"
     
-    Á vefsíðunni [Fabmennt.com](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf) er hægt að finna kennslubækur með leiðbeiningum um notkun vínylskera, laserskera (geislaskera) og um þrívíddarhönnun. *Bækurnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.*
+    Á vefsíðunni [Fabmennt.com](https://www.fabmennt.com/) er að finna kennslumyndbönd og leiðbeiningar. Þar er einnig að finna kennslubækur með leiðbeiningum um notkun vínylskera, laserskera (geislaskera) og um þrívíddarhönnun. *Bækurnar gerði Hafey Viktoría Hallgrímsdóttir hjá Fab Lab Reykjavík.
+    
+    ![ ](img_grunnskolar/Leiðbeiningar500x346.jpg)
 
     ![ ](img_grunnskolar/Skapandi500x279.jpg)
-
-!!! Example "Leiðbeiningar hjá Fabmennt"
-    
-    Á vefsíðunni [Fabmennt.com](https://www.fabmennt.com/_files/ugd/0ebced_5a3d811e82fa4290be7d3fb604a5251b.pdf) er einnig hægt að finna kennslumyndbönd og leiðbeiningar. 
-
-    ![ ](img_grunnskolar/Leiðbeiningar500x346.jpg)
 
 !!! Example "Leiðbeiningar um gerð límmiða, fatalímmiða og gluggafilmu"
     
