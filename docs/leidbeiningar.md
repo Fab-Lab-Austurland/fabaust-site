@@ -194,7 +194,7 @@
 
     Veldu næst flipann sem er merktur **Litur útlínu (Stroke paint)** og kveiktu með því að **velja reitinn við hliðina á x-inu**. Stilltu svo rauða litinn á **255**.
 
-    ![ ](img_grunnskolar/SkurdarlinurOgLitirSaman700x481.jpg)
+    ![ ](img_grunnskolar/LiturSkurdarlinu400x269.jpg)
 
     Veldu flipann sem er merktur **Stíll útlínu (Stroke style)** og stilltu breidd línunnar (width) á 0.02 mm.
 
@@ -224,6 +224,8 @@
 
     * Þegar búið er að skera út límmiðana í öllum litum er flutningsfilma notuð til að flytja límmiðabútana ofan á stóra límmiðann. 
     * Látið litla ferhyrninginn passa innan í stóra ferhyrninginn. Þannig lendir allt á réttum stað.
+
+    ![ ](img_grunnskolar/LitirFormSaman348x300.jpg)
 
 ## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
 
