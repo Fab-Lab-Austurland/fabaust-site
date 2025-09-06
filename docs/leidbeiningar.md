@@ -141,8 +141,23 @@
     ![ ](img_grunnskolar/Skull_Image500x306.jpg)
 
 
+!!!Info "Að sundra öllu"
 
-![ ](img_grunnskolar/Marglita_allarLinur.png)
+    * Veldu myndina. 
+    * Smelltu á **Ferill“ (Path)** og veldu **Sundra“ (Break apart)**. Þá verður myndin alveg svört.
+    * Smelltu á **Hlutur“ (Object)** og veldu **Fylling og útlína (Fill and stroke)**.
+    * Smelltu á **Litur útlínu (Stroke paint)** og veldu **Flatur litur (Flat color – sem er skammstafað RGB)** og stilltu rauðan í fullt (255). 
+    * Smelltu á **Stíll útlínu (Stroke style)** og stilltu línurnar á 0.100mm. Þá sjást allar línur vel á meðan unnið er með myndina. **Passaðu svo að muna eftir því að stilla línurnar seinna þannig að þær verði skurðarlínur. Það verður útskýrt betur seinna í verklýsingunni**.
+
+    ![ ](img_grunnskolar/Marglita_allarLinur.png)
+
+!!!Info "Að búa til ferhyrning til viðmiðunar fyrir samsetningu"
+
+    * Smelltu á kassatáknið og teiknaðu lítinn ferhyrning við hliðina á myndinni. 
+    * Teiknaðu svo annan minni ferhyrning innan í. Stærri ferhyrningurinn verður að útlínum fyrir minni ferhyrninginn. Það koma betri útskýringar um notkun kassanna á eftir.
+
+    ![ ](img_grunnskolar/Marglita_ferhyrningar.png)
+
 
 
 ![ ](img_grunnskolar/Marglita_Utlina.png)
