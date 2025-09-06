@@ -107,7 +107,7 @@
 
 #### Að búa til límmiða í mörgum litum
 
-!!!Info "Að finna mynd á netinu"
+!!!Example "Að finna mynd á netinu"
 
     * Bættu orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið þitt til að fá skýra, svart/hvíta mynd. Leitaðu eftir mynd sem hægt er að gera í a.m.k. þremur litum.
     * Smelltu á **Mynd (Image)**. 
@@ -125,12 +125,12 @@
 
     ![ ](<img_grunnskolar/Screenshot 2025-09-06 100530.jpg>)
 
-!!!Info "Að flytja myndina inn í Inkscape"
+!!!Example "Að flytja myndina inn í Inkscape"
 
     * Opnaðu Inkscape forritið
     * Veldu **Skrá (File)** og **Flytja inn (Import)**. Veldu myndina og smelltu á **Opna (Open)**.
 
-!!!Info "Að búa til vektormynd"
+!!!Example "Að búa til vektormynd"
 
     * Veldu **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
     * Þegar smellt er á **Uppfæra (Update)** er sýnt hvernig myndin muni líta út. Reyndar gefur það ekki alltaf nákvæma mynd en oftast virkar það sem **Preview**. 
@@ -140,8 +140,7 @@
 
     ![ ](img_grunnskolar/Skull_Image500x306.jpg)
 
-
-!!!Info "Að sundra öllu"
+!!!Example "Að sundra öllu"
 
     * Veldu myndina. 
     * Smelltu á **Ferill“ (Path)** og veldu **Sundra“ (Break apart)**. Þá verður myndin alveg svört.
@@ -149,27 +148,33 @@
     * Smelltu á **Litur útlínu (Stroke paint)** og veldu **Flatur litur (Flat color – sem er skammstafað RGB)** og stilltu rauðan í fullt (255). 
     * Smelltu á **Stíll útlínu (Stroke style)** og stilltu línurnar á 0.100mm. Þá sjást allar línur vel á meðan unnið er með myndina. **Passaðu svo að muna eftir því að stilla línurnar seinna þannig að þær verði skurðarlínur. Það verður útskýrt betur seinna í verklýsingunni**.
 
-    ![ ](img_grunnskolar/Marglita_allarLinur.png)
+    ![ ](img_grunnskolar/Marglita_allarLinur307x303.jpg)
 
-!!!Info "Að búa til ferhyrning til viðmiðunar fyrir samsetningu"
+!!!Example "Að búa til ferhyrning til viðmiðunar fyrir samsetningu"
 
     * Smelltu á kassatáknið og teiknaðu lítinn ferhyrning við hliðina á myndinni. 
     * Teiknaðu svo annan minni ferhyrning innan í. Stærri ferhyrningurinn verður að útlínum fyrir minni ferhyrninginn. Það koma betri útskýringar um notkun kassanna á eftir.
 
     ![ ](img_grunnskolar/Marglita_ferhyrningar.png)
 
+!!!Example "Að búa til sér skjal fyrir hvern lit"
 
-
-![ ](img_grunnskolar/Marglita_Utlina.png)
-
-
-![ ](img_grunnskolar/Marglita_Hvitur.png)
-
-
-![ ](img_grunnskolar/Marglita_Gulur.png)
+    * Þessi límmiði á að vera í þremur litum og þess vegna þarf að búa til þrjú Inkscape skjöl.
+    * Farðu fyrst í ,,Skrá“ (File) og veldu ,,Vista sem“ (Save as) til að vista fyrsta skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis ,,Hauskúpa_svört“.
+    * Smelltu svo á ,,Skrá“ (File) og veldu ,,Vista sem“ (Save as) til að vista annað skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis ,,Hauskúpa_hvít“.
+    * Farðu svo aftur í ,,Skrá“ (File) og veldu ,,Vista sem“ (Save as) til að vista þriðja skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis ,,Hauskúpa_gul“.
 
 
 
+
+
+
+![ ](img_grunnskolar/Marglita_Gulur318x303.jpg)
+
+![ ](img_grunnskolar/Marglita_Hvitur307x303.jpg)
+
+
+![ ](img_grunnskolar/Marglita_Svartur300x303.jpg)
 
 
 ## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
