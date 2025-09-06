@@ -145,47 +145,65 @@
     * Veldu myndina. 
     * Smelltu á **Ferill“ (Path)** og veldu **Sundra“ (Break apart)**. Þá verður myndin alveg svört.
     * Smelltu á **Hlutur“ (Object)** og veldu **Fylling og útlína (Fill and stroke)**.
-    * Smelltu á **Litur útlínu (Stroke paint)** og veldu **Flatur litur (Flat color – sem er skammstafað RGB)** og stilltu rauðan í fullt (255). 
-    * Smelltu á **Stíll útlínu (Stroke style)** og stilltu línurnar á 0.100mm. Þá sjást allar línur vel á meðan unnið er með myndina. **Passaðu svo að muna eftir því að stilla línurnar seinna þannig að þær verði skurðarlínur. Það verður útskýrt betur seinna í verklýsingunni**.
+    * Smelltu á **Litur útlínu (Stroke paint)** og veldu **Flatur litur (Flat color – sem er skammstafað RGB)** og stilltu **rauðan í fullt (255)**. 
+    * Smelltu á **Stíll útlínu (Stroke style)** og stilltu línurnar á **0.100mm**. Þá sjást allar línur vel á meðan unnið er með myndina. **Passaðu svo að muna eftir því að stilla línurnar seinna þannig að þær verði skurðarlínur. Það verður útskýrt betur seinna í verklýsingunni**.
 
     ![ ](img_grunnskolar/Marglita_allarLinur307x303.jpg)
 
 !!!Example "Að búa til ferhyrning til viðmiðunar fyrir samsetningu"
 
-    * Smelltu á kassatáknið og teiknaðu lítinn ferhyrning við hliðina á myndinni. 
+    * Smelltu á kassatáknið og teiknaðu lítinn ferhyrning við hliðina á myndinni. (Sjá myndina hér fyrir ofan og svo nærmyndina af ferhyrningunum hér fyrir neðan).
     * Teiknaðu svo annan minni ferhyrning innan í. Stærri ferhyrningurinn verður að útlínum fyrir minni ferhyrninginn. Það koma betri útskýringar um notkun kassanna á eftir.
 
     ![ ](img_grunnskolar/Marglita_ferhyrningar.png)
 
 !!!Example "Að búa til sér skjal fyrir hvern lit"
 
-    * Þessi límmiði á að vera í þremur litum og þess vegna þarf að búa til þrjú Inkscape skjöl.
+    * Þessi límmiði á að vera í þremur litum og þess vegna þarf að búa til þrjú Inkscape skjöl. 
+    * Dragðu línurnar í sundur eftir því hvaða liti á að skera. Næst verða þrjú skjöl, eitt fyrir hvern lit, búin til. Eftir það verður línum, sem ekki á að nota, eytt úr hverju skjali.
+    * Hér fyrir neðan sést hvernig búið er að draga línurnar í sundur. Undir línunum eru myndir af límmiðunum sem verða skornir út. Vinstra megin eru línurnar sem eiga að skera gulan, í miðjunni er línan sem á að skera svartan og til hægri eru línurnar sem eiga að skera hvítan.
+
+    ![ ](img_grunnskolar/SkurdarlinurOgLitirSaman700x481.jpg)
+
     * Farðu fyrst í **Skrá (File)** og veldu **Vista sem (Save as)** til að vista fyrsta skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis **Hauskúpa_svört**.
     * Smelltu svo á **Skrá (File)** og veldu **Vista sem (Save as)** til að vista annað skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis **Hauskúpa_hvít**.
     * Farðu svo aftur í **Skrá (File)** og veldu **Vista sem (Save as)** til að vista þriðja skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis **Hauskúpa_gul**.
+ 
+!!!Example "Skjal fyrir gulan"
 
-!!!Example "Að búa til sér skjal fyrir hvern lit"
-
-    * Skoðaðu myndina vel og veldu hvaða svæði hentar sem stærsti límmiðinn sem hinir límmiðarnir (hinir litirnir) verða límdir ofaná. Hér var ákveðið að það væri hentugt að velja svartan sem grunnform og svo yrðu hinir litirnir límdir ofaná.
-    * Skjalið sem heitir **Hauskúpa_svört** var opnað.
+    * Skoðaðu myndina vel og veldu hvaða svæði hentar sem stærsti límmiðinn sem hinir límmiðarnir (hinir litirnir) verða límdir ofaná. Hér var ákveðið að það væri hentugt að velja ystu línuna og nota gulan sem grunn. 
+    * Skjalið sem heitir **Hauskúpa_Gul** var opnað.
     * Þar var öllum línum úr hauskúpunni eytt nema ystu línunni. Hinir litirnir verða svo límdir ofan á þetta form þegar búið er að skera út límmiðana.
     * ATH! Þegar farið var að plokka burtu það sem á ekki að vera hjá þessum límmiða var passað að plokka litla ferhyrninginn innan úr stóra ferhyrningnum.
     * Svo var smellt á **Skrá (File)** og **Skráareiginleikar (Document Properties)**. Svo var smellt á **Aðlaga stærð að innihaldi (Resize to content)** til að nýta efnið vel.
-    * Svo voru skurðarlínur eins og lýst er hér fyrir neðan.
+    * Svo voru skurðarlínur eins og lýst er hér neðar.
 
+!!!Example "Að stilla skurðarlínur"
 
+    Smelltu svo á **Hlutur (Object)** og veldu **Fylling og útlína (Fill and stroke)**. Veldu fyrst flipann sem er merktur **Fylling (Fill)**. Þar á að slökkva á fyllingunni með því að velja **X**.
 
+    ![ ](img_grunnskolar/EnginFylling400x112.jpg)
 
+    Veldu næst flipann sem er merktur **Litur útlínu (Stroke paint)** og kveiktu með því að **velja reitinn við hliðina á x-inu**. Stilltu svo rauða litinn á **255**.
 
+    ![ ](img_grunnskolar/SkurdarlinurOgLitirSaman700x481.jpg)
 
+    Veldu flipann sem er merktur **Stíll útlínu (Stroke style)** og stilltu breidd línunnar (width) á 0.02 mm.
 
-![ ](img_grunnskolar/Marglita_Gulur318x303.jpg)
+    ![ ](img_grunnskolar/StillUtlinu400x98.jpg)
 
-![ ](img_grunnskolar/Marglita_Hvitur307x303.jpg)
+!!!Example "Að stilla síðuna og vista skjalið"
 
+    **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
+    * Veldu myndina.
+    * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
+    * Smelltu þrisvar á báða plúsana.
+    * Færðu myndina inn á miðja blaðsíðuna.
+    * Vistaðu skjalið sem **.svg og sem .pdf.**
 
-![ ](img_grunnskolar/Marglita_Svartur300x303.jpg)
+!!!Example "Að stilla síðuna og vista skjalið"
 
+    **H..
 
 ## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
 
