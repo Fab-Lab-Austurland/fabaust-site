@@ -71,12 +71,18 @@
 
     * Vistaðu myndina.
 
-
 !!!Info "Að flytja myndina inn í Inkscape"
 
     * Opnaðu Inkscape forritið
     * Veldu **Skrá (File)** og **Flytja inn (Import)**. Veldu myndina og smelltu á **Opna (Open)**.
 
+!!!Info "Að búa til vektormynd"
+
+    * Veldu **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
+    * Þegar smellt er á **Uppfæra (Update)** er sýnt hvernig myndin muni líta út. Reyndar gefur það ekki alltaf nákvæma mynd en oftast virkar það sem **Preview**. 
+    * Smellið svo á **Í lagi (Apply)**. Í sumum tölvum stendur **Virkja** en ekki **Í lagi**. 
+    * Vinstri-smelltu með músinni ofan á myndina, haltu takkanum inni og dragðu myndina til hliðar. 
+    * Smellið til skiptis á báðar myndirnar. Þegar það stendur ,,Mynd“ (Image)  neðst á skjánum má eyða þeirri mynd. 
 
 !!!Info "Að búa til mynstur í Inkscape"
 
@@ -98,6 +104,58 @@
     * Smelltu þrisvar á báða plúsana.
     * Færðu mynstrið inn á miðja blaðsíðuna.
     * Vistaðu skjalið sem **.svg og sem .pdf.**
+
+#### Að búa til límmiða í mörgum litum
+
+!!!Info "Að finna mynd á netinu"
+
+    * Bættu orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið þitt til að fá skýra, svart/hvíta mynd. Leitaðu eftir mynd sem hægt er að gera í a.m.k. þremur litum.
+    * Smelltu á **Mynd (Image)**. 
+    * Smelltu svo á **Verkfæri (Tools)** 
+    * Veldu **Creative Commons leyfið**.
+
+    ![ ](img_grunnskolar/CreativeCommonsEngarMyndir500x145.jpg)
+
+    * Vistaðu myndina.
+
+    * Ath! Þú getur líka leitað að mynd í lit en hún verður þá að vera mjög skýr með miklum andstæðum (contrast) á milli litaðra svæða. Þessi mynd hér fyrir neðan var tekin af slóðinni [hér](https://vectorportal.com/vector/skull-sticker/35973)
+
+    Við viljum virða höfundarrétt og á þessari síðu er óskað eftir því að vísað sé í höfundinn og leyfið sem veitt er á þennan hátt:
+    Image by <a href=" https://www.vectorportal.com" >Vectorportal.com</a>,  <a class="external text" href="https://creativecommons.org/licenses/by/4.0/" >CC BY</a>
+
+    ![ ](<img_grunnskolar/Screenshot 2025-09-06 100530.jpg>)
+
+!!!Info "Að flytja myndina inn í Inkscape"
+
+    * Opnaðu Inkscape forritið
+    * Veldu **Skrá (File)** og **Flytja inn (Import)**. Veldu myndina og smelltu á **Opna (Open)**.
+
+!!!Info "Að búa til vektormynd"
+
+    * Veldu **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
+    * Þegar smellt er á **Uppfæra (Update)** er sýnt hvernig myndin muni líta út. Reyndar gefur það ekki alltaf nákvæma mynd en oftast virkar það sem **Preview**. 
+    * Smellið svo á **Í lagi (Apply)**. Í sumum tölvum stendur **Virkja** en ekki **Í lagi**. 
+    * Vinstri-smelltu með músinni ofan á myndina, haltu takkanum inni og dragðu myndina til hliðar. 
+    * Smellið til skiptis á báðar myndirnar. Þegar það stendur ,,Mynd“ (Image)  neðst á skjánum má eyða þeirri mynd. 
+
+    ![ ](img_grunnskolar/Skull_Image500x306.jpg)
+
+
+
+![ ](img_grunnskolar/Marglita_allarLinur.png)
+
+
+![ ](img_grunnskolar/Marglita_Utlina.png)
+
+
+![ ](img_grunnskolar/Marglita_Hvitur.png)
+
+
+![ ](img_grunnskolar/Marglita_Gulur.png)
+
+
+
+
 
 ## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
 
