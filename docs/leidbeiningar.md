@@ -160,9 +160,19 @@
 !!!Example "Að búa til sér skjal fyrir hvern lit"
 
     * Þessi límmiði á að vera í þremur litum og þess vegna þarf að búa til þrjú Inkscape skjöl.
-    * Farðu fyrst í ,,Skrá“ (File) og veldu ,,Vista sem“ (Save as) til að vista fyrsta skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis ,,Hauskúpa_svört“.
-    * Smelltu svo á ,,Skrá“ (File) og veldu ,,Vista sem“ (Save as) til að vista annað skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis ,,Hauskúpa_hvít“.
-    * Farðu svo aftur í ,,Skrá“ (File) og veldu ,,Vista sem“ (Save as) til að vista þriðja skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis ,,Hauskúpa_gul“.
+    * Farðu fyrst í **Skrá (File)** og veldu **Vista sem (Save as)** til að vista fyrsta skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis **Hauskúpa_svört**.
+    * Smelltu svo á **Skrá (File)** og veldu **Vista sem (Save as)** til að vista annað skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis **Hauskúpa_hvít**.
+    * Farðu svo aftur í **Skrá (File)** og veldu **Vista sem (Save as)** til að vista þriðja skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis **Hauskúpa_gul**.
+
+!!!Example "Að búa til sér skjal fyrir hvern lit"
+
+    * Skoðaðu myndina vel og veldu hvaða svæði hentar sem stærsti límmiðinn sem hinir límmiðarnir (hinir litirnir) verða límdir ofaná. Hér var ákveðið að það væri hentugt að velja svartan sem grunnform og svo yrðu hinir litirnir límdir ofaná.
+    * Skjalið sem heitir **Hauskúpa_svört** var opnað.
+    * Þar var öllum línum úr hauskúpunni eytt nema ystu línunni. Hinir litirnir verða svo límdir ofan á þetta form þegar búið er að skera út límmiðana.
+    * ATH! Þegar farið var að plokka burtu það sem á ekki að vera hjá þessum límmiða var passað að plokka litla ferhyrninginn innan úr stóra ferhyrningnum.
+    * Svo var smellt á **Skrá (File)** og **Skráareiginleikar (Document Properties)**. Svo var smellt á **Aðlaga stærð að innihaldi (Resize to content)** til að nýta efnið vel.
+    * Svo voru skurðarlínur eins og lýst er hér fyrir neðan.
+
 
 
 
