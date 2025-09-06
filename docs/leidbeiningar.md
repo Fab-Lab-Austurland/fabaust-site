@@ -74,7 +74,9 @@
 !!!Info "Að flytja myndina inn í Inkscape"
 
     * Opnaðu Inkscape forritið
-    * Veldu **Skrá (File)** og **Flytja inn (Import)**. Veldu myndina og smelltu á **Opna (Open)**.
+    * Veldu **Skrá (File)** og **Flytja inn (Import)**. 
+    * Veldu myndina og smelltu á **Opna (Open)**.
+    * Smelltu á **Í lagi (OK)**.
 
 !!!Info "Að búa til vektormynd"
 
@@ -107,7 +109,7 @@
 
 #### Að búa til límmiða í mörgum litum
 
-!!!Example "Að finna mynd á netinu"
+!!!Example "Að finna mynd á netinu sem hægt er að hafa í nokkrum litum"
 
     * Bættu orðinu **Silhouette** eða **Black and white** fyrir aftan leitarorðið þitt til að fá skýra, svart/hvíta mynd. Leitaðu eftir mynd sem hægt er að gera í a.m.k. þremur litum.
     * Smelltu á **Mynd (Image)**. 
@@ -121,6 +123,7 @@
     * Ath! Þú getur líka leitað að mynd í lit en hún verður þá að vera mjög skýr með miklum andstæðum (contrast) á milli litaðra svæða. Þessi mynd hér fyrir neðan var tekin af slóðinni [hér](https://vectorportal.com/vector/skull-sticker/35973)
 
     Við viljum virða höfundarrétt og á þessari síðu er óskað eftir því að vísað sé í höfundinn og leyfið sem veitt er á þennan hátt:
+
     Image by <a href=" https://www.vectorportal.com" >Vectorportal.com</a>,  <a class="external text" href="https://creativecommons.org/licenses/by/4.0/" >CC BY</a>
 
     ![ ](<img_grunnskolar/Screenshot 2025-09-06 100530.jpg>)
@@ -128,7 +131,9 @@
 !!!Example "Að flytja myndina inn í Inkscape"
 
     * Opnaðu Inkscape forritið
-    * Veldu **Skrá (File)** og **Flytja inn (Import)**. Veldu myndina og smelltu á **Opna (Open)**.
+    * Veldu **Skrá (File)** og **Flytja inn (Import)**. 
+    * Veldu myndina og smelltu á **Opna (Open)**.
+    * Smelltu á **Í lagi (OK)**.
 
 !!!Example "Að búa til vektormynd"
 
@@ -143,8 +148,8 @@
 !!!Example "Að sundra öllu"
 
     * Veldu myndina. 
-    * Smelltu á **Ferill“ (Path)** og veldu **Sundra“ (Break apart)**. Þá verður myndin alveg svört.
-    * Smelltu á **Hlutur“ (Object)** og veldu **Fylling og útlína (Fill and stroke)**.
+    * Smelltu á **Ferill (Path)** og veldu **Sundra (Break apart)**. Þá verður myndin oft alveg svört en þá er til dæmis hægt að slökkva á fyllingunni og kveikja á línunni, sjá hér á eftir.
+    * Smelltu á **Hlutur (Object)** og veldu **Fylling og útlína (Fill and stroke)**.
     * Smelltu á **Litur útlínu (Stroke paint)** og veldu **Flatur litur (Flat color – sem er skammstafað RGB)** og stilltu **rauðan í fullt (255)**. 
     * Smelltu á **Stíll útlínu (Stroke style)** og stilltu línurnar á **0.100mm**. Þá sjást allar línur vel á meðan unnið er með myndina. **Passaðu svo að muna eftir því að stilla línurnar seinna þannig að þær verði skurðarlínur. Það verður útskýrt betur seinna í verklýsingunni**.
 
@@ -160,21 +165,24 @@
 !!!Example "Að búa til sér skjal fyrir hvern lit"
 
     * Þessi límmiði á að vera í þremur litum og þess vegna þarf að búa til þrjú Inkscape skjöl. 
-    * Dragðu línurnar í sundur eftir því hvaða liti á að skera. Næst verða þrjú skjöl, eitt fyrir hvern lit, búin til. Eftir það verður línum, sem ekki á að nota, eytt úr hverju skjali.
-    * Hér fyrir neðan sést hvernig búið er að draga línurnar í sundur. Undir línunum eru myndir af límmiðunum sem verða skornir út. Vinstra megin eru línurnar sem eiga að skera gulan, í miðjunni er línan sem á að skera svartan og til hægri eru línurnar sem eiga að skera hvítan.
+    * Hér fyrir neðan sést hvaða línur skera hvern lit. Undir línunum eru myndir af límmiðunum sem verða skornir út. Vinstra megin eru línurnar sem eiga að skera gulan, í miðjunni er línan sem á að skera svartan og til hægri eru línurnar sem eiga að skera hvítan. **Mikilvægt!: Þessi mynd er einungis sett svona upp til að útskýra. Það má alls ekki færa línurnar í sundur, heldur þarf að vista eitt skjal fyrir hvern lit. Svo má eyða línum en alls ekki færa línurnar!**
 
     ![ ](img_grunnskolar/SkurdarlinurOgLitirSaman700x481.jpg)
 
+    * Vistaðu eitt skjal fyrir hvern lit:
     * Farðu fyrst í **Skrá (File)** og veldu **Vista sem (Save as)** til að vista fyrsta skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis **Hauskúpa_svört**.
     * Smelltu svo á **Skrá (File)** og veldu **Vista sem (Save as)** til að vista annað skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis **Hauskúpa_hvít**.
     * Farðu svo aftur í **Skrá (File)** og veldu **Vista sem (Save as)** til að vista þriðja skjalið í Inkscape. Gefðu skjalinu nafn, til dæmis **Hauskúpa_gul**.
  
-!!!Example "Skjal fyrir gulan"
+!!!Example "Skjal fyrir stærsta límmiðann/grunninn"
 
     * Skoðaðu myndina vel og veldu hvaða svæði hentar sem stærsti límmiðinn sem hinir límmiðarnir (hinir litirnir) verða límdir ofaná. Hér var ákveðið að það væri hentugt að velja ystu línuna og nota gulan sem grunn. 
     * Skjalið sem heitir **Hauskúpa_Gul** var opnað.
-    * Þar var öllum línum úr hauskúpunni eytt nema ystu línunni. Hinir litirnir verða svo límdir ofan á þetta form þegar búið er að skera út límmiðana.
-    * ATH! Þegar farið var að plokka burtu það sem á ekki að vera hjá þessum límmiða var passað að plokka litla ferhyrninginn innan úr stóra ferhyrningnum.
+    * Þar var öllum línum úr hauskúpunni eytt nema ystu línunni. Hinir litirnir voru svo límdir ofan á þetta form þegar búið var að skera út límmiðana.
+    * ATH! Þegar farið var að plokka burtu það sem á ekki að vera hjá þessum límmiða var passað að plokka litla ferhyrninginn innan úr stóra ferhyrningnum. **Semsagt: Í skjalinu fyrir stærsta límmiðann á að plokka litla ferhyrninginn innan úr stóra ferhyrningnum. Hér er það þá ljósblái ferhyrningurinn sem á að plokka burt af límmiðanum.**
+
+    ![ ](img_grunnskolar/Marglita_Plokkad500x357.jpg)
+    
     * Svo var smellt á **Skrá (File)** og **Skráareiginleikar (Document Properties)**. Svo var smellt á **Aðlaga stærð að innihaldi (Resize to content)** til að nýta efnið vel.
     * Svo voru skurðarlínur eins og lýst er hér neðar.
 
@@ -201,9 +209,21 @@
     * Færðu myndina inn á miðja blaðsíðuna.
     * Vistaðu skjalið sem **.svg og sem .pdf.**
 
-!!!Example "Að stilla síðuna og vista skjalið"
+!!!Example "Skjölin fyrir hina litina"
 
-    **H..
+    * Opnaðu hin skjölin með skurðarlínunum fyrir hina litina. 
+    * Eyddu öllum línum sem eiga ekki að vera.
+    * Aðlagaðu stærð skjalsins að innihaldi, eins og gert var í fyrsta skjalinu.
+    * Stilltu skurðarlínur, eins og gert var í fyrsta skjalinu.
+    * Vistaðu skjalið sem **.svg** og sem **.pdf**, eins og í fyrsta skjalinu.
+    * Þegar búið er að skera út límmiðana í þessum litum er stærri ferhyrningurinn plokkaður í burtu (dökkblái ferhyrningurinn sem sést hér fyrir neðan):
+
+    ![ ](img_grunnskolar/Marglita_Plokkad500x357.jpg)
+
+!!!Example "Límmiðabútum raðað saman"
+
+    * Þegar búið er að skera út límmiðana í öllum litum er flutningsfilma notuð til að flytja límmiðabútana ofan á stóra límmiðann. 
+    * Látið litla ferhyrninginn passa innan í stóra ferhyrninginn. Þannig lendir allt á réttum stað.
 
 ## Laserskurðarvél (geislaskeri) - rasterað eða skorið úr plexígleri, timbri og fleiru
 
