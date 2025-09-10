@@ -165,7 +165,7 @@
 !!!Example "Að búa til sér skjal fyrir hvern lit"
 
     * Þessi límmiði á að vera í þremur litum og þess vegna þarf að búa til þrjú Inkscape skjöl. 
-    * Hér fyrir neðan sést hvaða línur skera hvern lit. Undir línunum eru myndir af límmiðunum sem verða skornir út. Vinstra megin eru línurnar sem eiga að skera gulan, í miðjunni er línan sem á að skera svartan og til hægri eru línurnar sem eiga að skera hvítan. **Mikilvægt!: Þessi mynd er einungis sett svona upp til að útskýra. Það má alls ekki færa línurnar í sundur, heldur þarf að vista eitt skjal fyrir hvern lit. Svo má eyða línum en alls ekki færa línurnar!**
+    * Hér fyrir neðan sést hvaða línur skera hvern lit. Undir línunum eru myndir af límmiðunum sem verða skornir út. Vinstra megin eru línurnar sem eiga að skera gulan, í miðjunni er línan sem á að skera svartan og til hægri eru línurnar sem eiga að skera hvítan. Gula hlutann þarf að skera tvisvar vegna þess að litlu bútarnir eiga að vera efst. **Mikilvægt!: Þessi mynd er einungis sett svona upp til að útskýra. Það má alls ekki færa línurnar í sundur, heldur þarf að vista eitt skjal fyrir hvern lit. Svo má eyða línum en alls ekki færa línurnar!**
 
     ![ ](img_grunnskolar/SkurdarlinurOgLitirSaman700x481.jpg)
 
