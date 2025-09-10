@@ -202,7 +202,7 @@
 
 !!!Example "Að stilla síðuna og vista skjalið"
 
-    **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
+    * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Veldu myndina.
     * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
     * Smelltu þrisvar á báða plúsana.
