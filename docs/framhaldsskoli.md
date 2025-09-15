@@ -171,11 +171,38 @@
 
     ![ ](img_grunnskolar/LitirFormSaman348x300.jpg)
 
-    ### Logo
+### Að búa til logo
 
-    [Hér](https://www.youtube.com/watch?v=BI8Nw69Vn5o) er myndband sem sýnir dæmi um hvernig hægt er að breyta letri í Inkscape.
+!!!tip "Logo"
 
-    [Hér](https://www.youtube.com/shorts/em8nQeE5DJw) er myndband sem sýnir dæmi um hvernig hægt er að breyta letri í Inkscape.
+    Logo getur verið búið til úr texta og/eða mynd. Hér á eftir koma dæmi um hvernig hægt er að vinna með texta og form. Þegar þú hannar logo skaltu hafa í huga hvað þú vilt að fólk sjái fyrir sér þegar það sér logoið. Reyndu að hafa það skýrt og einfalt. Hugsaðu líka um hvaða litir falli best að hugmynd þinni og hvaða litir séu grípandi/áberandi. 
+
+!!!tip "Texta breytt í feril"
+
+    Smelltu á **A** (táknið fyrir texta) sem er á stikunni vinstra megin. Skrifaðu textann sem þú vilt hafa í logoinu. Veldu svo **Ferill (Path)** og því næst **Hlutur sem ferill (Object to path)**. 
+
+    ![ ](img_grunnskolar/HluturSemFerill_texti500x314.jpg)
+
+!!!tip "Að nota Hnútaverkfæri (Node tool) til að breyta texta"
+
+    Smelltu á táknið fyrir **Hnútaverkfæri (Node tool)**. Þá sérðu punkta sem hægt er að vinna með. Þessa punkta er hægt að draga til og frá. 
+
+    ![ ](img_grunnskolar/NodeTool_texti800x272.jpg)
+
+
+!!!tip "Að nota handföngin á punktunum til að beygja form"
+
+    Smelltu á táknið sem örin bendir á. Hnappurinn heitir **Sýna Bezier-haldföng fyrir valda hnúta (Show Bezier handles for selected nodes)**. Þá sjást handföngin á punktunum og með því að færa handföngin til er hægt að breyta löguninni á forminu/bókstafnum.
+
+    ![ ](img_grunnskolar/ShowBezierHandles.jpg)
+
+!!!tip "Myndbönd sem sýna hvernig hægt er að vinna með letur"
+
+    Hér fyrir neðan má finna myndbönd sem sýna hvernig hægt er að breyta letri á ýmsan hátt:
+
+    [Hér](https://www.youtube.com/watch?v=BI8Nw69Vn5o) er myndband sem sýnir hvernig einn bókstafur í orði er stækkaður og hann látinn klippa af bókstöfunum við hliðina á honum.
+
+    [Hér](https://www.youtube.com/shorts/em8nQeE5DJw) er myndband sem sýnir dæmi um hvernig hægt er að teygja til bókstafi.
 
     [Hér](https://www.youtube.com/shorts/xqJQoxrLJak) er myndband sem sýnir ....
 
