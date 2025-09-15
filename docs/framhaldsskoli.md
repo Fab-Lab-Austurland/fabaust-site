@@ -212,6 +212,14 @@
 
 ### Að sameina eða sundra formum á mismunandi hátt
 
+
+
+!!!tip "Að færa form á milli laga (layers)"
+
+    Veldu formið sem þú vilt færa. Smelltu á **Lag (layer)**. Þar undir er hægt að velja að færa formið sem þú valdir ofaná eða undir önnur form.
+
+    ![ ](img_grunnskolar/Layers700x514.jpg)
+
 !!!tip "Að sameina (Union)"
 
     Hér 
@@ -238,16 +246,15 @@
 
 !!!tip "Uppskipting (Division)"
 
-    Teiknaðu tvö form. Hafðu þau mismunandi á litinn. Taktu afrit af báðum formunum þannig að þú sért með fjögur form. 
+    Hér voru búin til fjögur form og þau höfð í mismunandi litum. Þegar smellt var á **Ferill (Path)** og svo á **Uppskipting (Division)**. Á efri myndinni sést hvernig bleika formið klippir einungis það svæði af neðra forminu þar sem það liggur ofaná. 
 
-    ![ ](img_grunnskolar/4form500x401.jpg)
+    Á neðri myndinni sést að fjólubláa sporaskjan liggur ofaná og hún klippir einungis af svæðinu sem hún snertir.
 
-    Raðaðu tveimur og tveimur formum saman þannig að annað þeirra sé ofaná (sjá efri myndina hér undir) og svo sé hitt formið efst í seinni myndinni.
+    ![ ](img_grunnskolar/Uppskipting_Division700x514.jpg)
 
-    ![ ](img_grunnskolar/4form_layers.jpg)
+    [Hér](https://www.youtube.com/shorts/6jVaVTWy6V4) er svo myndband sem sýnir hvernig hægt er að nota uppskiptingu (division).
 
 
-    [Hér](https://www.youtube.com/shorts/6jVaVTWy6V4) er myndband sem sýnir hvernig hægt er að nota uppskiptingu (division).
 
 
 
