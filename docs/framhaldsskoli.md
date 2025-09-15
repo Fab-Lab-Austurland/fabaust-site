@@ -185,10 +185,9 @@
 
 !!!tip "Að nota Hnútaverkfæri (Node tool) til að breyta texta"
 
-    Smelltu á táknið fyrir **Hnútaverkfæri (Node tool)**. Þá sérðu punkta sem hægt er að vinna með. Þessa punkta er hægt að draga til og frá. 
+    Smelltu á táknið fyrir **Hnútaverkfæri (Node tool)**. Þá sérðu punkta sem hægt er að vinna með. Þessa punkta er hægt að draga til og frá. Á stikunni fyrir ofan sérðu meðal annars hvernig hægt er að bæta við punktum með plústákninu, fækka punktum með mínus, slíta tengsl á milli punkta og fleira. 
 
     ![ ](img_grunnskolar/NodeTool_texti800x272.jpg)
-
 
 !!!tip "Að nota handföngin á punktunum til að beygja form"
 
@@ -198,17 +197,67 @@
 
 !!!tip "Myndbönd sem sýna hvernig hægt er að vinna með letur"
 
-    Hér fyrir neðan má finna myndbönd sem sýna hvernig hægt er að breyta letri á ýmsan hátt:
+    Hér fyrir neðan má finna myndbönd sem sýna hvernig hægt er að breyta letri í Inkscape á ýmsan hátt. Athugaðu að sum myndböndin spilast mjög hratt:
 
     [Hér](https://www.youtube.com/watch?v=BI8Nw69Vn5o) er myndband sem sýnir hvernig einn bókstafur í orði er stækkaður og hann látinn klippa af bókstöfunum við hliðina á honum.
 
     [Hér](https://www.youtube.com/shorts/em8nQeE5DJw) er myndband sem sýnir dæmi um hvernig hægt er að teygja til bókstafi.
 
-    [Hér](https://www.youtube.com/shorts/xqJQoxrLJak) er myndband sem sýnir ....
+    [Hér](https://www.youtube.com/shorts/xqJQoxrLJak) er myndband sem sýnir hvernig hægt er að láta texta fylgja formi til að ná fram fjarvídd.
 
-    [Hér](youtube.com/shorts/uJny3tSsH-4?si=oLoyM83aODeDYN8v) er myndband sem sýnir hvernig hægt er að fjölfalda form og snúa þeim til að búa til mynstur.
+    [Hér](https://www.youtube.com/shorts/uJny3tSsH-4) er myndband sem sýnir hvernig hægt er að fjölfalda form og snúa þeim til að búa til mynstur.
+
 
     [Hér](https://www.youtube.com/watch?v=BI8Nw69Vn5o) er myndband sem sýnir dæmi um hvernig hægt er að breyta letri í Inkscape.
 
-    [Hér](https://www.youtube.com/watch?v=BI8Nw69Vn5o) er myndband sem sýnir dæmi um hvernig hægt er að breyta letri í Inkscape.
+### Að sameina eða sundra formum á mismunandi hátt
+
+!!!tip "Að sameina (Union)"
+
+    Hér 
+
+
+
+!!!tip "Mismunur (Difference)"
+
+    Hér voru búin til fjögur form og þau höfð í mismunandi litum. Hér var bláa stjarnan höfð ofaná sporöskjunni en bleika stjarnan höfð undir sporöskjunni. Þegar smellt var á **Ferill (Path)** og svo á **Mismunur (Difference)**. Efra formið eyðir þeim svæðum þar sem formið liggur ofan á neðra forminu.
+
+    ![ ](img_grunnskolar/Mismunur_Difference700x563.jpg)
+
+
+!!!tip "Skörun (Intersection)"
+
+    Hér 
+
+
+!!!tip "Útilokun (Exclusion)"
+
+    Hér 
+
+
+
+!!!tip "Uppskipting (Division)"
+
+    Teiknaðu tvö form. Hafðu þau mismunandi á litinn. Taktu afrit af báðum formunum þannig að þú sért með fjögur form. 
+
+    ![ ](img_grunnskolar/4form500x401.jpg)
+
+    Raðaðu tveimur og tveimur formum saman þannig að annað þeirra sé ofaná (sjá efri myndina hér undir) og svo sé hitt formið efst í seinni myndinni.
+
+    ![ ](img_grunnskolar/4form_layers.jpg)
+
+
+    [Hér](https://www.youtube.com/shorts/6jVaVTWy6V4) er myndband sem sýnir hvernig hægt er að nota uppskiptingu (division).
+
+
+
+!!!tip "Klippa feril (Cut path)"
+
+    Hér 
+
+
+
+
+
+
 
