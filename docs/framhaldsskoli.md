@@ -212,19 +212,23 @@
 
 ### Að sameina eða sundra formum á mismunandi hátt
 
-
+#### Að færa form á milli laga (layers)
 
 !!!tip "Að færa form á milli laga (layers)"
 
-    Veldu formið sem þú vilt færa. Smelltu á **Lag (layer)**. Þar undir er hægt að velja að færa formið sem þú valdir ofaná eða undir önnur form.
+    Athugaðu að stundum skiptir máli hvort form liggur ofaná eða undir öðru formi. Því þarftu að vita hvernig á að færa form upp eða niður á milli laga. Veldu formið sem þú vilt færa. Smelltu á **Lag (layer)** og svo **Lög og hlutir (Layers and objects)**. Þar undir er hægt að velja að færa form upp og niður á milli laga.
 
     ![ ](img_grunnskolar/Layers700x514.jpg)
 
-!!!tip "Að sameina (Union)"
+#### Að bræða saman
 
-    Hér 
+!!!tip "Að bræða saman (Union)"
 
+    Smellt var á **Ferill (Path)** og svo á **Bræða saman (Union)**. Þessi aðgerð bræðir saman tvö form þannig að þau verða að einu formi.
 
+    ![ ](img_grunnskolar/Union_Braeda400x218.jpg)
+
+#### Mismunur (Difference)
 
 !!!tip "Mismunur (Difference)"
 
@@ -232,21 +236,27 @@
 
     ![ ](img_grunnskolar/Mismunur_Difference700x563.jpg)
 
+#### Skörun (Intersection)
 
 !!!tip "Skörun (Intersection)"
 
-    Hér 
+    Smellt var á **Ferill (Path)** og svo á **Skörun (Intersection)**. Formin skerast á nákvæmlega sama hátt, svo það skiptir ekki máli hvort formið er ofaná og hvort er undir. Einungis svæðið, sem bæði formin snertast á, verður eftir. Hitt eyðist. Nýju formin taka á sig lit formsins sem var undir.
 
+    ![ ](img_grunnskolar/Intersection_skorun500x497.jpg)
+
+#### Útilokun (Exclusion)
 
 !!!tip "Útilokun (Exclusion)"
 
-    Hér 
+    Smellt var á **Ferill (Path)** og svo á **Útilokun (Exclusion)**. Formin skerast á nákvæmlega sama hátt, svo það skiptir ekki máli hvort formið er ofaná og hvort er undir. Svæðið, sem bæði formin snertast á, eyðist út. Nýju formin taka á sig lit formsins sem var undir.
 
+    ![ ](img_grunnskolar/Exclusion_utilokun700x505.jpg)
 
+#### Uppskipting
 
 !!!tip "Uppskipting (Division)"
 
-    Hér voru búin til fjögur form og þau höfð í mismunandi litum. Þegar smellt var á **Ferill (Path)** og svo á **Uppskipting (Division)**. Á efri myndinni sést hvernig bleika formið klippir einungis það svæði af neðra forminu þar sem það liggur ofaná. 
+    Smellt var á **Ferill (Path)** og svo á **Uppskipting (Division)**. Á efri myndinni sést hvernig bleika formið klippir einungis það svæði af neðra forminu þar sem það liggur ofaná. 
 
     Á neðri myndinni sést að fjólubláa sporaskjan liggur ofaná og hún klippir einungis af svæðinu sem hún snertir.
 
@@ -254,17 +264,13 @@
 
     [Hér](https://www.youtube.com/shorts/6jVaVTWy6V4) er svo myndband sem sýnir hvernig hægt er að nota uppskiptingu (division).
 
-
-
-
+#### Að klippa feril (Cut path)
 
 !!!tip "Klippa feril (Cut path)"
 
-    Hér 
+    Smellt var á **Ferill (Path)** og svo á **Klippa feril (Cut path)**. Þessi aðgerð skilur einungis eftir neðra formið og býr til skurðarlínur inni í því þar sem efra formið lá. Það er því hægt að færa svæðin innan formsins í sundur, eins og sést á myndinni hér fyrir neðan. 
+    
+    Athugaðu að aðgerðin slekkur á litnum, svo formin sjást ekki. Þegar kveikt er á litnum aftur sjást formin.
 
-
-
-
-
-
+    ![ ](img_grunnskolar/CutPath_KlippaFeril700x398.jpg)
 
