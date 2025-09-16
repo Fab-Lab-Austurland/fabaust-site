@@ -268,7 +268,7 @@
 
     ![ ](img_grunnskolar/Exclusion_utilokun700x505.jpg)
 
-#### Uppskipting
+#### Uppskipting (Division)
 
 !!!tip "Uppskipting (Division)"
 
