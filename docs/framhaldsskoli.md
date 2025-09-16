@@ -270,7 +270,7 @@
 
     Smellt var á **Ferill (Path)** og svo á **Klippa feril (Cut path)**. Þessi aðgerð skilur einungis eftir neðra formið og býr til skurðarlínur inni í því þar sem efra formið lá. Það er því hægt að færa svæðin innan formsins í sundur, eins og sést á myndinni hér fyrir neðan. 
     
-    Athugaðu að aðgerðin slekkur á litnum, svo formin sjást ekki. Þegar kveikt er á litnum aftur sjást formin.
+    Athugaðu að aðgerðin slekkur á litnum, svo það lítur út fyrir að formunum hafi verið eytt, því þau sjást ekki. Þegar kveikt er á litnum aftur sjást formin.
 
     ![ ](img_grunnskolar/CutPath_KlippaFeril700x398.jpg)
 
