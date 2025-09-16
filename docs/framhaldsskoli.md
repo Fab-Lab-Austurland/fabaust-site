@@ -210,6 +210,18 @@
 
     [Hér](https://www.youtube.com/watch?v=BI8Nw69Vn5o) er myndband sem sýnir dæmi um hvernig hægt er að breyta letri í Inkscape.
 
+### Að jafna og dreifa
+
+!!!abstract "Að jafna og dreifa formum"
+
+    Hægt er að raða formum jafnt á línu, bæði lóðrétt og lárétt. Oft er talað um að jafna á x-ás eða y-ás en það er til dæmis líka hægt að miða við efstu brún eða neðstu brún. Smelltu á **Hlutur (Object)** og svo **Jafna og dreifa (Align and distribute)**. 
+
+    ![ ](img_grunnskolar/AlignAndDistribute500x442.jpg)
+
+    Hægra megin er hægt að velja hvaða svæði sé miðað við. Ef þú velur **Valsvæði**, eins og gert er á myndinn hér fyrir neðan, er einungis miðað við svæðið sem formin eru á. Annar möguleiki er til dæmis að velja að formin séu jöfnuð út miðað við blaðsíðu (Page) og þá verður formunum raðað miðað við blaðsíðuna/vinnusvæðið.
+
+    ![ ](img_grunnskolar/AlignHorizontal500x151.jpg)
+
 ### Að sameina eða sundra formum á mismunandi hátt
 
 #### Að færa form á milli laga (layers)
@@ -227,6 +239,10 @@
     Smellt var á **Ferill (Path)** og svo á **Bræða saman (Union)**. Þessi aðgerð bræðir saman tvö form þannig að þau verða að einu formi.
 
     ![ ](img_grunnskolar/Union_Braeda400x218.jpg)
+
+    Hér fyrir neðan sýnir efri myndin hvernig formin eiga eftir að skera hvert annað í sundur ef þau eru ekki brædd saman. Neðri myndin sýnir hvernig formin hafa verið brædd saman.
+
+    ![ ](img_grunnskolar/Union_NoUnion500x431.jpg)
 
 #### Mismunur (Difference)
 
