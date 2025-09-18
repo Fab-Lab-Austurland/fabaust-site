@@ -158,9 +158,9 @@
 
 ## Verkefni 4 - verkefni að eigin vali
 
-!!! Info "Upplýsingar koma seinna"
+!!! Info "Verkefni að eigin vali"
 
-    Meira seinna.
+    Þið megið meðal annars búa til fleiri límmiða eða litla muni í laserskeranum.
 
 ## Kom upp vandamál?
 
