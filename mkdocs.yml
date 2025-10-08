@@ -41,6 +41,9 @@ theme:
   font:
     text: Roboto
     code: Roboto Slab
+    headings:
+      weight: bold
+      color: black
 
 markdown_extensions:
 - admonition
