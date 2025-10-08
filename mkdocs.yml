@@ -40,7 +40,7 @@ theme:
       accent: cyan
   font:
     text: Roboto
-    code: Roboto Mono
+    code: Roboto Slab
 
 markdown_extensions:
 - admonition
