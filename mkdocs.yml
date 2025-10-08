@@ -39,7 +39,7 @@ theme:
       primary: teal
       accent: cyan
   font:
-    text: Roboto Slab
+    text: Roboto
     code: Roboto Mono
 
 markdown_extensions:
