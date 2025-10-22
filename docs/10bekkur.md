@@ -133,19 +133,23 @@
 
     Smellið á hlekkinn [hér](https://www.tinkercad.com/joinclass/DA2REYMTH). Smellið á græna hnappinn (join with login code) og skrifið notendanafnið ykkar. Notendanafnið er nafnið ykkar og eftirnafnið - allt með lágstöfum (litlum stöfum) og ekkert bil á milli nafnanna. Ef þið heitið tveimur nöfnum eða fleirum eigið þið bara að nota fyrsta nafnið og svo eftirnafnið.
 
-### Skriflegar leiðbeiningar - Tinkercad
+    Veljið svo eitt af verkefnunum hér fyrir neðan:
 
-!!! Info "Leiðbeiningar í bók"
+### Kennslumyndband - Tinkercad fiktdót/hnappur
 
-    Smellið á hlekkinn [hér](https://www.fabmennt.com/_files/ugd/0ebced_95d0764011804945837e85c2906135c7.pdf). Lesið blaðsíðu 6 og vinnið svo verkefni 1 sem byrjar á blaðsíðu 7. Það kallast **Smíðum kofa**.
+!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til hnapp-fiktdót"
 
-### Kennslumyndband - Tinkercad
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=UnZuHNVvPto). 
 
-!!! Info "Kennslumyndband"
+    ![ ](img_grunnskolar/10_bekkur_Fiktdot_Spirall.jpg)
 
-    Smellið á hlekkinn [hér](https://www.fabmennt.com/myndbond3d?wix-vod-video-id=9c98f19cb0ac42ad81e5196e1a787ef5&wix-vod-comp-id=comp-l0qim0ip). Þetta er sama verkefnið og er í bókinni.
 
-    ![ ](img_grunnskolar/Tinkercad_Hus.jpg)
+### Kennslumyndband - Tinkercad fiktdót/stjarna
+
+!!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til stjörnu-fiktdót"
+
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=syrVd6qa8q4). 
+
 
 ## Verkefni 3 - rennismellur
 
