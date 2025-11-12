@@ -139,7 +139,7 @@
 
 !!! Info "Kennslumyndband sem kennir hvernig hægt er að búa til hnapp-fiktdót"
 
-    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=UnZuHNVvPto). 
+    Smellið á hlekkinn [hér](https://www.youtube.com/watch?v=5SBwd5mZFA8). 
 
     ![ ](img_grunnskolar/10_bekkur_Fiktdot_Spirall.jpg)
 
