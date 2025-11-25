@@ -73,10 +73,11 @@ markdown_extensions:
 nav:
 - Heim: index.md
 - Um smiðjuna: um_smidjuna.md
-- Búnaður/Leiðbeiningar: leidbeiningar.md
+- Leiðbeiningar: leidbeiningar.md
 - 9. bekkur: 9bekkur.md
 - 10. bekkur: 10bekkur.md
 - Framhaldsskóli: framhaldsskoli.md
+- Tæki og tól: taeki.md
 
 use_directory_urls: true  
 
