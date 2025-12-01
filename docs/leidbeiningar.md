@@ -237,6 +237,23 @@
     
     Smellið [hér](https://www.fabmennt.com/myndbondgeisla) til að skoða kennslumyndbönd um hvernig hægt er að búa til glasamottu, lyklakippu, jólaskraut, kassa og fleira. *Höfundur: Andri Sæmundsson.*
 
+### Jólakúla 1
+
+!!! note "Sniðmát notað sem grunnur að jólakúlu"
+    
+    Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). 
+
+    ![Jólakúla - heil](leidbeiningar_files/Jolakula_snidmat_heil.svg){ .md-button }
+
+    Opnaðu skrána. Smelltu á 
+
+
+
+
+![ ](img_leidbeiningar/Jolakula1_VistaSemPDF800x361.jpg)
+
+
+
 ### Þrívíddarhönnun og þrívíddarprentun
 
 #### Ýmis hugtök útskýrð
