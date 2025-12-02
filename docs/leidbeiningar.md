@@ -257,7 +257,7 @@
 
 ### Jólakúla 2 - Með borða í miðju
 
-!!! note "Sniðmát notað sem grunnur að jólakúlu 2"
+!!! example "Sniðmát notað sem grunnur að jólakúlu 2"
     
     Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum. 
 
@@ -266,11 +266,46 @@
 
 
 
+![](img_leidbeiningar/Braeda_snjokorn_og_jolakulu_saman800x735.jpg)
+
+
+![ ](img_leidbeiningar/Allt_ferill_braeda_saman800x698.jpg)
+
+
+![ ](img_leidbeiningar/Hnutar800x525.jpg)
+
+
+
 ### Jólakúla 3 - Unnin frá grunni!
 
-!!! note "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
     
     M..........
+
+
+![ ](img_leidbeiningar/90cm_Hringur800x667.jpg)
+
+![ ](img_leidbeiningar/Ferill_mismunur800x637.jpg)
+
+
+![ ](img_leidbeiningar/Ferhyrningur_retthyrningsverkfaeri400x469.jpg)
+
+
+![ ](img_leidbeiningar/Ferhyrningur_Rx_Ry3_400x382.jpg)
+
+![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
+
+
+![ ](img_leidbeiningar/Ferhyrningur_midja_a_lodrettum_as800x533.jpg)
+
+![ ](img_leidbeiningar/Ferhyrningur_fyrir_nafn800x719.jpg)
+
+
+![ ](img_leidbeiningar/Ferill_braeda_allt_saman800x638.jpg)
+
+
+![ ](img_leidbeiningar/Gat_og_hringur_midja_a_lodrettum_as800x607.jpg)
+
 
 
 
