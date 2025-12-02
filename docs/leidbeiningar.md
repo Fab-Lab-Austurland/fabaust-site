@@ -237,11 +237,11 @@
     
     Smellið [hér](https://www.fabmennt.com/myndbondgeisla) til að skoða kennslumyndbönd um hvernig hægt er að búa til glasamottu, lyklakippu, jólaskraut, kassa og fleira. *Höfundur: Andri Sæmundsson.*
 
-### Jólakúla 1
+### Jólakúla 1 - Heill flötur þar sem texti og mynstur eru skorin út
 
-!!! note "Sniðmát notað sem grunnur að jólakúlu"
+!!! note "Sniðmát notað sem grunnur að jólakúlu 1"
     
-    Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). 
+    Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum.
 
     ![Jólakúla - heil](leidbeiningar_files/Jolakula_snidmat_heil.svg){ .md-button }
 
@@ -251,6 +251,32 @@
 
 
 ![ ](img_leidbeiningar/Jolakula1_VistaSemPDF800x361.jpg)
+
+
+
+
+### Jólakúla 2 - Með borða í miðju
+
+!!! note "Sniðmát notað sem grunnur að jólakúlu 2"
+    
+    Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum. 
+
+    ![ ](files_leidbeiningar/JolakulaMidja_snidmat.svg){ .md-button }
+
+
+
+
+### Jólakúla 3 - Unnin að hluta til í Canva
+
+!!! note "PNG mynd notuð sem sniðmát í Canva"
+    
+    Með því að smella á hlekkinn hér fyrir neðan færð þú .png mynd sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). Fyrstu skrefin eru svo unnin á vefsíðu Canva.com
+
+
+
+
+
+![ ](img_leidbeiningar/JolakulaCanva_TextBox700x347.jpg)
 
 
 
