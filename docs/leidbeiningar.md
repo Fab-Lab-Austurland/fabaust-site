@@ -243,14 +243,14 @@
     
     Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum.
 
-    [Jólakúla - heil](leidbeiningar_files/Jolakula_snidmat_heil.svg){ .md-button }
+    [Jólakúla 1 - sniðmát](leidbeiningar_files/Jolakula_snidmat_heil.svg){ .md-button }
 
     Opnaðu skrána. Smelltu á 
 
 
 
 
-[Jólakúla 1 - sniðmát](img_leidbeiningar/Jolakula1_VistaSemPDF800x361.jpg)
+![Jólakúla 1](img_leidbeiningar/Jolakula1_VistaSemPDF800x361.jpg)
 
 
 
@@ -266,7 +266,15 @@
 
 
 
-### Jólakúla 3 - Unnin að hluta til í Canva
+### Jólakúla 3 - Unnin frá grunni!
+
+!!! note "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M..........
+
+
+
+### Jólakúla 4 - Unnin að hluta til í Canva
 
 !!! note "PNG mynd notuð sem sniðmát í Canva"
     
