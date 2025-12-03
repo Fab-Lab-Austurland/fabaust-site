@@ -246,12 +246,11 @@
     [Jólakúla 1 - sniðmát](leidbeiningar_files/Jolakula_snidmat_heil.svg){ .md-button }
 
 
-![ ](img_leidbeiningar/Jolakula_A_400x416.jpg)
-
 !!! note inline end "Að setja texta á jólakúluna"
     
     Smelltu á **táknið með bókstafnum A**. Þú finnur það á stikunni vinstra megin á skjánum. Smelltu svo á skjáinn og byrjaðu að skrifa. Efst á skjánum getur þú valið leturgerð og stærð letursins.
 
+![ ](img_leidbeiningar/Jolakula_A_400x416.jpg)
 
 !!! note "Að vinna með letur og stærð"
     
