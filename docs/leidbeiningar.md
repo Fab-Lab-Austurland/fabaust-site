@@ -246,18 +246,21 @@
     [Jólakúla 1 - sniðmát](leidbeiningar_files/Jolakula_snidmat_heil.svg){ .md-button }
 
 
-!!! note "Að setja texta á jólakúluna"
+![ ](img_leidbeiningar/Jolakula_A_400x416.jpg)
+
+
+!!! note inline end "Að setja texta á jólakúluna"
     
-    Smelltu á táknið með bókstafnum A. Þú finnur það á stikunni vinstra megin á skjánum. 
+    Smelltu á táknið með bókstafnum A. Þú finnur það á stikunni vinstra megin á skjánum. Smelltu svo á skjáinn og byrjaðu að skrifa.
 
     ![ ](img_leidbeiningar/jolakula_TextiOgLetur600x386.jpg)
 
 
 
 
-!!! note "Að setja texta á jólakúluna"
+!!! note "Að vinna með texta"
     
-    Smelltu 
+    Smelltu á **Texti og letur (Text and font)**.  
 
 
 
@@ -269,7 +272,7 @@
 
 
 
-![ ](img_leidbeiningar/Hnutar400x262.jpg)
+
 
 
 ### Jólakúla 2 - Með borða í miðju
@@ -283,6 +286,9 @@
 
 
 ![ ](img_leidbeiningar/Braeda_snjokorn_og_jolakulu_600x551.jpg)
+
+
+![ ](img_leidbeiningar/Hnutar400x262.jpg)
 
 
 
@@ -303,8 +309,13 @@
 
 ![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
 
+![ ](img_leidbeiningar/Hringur_sporbaugs_bogaverkfaeri300x281.jpg)
+
 
 ![ ](img_leidbeiningar/90cm_Hringur600x500.jpg)
+
+
+![ ](img_leidbeiningar/Innri_hringur_fyrir_gat_10mm_400x560.jpg)
 
 
 
@@ -319,6 +330,7 @@
 
 
 ![ ](img_leidbeiningar/Hringir_uppi_Ferill_mismunur600x481.jpg)
+
 
 
 
