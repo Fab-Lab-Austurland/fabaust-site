@@ -275,9 +275,9 @@
 
 !!! note "Að búa til vektorteikningu eftir myndinni"
     
-    Inkscape getur ekki 
+    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka og minnka litmörk ef myndin kemur ekki nógu vel út. 
 
-
+    ![ ](img_leidbeiningar/Jolakula1_linuteikna600x370.jpg)
 
 ![ ](img_leidbeiningar/Jolakula1_AfritaLima300x201.jpg)
 
