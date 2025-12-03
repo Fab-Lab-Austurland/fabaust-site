@@ -260,7 +260,7 @@
     
     Smelltu á **táknið með bókstafnum A**. Þú finnur það á stikunni vinstra megin á skjánum. Smelltu svo á skjáinn og byrjaðu að skrifa. Efst á skjánum getur þú valið leturgerð og stærð letursins.
 
-![ ](img_leidbeiningar/Jolakula_A_400x416.jpg)
+    ![ ](img_leidbeiningar/Jolakula_A_400x416.jpg)
 
 !!! note "Að vinna með letur og stærð"
     
@@ -303,15 +303,15 @@
 
 !!! note "Að stilla skurðarlínur"
     
-    Næst velur þú þau svæði sem þú vilt láta skera út. Fyrst þarftu að smella á **Hlutur (Object) ** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+    Næst velur þú þau svæði sem þú vilt láta skera út. Fyrst þarftu að smella á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
 
     ![ ](img_leidbeiningar/Jolakula1_skurdarlina_slokktAFyllingu_Canva600x437.jpg)
 
-    Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er 255.
+    Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
 
     ![ ](img_leidbeiningar/Jolakula1_Skurdarlina_kveiktALit_Canva600x377.jpg)
 
-    Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á 0,02mm. Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
+    Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
 
     ![ ](img_leidbeiningar/Jolakula1_Lina002_500x351.jpg)
 
@@ -334,6 +334,78 @@
     Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum. 
 
     [Jólakúla 2 - sniðmát](files_leidbeiningar/JolakulaMidja_snidmat.svg){ .md-button }
+
+
+
+!!! note "Að finna myndir á netinu til að nota sem skraut"
+    
+    Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
+    Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið
+
+    ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
+
+!!! note "Að flytja mynd inn í Inkscape"
+    
+    Smelltu á **Skrá (File)** og **Flytja inn (Import)**. Smelltu svo á **Í lagi (OK)**. Þá birtist myndin á skjánum.
+
+    ![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
+
+!!! note "Að búa til vektorteikningu eftir myndinni"
+    
+    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka og minnka litmörk ef myndin kemur ekki nógu vel út. 
+
+    ![ ](img_leidbeiningar/Jolakula1_linuteikna600x370.jpg)
+
+!!! note "Að vinna með myndirnar í Inkscape"
+    
+    Ef þú vilt fá fleiri myndir hægrismellir þú á myndina og velur **Afrita (Copy)**. Svo hægrismellir þú á skjáinn og velur **Líma (Paste)**. 
+
+    ![ ](img_leidbeiningar/Jolakula1_AfritaLima300x201.jpg)
+
+!!! note "Að vinna með myndirnar í Inkscape"
+    
+    Ef þú vilt stækka og minnka formin getur þú gripið í örina á horninu og togað hana til og frá. Þannig stækka og minnka formin. 
+
+    ![ ](img_leidbeiningar/Jolakula1_StaekkaMinnka500x594.jpg)
+
+!!! note "Að bræða form saman"
+    
+    Til að snjókornið og jólakúlan verði ein heild og skeri ekki hvort annað í sundur þarf að bræða þau saman. Veldu bæði formin og smelltu á **Ferill (Path)** og **Bræða saman (Union)**.
+
+    ![ ](img_leidbeiningar/Braeda_snjokorn_og_jolakulu_600x551.jpg)
+
+!!! note "Að eyða ákveðnum atriðum"
+    
+    Til að eyða út litlu örvunum sem sjást í neðra hægra horninu þarf að smella á **hnútaverkfærið (Node tool)** og smella á svæðið. Þá sjást allir hnútarnir sem mynda formið. Með því að draga með músinni yfir svæðið og velja þannig tiltekna hnúta er hægt að eyða þeim með því að ýta á **Delete**.
+
+    ![ ](img_leidbeiningar/Hnutar400x262.jpg)
+
+!!! note "Að stilla skurðarlínur"
+    
+    Næst velur þú þau svæði sem þú vilt láta skera út. Fyrst þarftu að smella á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+
+    ![ ](img_leidbeiningar/Jolakula2_skurdarlina_slokktAFyllingu_Canva.jpg)
+
+    Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
+
+    ![ ](img_leidbeiningar/Jolakula2_Skurdarlina_kveiktALit500x404.jpg)
+
+    Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
+
+    ![ ](img_leidbeiningar/JolakulaMidja_StillUtlinu500x403.jpg)
+
+
+!!! note "Að stilla fyrir brennimerkingu (rasteringu)"
+    
+    Næst velur þú þau svæði sem á að brennimerkja. Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
+
+    ![ ](img_leidbeiningar/Jolakula2_Rastering_KveiktAFyllingu_500x396.jpg)
+
+    ![ ](img_leidbeiningar/Jolakula2_rastering_SlokktALitUtlinu500x401.jpg)
+
+
+
+
 
 
 ![ ](img_leidbeiningar/Braeda_snjokorn_og_jolakulu_600x551.jpg)
