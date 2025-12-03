@@ -250,8 +250,14 @@
     
     Smelltu á táknið með bókstafnum A. Þú finnur það á stikunni vinstra megin á skjánum. 
 
-        ![ ](img_leidbeiningar/jolakula_TextiOgLetur600x386.jpg)
+    ![ ](img_leidbeiningar/jolakula_TextiOgLetur600x386.jpg)
 
+
+
+
+!!! note "Að setja texta á jólakúluna"
+    
+    Smelltu 
 
 
 
@@ -260,6 +266,10 @@
 
 
 ![ ](img_leidbeiningar/Jolakula1_AfritaLima300x201.jpg)
+
+
+
+![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
 
 
 ### Jólakúla 2 - Með borða í miðju
