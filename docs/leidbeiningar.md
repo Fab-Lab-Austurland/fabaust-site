@@ -262,14 +262,14 @@
 
 
 
-
+![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
 
 
 ![ ](img_leidbeiningar/Jolakula1_AfritaLima300x201.jpg)
 
 
 
-![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
+![ ](img_leidbeiningar/Hnutar400x262.jpg)
 
 
 ### Jólakúla 2 - Með borða í miðju
@@ -308,10 +308,17 @@
 
 
 
+![ ](img_leidbeiningar/Hringar_fyrir_gat_midja_a_lodrettum400x399.jpg)
+
+
+
+
 ![ ](img_leidbeiningar/Allt_ferill_braeda_saman600x524.jpg)
 
 
 
+
+![ ](img_leidbeiningar/Hringir_uppi_Ferill_mismunur600x481.jpg)
 
 
 
