@@ -251,25 +251,51 @@
 
 !!! note inline end "Að setja texta á jólakúluna"
     
-    Smelltu á táknið með bókstafnum A. Þú finnur það á stikunni vinstra megin á skjánum. Smelltu svo á skjáinn og byrjaðu að skrifa.
+    Smelltu á **táknið með bókstafnum A**. Þú finnur það á stikunni vinstra megin á skjánum. Smelltu svo á skjáinn og byrjaðu að skrifa. Efst á skjánum getur þú valið leturgerð og stærð letursins.
 
     ![ ](img_leidbeiningar/jolakula_TextiOgLetur600x386.jpg)
 
 
-
-
 !!! note "Að vinna með texta"
     
-    Smelltu á **Texti og letur (Text and font)**.  
+    Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
 
+    ![ ](img_leidbeiningar/jolakula_TextiOgLetur600x386.jpg)
+
+
+!!! note "Að bæta við myndum"
+    
+    Þú getur valið 
 
 
 
 ![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
 
+!!! note inline end "Að flytja mynd inn í Inkscape"
+    
+    Þú getur valið 
+
+
 
 ![ ](img_leidbeiningar/Jolakula1_AfritaLima300x201.jpg)
 
+!!! note inline end "Að vinna með myndirnar í Inkscape"
+    
+    Ef þú vilt fá fleiri myndir hægrismellir þú á myndina og velur **Afrita (Copy)**. Svo hægrismellir þú á skjáinn og velur **Líma (Paste)**. 
+
+
+
+
+
+!!! note "Að stilla skurðarlínur"
+    
+    Næst velur þú þau svæði sem þú vilt láta skera út. Fyrst þarftu að smella á **Hlutur (Object) ** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+
+    ![ ](img_leidbeiningar/Jolakula1_Skurdarlina_SlokktAFyllingu500x368.jpg)
+
+    ![ ](img_leidbeiningar/Jolakula1_KveiktALinuRautt_500x317.jpg)
+
+    ![ ](img_leidbeiningar/Jolakula1_Lina002_500x351.jpg)
 
 
 
