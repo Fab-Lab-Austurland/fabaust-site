@@ -248,32 +248,35 @@
 
 ![ ](img_leidbeiningar/Jolakula_A_400x416.jpg)
 
-
 !!! note inline end "Að setja texta á jólakúluna"
     
     Smelltu á **táknið með bókstafnum A**. Þú finnur það á stikunni vinstra megin á skjánum. Smelltu svo á skjáinn og byrjaðu að skrifa. Efst á skjánum getur þú valið leturgerð og stærð letursins.
 
-    ![ ](img_leidbeiningar/jolakula_TextiOgLetur600x386.jpg)
 
-
-!!! note "Að vinna með texta"
+!!! note "Að vinna með letur og stærð"
     
     Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
 
     ![ ](img_leidbeiningar/jolakula_TextiOgLetur600x386.jpg)
 
 
-!!! note "Að bæta við myndum"
+!!! note "Að finna myndir á netinu til að nota sem skraut"
     
-    Þú getur valið 
+    Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
+    Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið
 
+    ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
 
-
-![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
-
-!!! note inline end "Að flytja mynd inn í Inkscape"
+!!! note "Að flytja mynd inn í Inkscape"
     
-    Þú getur valið 
+    Smelltu á **Skrá (File)** og **Flytja inn (Import)**. Smelltu svo á **Í lagi (OK)**. Þá birtist myndin á skjánum.
+
+    ![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
+
+
+!!! note "Að búa til vektorteikningu eftir myndinni"
+    
+    Inkscape getur ekki 
 
 
 
@@ -284,6 +287,11 @@
     Ef þú vilt fá fleiri myndir hægrismellir þú á myndina og velur **Afrita (Copy)**. Svo hægrismellir þú á skjáinn og velur **Líma (Paste)**. 
 
 
+![ ](img_leidbeiningar/Jolakula1_StaekkaMinnka500x594.jpg)
+
+!!! note inline end "Að vinna með myndirnar í Inkscape"
+    
+    Ef þú vilt stækka og minnka formin getur þú gripið í örina á horninu og togað hana til og frá. Þannig stækka og minnka formin. 
 
 
 
