@@ -466,10 +466,10 @@
     
     Með því að smella á hlekkinn hér fyrir neðan færð þú .png mynd sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir á hlekkinn færðu .png mynd upp á skjáinn. Hægrismelltu á myndina og vistaðu hana.  Fyrstu skrefin eru svo unnin á vefsíðu Canva.com.
 
-    ![ ](<img_leidbeiningar/Jólakúla_sniðmát fyrir gesti.png>)
+    ![Sniðmát til að nota í Canva - jólakúla ](<img_leidbeiningar/Jólakúla_sniðmát fyrir gesti.png>){ .md-button }
 
 
-![PNG mynd sem sniðmát fyrir Canva](img_leidbeiningar/JolakulaCanva_TextBox700x347.jpg){ .md-button }
+![](img_leidbeiningar/JolakulaCanva_TextBox700x347.jpg){ .md-button }
 
 
 
