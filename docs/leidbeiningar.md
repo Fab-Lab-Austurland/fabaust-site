@@ -324,6 +324,12 @@
 
     ![ ](img_leidbeiningar/Jolakula1_rastering_SlokktALitUtlinu600x416.jpg)
 
+!!! note "Að vista skjal"
+    
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+
+    ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
+
 
 ### Jólakúla 2 - Með borða í miðju
 
@@ -417,16 +423,11 @@
 
     ![ ](img_leidbeiningar/Jolakula2_rastering_SlokktALitUtlinu500x401.jpg)
 
+!!! example "Að vista skjal"
+    
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
-
-
-
-
-![ ](img_leidbeiningar/Braeda_snjokorn_og_jolakulu_600x551.jpg)
-
-
-![ ](img_leidbeiningar/Hnutar400x262.jpg)
-
+    ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
 
 
@@ -486,6 +487,16 @@
 ![](img_leidbeiningar/JolakulaCanva_TextBox700x347.jpg){ .md-button }
 
 
+
+
+
+
+
+!!! note "Að vista skjal"
+    
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+
+    ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
 ### Þrívíddarhönnun og þrívíddarprentun
 
