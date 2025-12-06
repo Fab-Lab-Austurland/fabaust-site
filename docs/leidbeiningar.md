@@ -331,56 +331,70 @@
 
 !!! example "Sniðmát notað sem grunnur að jólakúlu 2"
     
-    Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum. 
+    Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Þegar þú smellir á hlekkinn birtist mynd af kúlunni. Hægrismelltu á hana og veldu að vista sem .svg. Opnaðu svo skrána.
 
     [Jólakúla 2 - sniðmát](files_leidbeiningar/JolakulaMidja_snidmat.svg){ .md-button }
 
+!!! example "Að stilla stærðina"
+    
+    Þegar þú smellir á jólakúluna sérðu efst á stikunni að hún er 100mm breið og rúmlega 121mm á hæð en þú getur stillt stærðina að þínum óskum. Með því að smella á litla lásinn sem er á milli talnanna haldast hlutföllin rétt ef þú breytir tölunum. 
 
+    ![ ](img_leidbeiningar/Jolakula2_AdBreytaStaerd400x499.jpg)
 
-!!! note "Að finna myndir á netinu til að nota sem skraut"
+!!! examplee "Að finna myndir á netinu til að nota sem skraut"
     
     Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
     Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið
 
     ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
 
-!!! note "Að flytja mynd inn í Inkscape"
+!!! example "Að flytja mynd inn í Inkscape"
     
     Smelltu á **Skrá (File)** og **Flytja inn (Import)**. Smelltu svo á **Í lagi (OK)**. Þá birtist myndin á skjánum.
 
     ![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
 
-!!! note "Að búa til vektorteikningu eftir myndinni"
+!!! example "Að búa til vektorteikningu eftir myndinni"
     
-    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka og minnka litmörk ef myndin kemur ekki nógu vel út. 
+    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka eða minnka litmörk ef myndin kemur ekki nógu vel út. Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
 
-    ![ ](img_leidbeiningar/Jolakula1_linuteikna600x370.jpg)
+    ![ ](img_leidbeiningar/Jolakula2_TraceBitmap600x359.jpg)
 
-!!! note "Að vinna með myndirnar í Inkscape"
+!!! example "Að eyða réttu myndinni"
     
-    Ef þú vilt fá fleiri myndir hægrismellir þú á myndina og velur **Afrita (Copy)**. Svo hægrismellir þú á skjáinn og velur **Líma (Paste)**. 
+    Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. Smelltu svo á vektorteikninguna og veldu einhvern lit úr litastikunni sem er neðst á skjánum. Það auðveldar þér að raða saman vektorteikningunni og jólakúlunni. 
 
-    ![ ](img_leidbeiningar/Jolakula1_AfritaLima300x201.jpg)
+    ![ ](img_leidbeiningar/Jolakula2_EydaMyndOgSkiptaUmLit600x340.jpg)
 
-!!! note "Að vinna með myndirnar í Inkscape"
+!!! example "Að vinna með myndirnar í Inkscape"
     
     Ef þú vilt stækka og minnka formin getur þú gripið í örina á horninu og togað hana til og frá. Þannig stækka og minnka formin. 
 
     ![ ](img_leidbeiningar/Jolakula1_StaekkaMinnka500x594.jpg)
 
-!!! note "Að bræða form saman"
+!!! example "Að bræða form saman"
     
     Til að snjókornið og jólakúlan verði ein heild og skeri ekki hvort annað í sundur þarf að bræða þau saman. Veldu bæði formin og smelltu á **Ferill (Path)** og **Bræða saman (Union)**.
 
     ![ ](img_leidbeiningar/Braeda_snjokorn_og_jolakulu_600x551.jpg)
 
-!!! note "Að eyða ákveðnum atriðum"
+!!! example "Að eyða ákveðnum atriðum"
     
-    Til að eyða út litlu örvunum sem sjást í neðra hægra horninu þarf að smella á **hnútaverkfærið (Node tool)** og smella á svæðið. Þá sjást allir hnútarnir sem mynda formið. Með því að draga með músinni yfir svæðið og velja þannig tiltekna hnúta er hægt að eyða þeim með því að ýta á **Delete**.
+    Ef þú vilt eyða hlutum úr myndinni er hægt að gera það á ýmsa vegu. Á þessari mynd eru t.d. litlar örvar í hægra horninu niðri sem voru óþarfi. Til að eyða út litlu örvunum var smellt á **hnútaverkfærið (Node tool)** og smellt á svæðið. Þá sáust allir hnútarnir sem mynda formið. Með því að draga með músinni yfir svæðið og velja þannig tiltekna hnúta er hægt að eyða þeim með því að ýta á **Delete**.
 
     ![ ](img_leidbeiningar/Hnutar400x262.jpg)
 
-!!! note "Að stilla skurðarlínur"
+!!! example "Að bæta við texta"
+    
+    Veldu táknið með bókstafnum **A** sem er á stikunni vinstra megin. Smelltu svo á skjáinn og byrjaðu að skrifa. Veldu einhvern lit úr litastikunni neðst, svo auðvelt sé fyrir þig að sjá textann þegar þú stillir honum upp á jólakúlunni. Ef textinn sést alls ekki er líklegt að þú þurfir að velja **Hlutur (Object)** og **fylling og útlína (Fill and stroke)**. Þar undir smellir þú á flipann sem merktur er **Fylling (Fill)** og kveikir á fyllingunni (annar reitur frá vinstri). Efst sérðu hvaða leturgerð þú ert að nota og hver stærð textans er í pt.
+
+    ![ ](img_leidbeiningar/Jona_texti_600x329.jpg)
+
+!!! example "Að skipta um leturgerð"
+    
+    Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
+
+!!! example "Að stilla skurðarlínur"
     
     Næst velur þú þau svæði sem þú vilt láta skera út. Fyrst þarftu að smella á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
 
@@ -395,7 +409,7 @@
     ![ ](img_leidbeiningar/JolakulaMidja_StillUtlinu500x403.jpg)
 
 
-!!! note "Að stilla fyrir brennimerkingu (rasteringu)"
+!!! example "Að stilla fyrir brennimerkingu (rasteringu)"
     
     Næst velur þú þau svæði sem á að brennimerkja. Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
 
