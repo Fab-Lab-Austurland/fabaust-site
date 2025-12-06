@@ -572,53 +572,49 @@
 
 !!! tip "Hönnunin flutt inn í Inkscape"
     
-    Með
+    Inkscape er opnað og nýtt skjal búið til. Svo er smellt á **Skrá (File)** og **Flytja inn (Import)**. Myndin er valin og smellt á **Opna (Open)**. Þá opnast lítill gluggi þar sem smellt er á **OK**.
 
+    ![ ](img_leidbeiningar/JolakulaCanva_FileImport600x341.jpg)
 
 !!! tip "Vektorteikning búin til"
     
-    Með
+    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka eða minnka litmörk ef myndin kemur ekki nógu vel út. Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
 
     ![ ](img_leidbeiningar/JolakulaCanva_LinuteiknaBitamynd600x372.jpg)
-
 
 !!! example "Að eyða réttu myndinni"
     
     Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. 
 
 
-![ ](img_leidbeiningar/JolakulaCanva_EydaMynd600x455.jpg)
+    ![ ](img_leidbeiningar/JolakulaCanva_EydaMynd600x455.jpg)
 
 !!! tip "Stærð jólakúlu stillt í Inkscape"
     
-    Með
+    Þegar þú smellir á jólakúluna sérðu efst á stikunni að hún er tæplega 58mm breið og 70mm á hæð en þú getur stillt stærðina að þínum óskum. Með því að smella á litla lásinn sem er á milli talnanna haldast hlutföllin rétt ef þú breytir tölunum. 
 
     ![ ](img_leidbeiningar/JolakulaCanva_StillaStaerd600x637.jpg)
 
 
-!!! tip "PNG mynd notuð sem sniðmát í Canva"
+
+!!! tip "Vinnusvæði stillt utan um hönnunina" 
     
-    Með
+    Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
 
-
-
-!!! tip "Vinnusvæði stillt utan um hönnunina"
-    
-    Með
+    * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
+    * Veldu myndina.
+    * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
+    * Smelltu þrisvar á báða plúsana.
 
     ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
 
-
-
     ![ ](img_leidbeiningar/JolakulaCanva_AdlagaStaerd600x393.jpg)
-
 
 !!! tip "Að jafna og dreifa miðað við síðu"
     
-    Með
+    Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. Veldu að jafna miðað við síðuna og miðjaðu svo bæði á x- og y-ás. Þá er hönnunin á miðri síðunni.
 
     ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
-
 
 !!! tip "Skurðarlínur stilltar í Inkscape"
     
@@ -633,7 +629,6 @@
     Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Lina002_600x387.jpg)
-
 
 !!! tip "Að vista skjal"
     
