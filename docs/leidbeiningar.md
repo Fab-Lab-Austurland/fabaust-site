@@ -522,66 +522,53 @@
 
 !!! tip "Mynd hlaðið inn í Canva"
     
-    Búðu til nýtt skjal (New template) í Canva. Smelltu á **Upload** og sæktu myndina af jólakúlunni.
+    Búðu til nýtt skjal (New template) í Canva. Smelltu á **Upload** og sæktu myndina af jólakúlunni. Smelltu á myndina til að hún birtist á vinnusvæðinu.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Upload600x292.jpg)
 
-
-![ ](img_leidbeiningar/JolakulaCanva_FlytjaInn600x345.jpg)
-
-!!! tip "PNG mynd notuð sem sniðmát í Canva"
-    
-    Með
-
-
 !!! tip "Unnið með texta í Canva"
     
-    Með
+    Smelltu á textatáknið á vinstri stikunni. Skrifaðu textann sem þú vilt hafa. Efst á skjánum getur þú breytt stærð textans og leturgerðinni.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Font600x302.jpg)
 
+!!! tip "Að nota myndir í Canva til að nota sem skraut"
+    
+    Smelltu á **Elements** á vinstri stikunni. Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Ef þú finnur skýra, óskyggða, svart/hvíta mynd mynd sem hentar getur þú smellt á hana og hún birtist á vinnusvæðinu. Ef þú finnur ekki mynd sem þér hentar skaltu fylgja næsta skrefi og finna mynd á netinu.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_Elements400x393.jpg)
+
+!!! tip "Að finna myndir á netinu til að nota sem skraut"
+    
+    Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
+    Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið
+
+    ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
+
+
 !!! tip "Mynd með snjókorni (eða öðru skrauti) bætt við"
     
-    Með
+    Hér er mynd af snjókorni sem var fundin á netinu, vistuð í tölvu og svo flutt inn í Canva með **Upload files**. Svo var smellt á myndina og hún birtist á vinnusvæðinu.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Snjokorn600x397.jpg)
 
 
-
-!!! tip "Mynd með snjókorni (eða öðru skrauti) bætt við"
+!!! tip "Mynd afrituð, límd og stækkuð eða minnkuð"
     
-    Með
+    Þegar smellt er á mynd birtist tákn (**Duplicate**) og þegar smellt er á það verður til afrit af myndinni. Þannig er auðveldlega hægt að búa til mörg afrit. Svo er hægt að stækka og minnka myndirnar með því að grípa í hornin og draga þau til.
 
-
-
-
-![ ](img_leidbeiningar/JolakulaCanva_Font600x302.jpg)
-
-
-
-
-
-!!! tip "Að jafna og dreifa í Canva"
-    
-    Með
-
-    ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
-
-
-
+![ ](img_leidbeiningar/JolakulaCanva_SnjokornMargfoldudNytt500x296.jpg)
 
 
 !!! tip "Jólakúlan flutt út úr Canva"
     
-    Með
+    Þegar hönnunin er tilbúin er smellt á **Share** hnappinn efst til hægri og svo á **Download**.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Download600x404.jpg)
 
+    Því næst er gerð skráarinnar valin. Hér er PNG valið en JPG virkar líka vel. Ef blaðsíðurnar í skjalinu eru fleiri en ein þarf að velja blaðsíðuna sem á að flytja út. Svo er smellt á **Download**.
 
     ![ ](img_leidbeiningar/JolakulaCanva_PNGDownload600x397.jpg)
-
-
-
 
 !!! tip "Hönnunin flutt inn í Inkscape"
     
@@ -625,6 +612,12 @@
 
     ![ ](img_leidbeiningar/JolakulaCanva_AdlagaStaerd600x393.jpg)
 
+
+!!! tip "Að jafna og dreifa miðað við síðu"
+    
+    Með
+
+    ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
 
 
 !!! tip "Skurðarlínur stilltar í Inkscape"
