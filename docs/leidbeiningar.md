@@ -284,9 +284,15 @@
 
 !!! note "Að búa til vektorteikningu eftir myndinni"
     
-    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka og minnka litmörk ef myndin kemur ekki nógu vel út. 
+    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka og minnka litmörk ef myndin kemur ekki nógu vel út. Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
 
     ![ ](img_leidbeiningar/Jolakula1_linuteikna600x370.jpg)
+
+!!! example "Að eyða réttu myndinni"
+    
+    Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. Smelltu svo á vektorteikninguna og veldu einhvern lit úr litastikunni sem er neðst á skjánum. Það auðveldar þér að raða saman vektorteikningunni og jólakúlunni. 
+
+    ![ ](img_leidbeiningar/Jolakula2_EydaMyndOgSkiptaUmLit600x340.jpg)
 
 !!! note "Að vinna með myndirnar í Inkscape"
     
@@ -317,16 +323,17 @@
 
 !!! note "Að stilla fyrir brennimerkingu (rasteringu)"
     
-    Næst velur þú þau svæði sem á að brennimerkja. Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
-
+    Næst velur þú þau svæði sem á að brennimerkja. Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. 
 
     ![ ](<img_leidbeiningar/Jolakula1_Rastering_KveiktAFyllingu_Canva (1)_600x318.jpg>)
+
+    Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
 
     ![ ](img_leidbeiningar/Jolakula1_rastering_SlokktALitUtlinu600x416.jpg)
 
 !!! note "Að vista skjal"
     
-    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
@@ -425,7 +432,7 @@
 
 !!! example "Að vista skjal"
     
-    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
@@ -586,7 +593,6 @@
     
     Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. 
 
-
     ![ ](img_leidbeiningar/JolakulaCanva_EydaMynd600x455.jpg)
 
 !!! tip "Stærð jólakúlu stillt í Inkscape"
@@ -594,8 +600,6 @@
     Þegar þú smellir á jólakúluna sérðu efst á stikunni að hún er tæplega 58mm breið og 70mm á hæð en þú getur stillt stærðina að þínum óskum. Með því að smella á litla lásinn sem er á milli talnanna haldast hlutföllin rétt ef þú breytir tölunum. 
 
     ![ ](img_leidbeiningar/JolakulaCanva_StillaStaerd600x637.jpg)
-
-
 
 !!! tip "Vinnusvæði stillt utan um hönnunina" 
     
@@ -632,7 +636,7 @@
 
 !!! tip "Að vista skjal"
     
-    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/JolakulaCanva_VistaPDF600x352.jpg)
 
