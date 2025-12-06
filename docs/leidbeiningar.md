@@ -443,32 +443,65 @@
 ![ ](img_leidbeiningar/Ferhyrningur_retthyrningsverkfaeri400x469.jpg)
 
 
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+
 ![ ](img_leidbeiningar/Ferhyrningur_Rx_Ry3_400x382.jpg)
 
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
 ![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
+
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+
 
 ![ ](img_leidbeiningar/Hringur_sporbaugs_bogaverkfaeri300x281.jpg)
 
 
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
 ![ ](img_leidbeiningar/90cm_Hringur600x500.jpg)
 
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
 
 ![ ](img_leidbeiningar/Innri_hringur_fyrir_gat_10mm_400x560.jpg)
 
 
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
 
 ![ ](img_leidbeiningar/Hringar_fyrir_gat_midja_a_lodrettum400x399.jpg)
 
 
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
 
 
 ![ ](img_leidbeiningar/Allt_ferill_braeda_saman600x524.jpg)
 
 
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
 
 
 ![ ](img_leidbeiningar/Hringir_uppi_Ferill_mismunur600x481.jpg)
-
 
 
 
@@ -477,7 +510,7 @@
 
 ![ ](img_leidbeiningar/Jolakulur_Helena_krossv_landscape600x450.jpg)
 
-!!! note "PNG mynd notuð sem sniðmát í Canva"
+!!! tip "PNG mynd notuð sem sniðmát í Canva"
     
     Með því að smella á hlekkinn hér fyrir neðan færð þú .png mynd sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir á hlekkinn færðu .png mynd upp á skjáinn. Hægrismelltu á myndina og vistaðu hana.  Fyrstu skrefin eru svo unnin á vefsíðu Canva.com.
 
@@ -487,16 +520,133 @@
 ![](img_leidbeiningar/JolakulaCanva_TextBox700x347.jpg){ .md-button }
 
 
+!!! tip "Mynd hlaðið inn í Canva"
+    
+    Búðu til nýtt skjal (New template) í Canva. Smelltu á **Upload** og sæktu myndina af jólakúlunni.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_Upload600x292.jpg)
+
+
+![ ](img_leidbeiningar/JolakulaCanva_FlytjaInn600x345.jpg)
+
+!!! tip "PNG mynd notuð sem sniðmát í Canva"
+    
+    Með
+
+
+!!! tip "Unnið með texta í Canva"
+    
+    Með
+
+    ![ ](img_leidbeiningar/JolakulaCanva_Font600x302.jpg)
+
+!!! tip "Mynd með snjókorni (eða öðru skrauti) bætt við"
+    
+    Með
+
+    ![ ](img_leidbeiningar/JolakulaCanva_Snjokorn600x397.jpg)
+
+
+
+!!! tip "Mynd með snjókorni (eða öðru skrauti) bætt við"
+    
+    Með
+
+
+
+
+![ ](img_leidbeiningar/JolakulaCanva_Font600x302.jpg)
 
 
 
 
 
-!!! note "Að vista skjal"
+!!! tip "Að jafna og dreifa í Canva"
+    
+    Með
+
+    ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
+
+
+
+
+
+!!! tip "Jólakúlan flutt út úr Canva"
+    
+    Með
+
+    ![ ](img_leidbeiningar/JolakulaCanva_Download600x404.jpg)
+
+
+    ![ ](img_leidbeiningar/JolakulaCanva_PNGDownload600x397.jpg)
+
+
+
+
+!!! tip "Hönnunin flutt inn í Inkscape"
+    
+    Með
+
+
+!!! tip "Vektorteikning búin til"
+    
+    Með
+
+    ![ ](img_leidbeiningar/JolakulaCanva_LinuteiknaBitamynd600x372.jpg)
+
+
+!!! example "Að eyða réttu myndinni"
+    
+    Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. 
+
+
+![ ](img_leidbeiningar/JolakulaCanva_EydaMynd600x455.jpg)
+
+!!! tip "Stærð jólakúlu stillt í Inkscape"
+    
+    Með
+
+    ![ ](img_leidbeiningar/JolakulaCanva_StillaStaerd600x637.jpg)
+
+
+!!! tip "PNG mynd notuð sem sniðmát í Canva"
+    
+    Með
+
+
+
+!!! tip "Vinnusvæði stillt utan um hönnunina"
+    
+    Með
+
+    ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
+
+
+
+    ![ ](img_leidbeiningar/JolakulaCanva_AdlagaStaerd600x393.jpg)
+
+
+
+!!! tip "Skurðarlínur stilltar í Inkscape"
+    
+    Í þessu verkefni eru allar línur gerðar að skurðarlínum. Veldu alla jólakúluna. Smelltu á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_SlokkvaFylling600x384.jpg)
+
+    Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_LiturUtlinuKveikja600x321.jpg)
+
+    Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_Lina002_600x387.jpg)
+
+
+!!! tip "Að vista skjal"
     
     Smelltu á **Skrá (File)** og **Vista sem (Save as)**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
-    ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
+    ![ ](img_leidbeiningar/JolakulaCanva_VistaPDF600x352.jpg)
 
 ### Þrívíddarhönnun og þrívíddarprentun
 
