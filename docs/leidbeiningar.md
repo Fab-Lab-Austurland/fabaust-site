@@ -335,7 +335,7 @@
 
 !!! note "Að vista skjal"
     
-    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
@@ -369,7 +369,7 @@
     
     Smelltu á **Skrá (File)** og **Flytja inn (Import)**. Smelltu svo á **Í lagi (OK)**. Þá birtist myndin á skjánum.
 
-    ![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
+    ![ ](img_leidbeiningar/Jolakula2_SkraFlytjaInn500x349.jpg)
 
 !!! example "Að búa til vektorteikningu eftir myndinni"
     
@@ -436,7 +436,7 @@
 
 !!! example "Að vista skjal"
     
-    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
@@ -568,7 +568,7 @@
 
 !!! tip "Að vista skjal"
     
-    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/JolakulaCanva_VistaPDF600x352.jpg)
 
@@ -647,7 +647,44 @@
 ![ ](img_leidbeiningar/Hringir_uppi_Ferill_mismunur600x481.jpg)
 
 
+!!! tip "Vinnusvæði stillt utan um hönnunina" 
+    
+    Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
 
+    * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
+    * Veldu myndina.
+    * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
+    * Smelltu þrisvar á báða plúsana.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
+
+    ![ ](img_leidbeiningar/JolakulaCanva_AdlagaStaerd600x393.jpg)
+
+!!! tip "Að jafna og dreifa miðað við síðu"
+    
+    Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. Veldu að jafna miðað við síðuna og miðjaðu svo bæði á x- og y-ás. Þá er hönnunin á miðri síðunni.
+
+    ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
+
+!!! tip "Skurðarlínur stilltar í Inkscape"
+    
+    Í þessu verkefni eru allar línur gerðar að skurðarlínum. Veldu alla jólakúluna. Smelltu á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_SlokkvaFylling600x384.jpg)
+
+    Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_LiturUtlinuKveikja600x321.jpg)
+
+    Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_Lina002_600x387.jpg)
+
+!!! tip "Að vista skjal"
+    
+    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+
+    ![ ](img_leidbeiningar/JolakulaCanva_VistaPDF600x352.jpg)
 
 
 ### Þrívíddarhönnun og þrívíddarprentun
