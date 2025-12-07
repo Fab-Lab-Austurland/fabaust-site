@@ -379,15 +379,15 @@
 
 !!! example "Að eyða réttu myndinni"
     
-    Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. Smelltu svo á vektorteikninguna og veldu einhvern lit úr litastikunni sem er neðst á skjánum. Það auðveldar þér að raða saman vektorteikningunni og jólakúlunni. 
+    Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. Smelltu svo á vektorteikninguna og veldu einhvern lit úr litastikunni sem er neðst á skjánum. Það auðveldar þér að raða saman skrautinu og jólakúlunni. 
 
     ![ ](img_leidbeiningar/Jolakula2_EydaMyndOgSkiptaUmLit600x340.jpg)
 
 !!! example "Að vinna með myndirnar í Inkscape"
     
     Ef þú vilt stækka og minnka formin getur þú gripið í örina á horninu og togað hana til og frá. Þannig stækka og minnka formin. 
-
-    ![ ](img_leidbeiningar/Jolakula1_StaekkaMinnka500x594.jpg)
+    
+    ![ ](img_leidbeiningar/Jolakula2_AdStaekkaOgMinnkaMedOrvum.jpg)
 
 !!! example "Að bræða form saman"
     
