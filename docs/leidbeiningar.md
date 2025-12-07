@@ -576,10 +576,22 @@
 
 !!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
     
-    Byrjaðu á að velja hringverkfærið á vinstri stikunni. Teiknaðu fyrst hring sem er 100mm í þvermál. Teiknaðu svo annan hring sem er 90mm í þvermál. Veldu svo sinnhvorn litinn á hringina. 
+    Þessar leiðbeiningar miða við að jólakúlan sé 10mm í þvermál en þú getur valið stærð að vild. Þegar þessi grunnur er tilbúinn mun hann líta út eins og á myndinni hér fyrir neðan. Svo getur þú bætt og breytt við grunninn eins og þér dettur í hug.
+
+    ![ ](img_leidbeiningar/Jolakula4_utskyring400x482.jpg)
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    Byrjaðu á að velja hringverkfærið á vinstri stikunni. 
+    
+    ![ ](img_leidbeiningar/Hringur_sporbaugs_bogaverkfaeri300x281.jpg)
+    
+    Teiknaðu fyrst hring sem er 100mm í þvermál. Teiknaðu svo annan hring sem er 90mm í þvermál. Veldu svo sinnhvorn litinn á hringina. 
    
     ![ ](img_leidbeiningar/90cm_Hringur600x500.jpg)
 
+!!! info "Sjást hringir ekki eins og hér er sýnt?"
+    
     Ef hringirnir birtast ekki fylltir með lit, líkt og á myndinni hér fyrir ofan, skaltu velja **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þar skaltu smella á flipann merktan **Fylling (Fill)** og kveikja á fyllingunni (annar gluggi frá vinstri)**.
 
     ![ ](img_leidbeiningar/KveiktAFyllingu.jpg)
@@ -611,58 +623,39 @@
     ![ ](img_leidbeiningar/Ferhyrningur_Rx_Ry3_400x382.jpg)
 
 
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+!!! info "Að miðja ferhyrninginn og hringinn"
     
-    M
+    Smelltu á **Hlutur (Object)** og svo **Jafna og dreifa (Align and distribute)**. Veldu bæði hringinn og ferhyrninginn.  Jafnaðu formin á y- ás (lóðréttum ás).
 
+    ![ ](img_leidbeiningar/Ferhyrningur_midja_a_lodrettum600x400.jpg)
 
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+!!! info "Hringur og ferhyrningur brædd saman"
     
-    M
+    Veldu bæði formin. Smelltu á **Ferill (Path)** og svo **Bræða saman (Union)**.
 
-
-
-![ ](img_leidbeiningar/Hringur_sporbaugs_bogaverkfaeri300x281.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+!!! info "Tveir hringir fyrir festingu"
     
-    M
+    Teiknaðu tvo hringi. Hafðu þann stærri 18mm í þvermál og þann minni 10mm í þvermál.
 
+    ![ ](img_leidbeiningar/Innri_hringur_fyrir_gat_10mm_400x560.jpg)
 
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+!!! info "Litlu hringarnir sameinaðir með gati"
     
-    M
+    Veldu báða hringana. Smelltu á **Ferill (Path)** og svo **Mismunur (Difference)**. Þá verður minni hringurinn að gati.
 
-![ ](img_leidbeiningar/Innri_hringur_fyrir_gat_10mm_400x560.jpg)
-
+    ![ ](img_leidbeiningar/Hringir_uppi_Ferill_mismunur600x481.jpg)
 
 !!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
     
-    M
+    Stilltu hringnum upp á ferhyrningnum og **miðjaðu á lóðréttum ás (y-ás)**.
 
-![ ](img_leidbeiningar/Hringar_fyrir_gat_midja_a_lodrettum400x399.jpg)
+    ![ ](img_leidbeiningar/Midja_efri_hring_og_nedri_hring500x428.jpg)
 
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+!!! info "Formin brædd saman"
     
-    M
+    Veldu bæði formin. Smelltu á **Ferill (Path)** og svo **Bræða saman (Union)**. Þá er grunnurinn að jólakúlunni tilbúinn.
 
-
-![ ](img_leidbeiningar/Allt_ferill_braeda_saman600x524.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-
-![ ](img_leidbeiningar/Hringir_uppi_Ferill_mismunur600x481.jpg)
-
+    ![ ](img_leidbeiningar/Jolakula4_utskyring400x482.jpg)
 
 !!! tip "Vinnusvæði stillt utan um hönnunina" 
     
@@ -671,7 +664,7 @@
     * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Veldu myndina.
     * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
-    * Smelltu þrisvar á báða plúsana.
+    * Smelltu þrisvar á báða plúsana (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
 
     ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
 
