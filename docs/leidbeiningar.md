@@ -386,7 +386,7 @@
 !!! example "Að vinna með myndirnar í Inkscape"
     
     Ef þú vilt stækka og minnka formin getur þú gripið í örina á horninu og togað hana til og frá. Þannig stækka og minnka formin. 
-    
+
     ![ ](img_leidbeiningar/Jolakula2_AdStaekkaOgMinnkaMedOrvum.jpg)
 
 !!! example "Að bræða form saman"
@@ -410,6 +410,8 @@
 !!! example "Að skipta um leturgerð"
     
     Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
+
+    ![ ](img_leidbeiningar/Jolakula2_Jona_Texti_og_letur600x382.jpg)
 
 !!! example "Að stilla skurðarlínur"
     
@@ -441,15 +443,13 @@
     ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
 
-
-
 ### Jólakúla 3 - Unnin að hluta til í Canva
 
 ![ ](img_leidbeiningar/Jolakulur_Helena_krossv_landscape600x450.jpg)
 
 !!! tip "PNG mynd notuð sem sniðmát í Canva"
     
-    Með því að smella á hlekkinn hér fyrir neðan færð þú .png mynd sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir á hlekkinn færðu .png mynd upp á skjáinn. Hægrismelltu á myndina og vistaðu hana.  Fyrstu skrefin eru svo unnin á vefsíðu Canva.com.
+    Með því að smella á hlekkinn hér fyrir neðan færð þú .png mynd sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir á hlekkinn færðu .png mynd upp á skjáinn. Hægrismelltu á myndina og vistaðu hana. Fyrstu skrefin eru svo unnin á vefsíðu Canva.com.
 
     [Sniðmát til að nota í Canva - jólakúla ](<img_leidbeiningar/Jólakúla_sniðmát fyrir gesti.png>){ .md-button }
 
@@ -471,7 +471,7 @@
 
 !!! tip "Að nota myndir í Canva til að nota sem skraut"
     
-    Smelltu á **Elements** á vinstri stikunni. Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Ef þú finnur skýra, óskyggða, svart/hvíta mynd mynd sem hentar getur þú smellt á hana og hún birtist á vinnusvæðinu. Ef þú finnur ekki mynd sem þér hentar skaltu fylgja næsta skrefi og finna mynd á netinu.
+    Smelltu á **Elements** á vinstri stikunni. Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Ef þú finnur skýra, óskyggða, svart/hvíta mynd sem hentar getur þú smellt á hana og hún birtist á vinnusvæðinu. Ef þú finnur ekki mynd sem þér hentar skaltu fylgja næsta skrefi og finna mynd á netinu.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Elements400x393.jpg)
 
@@ -496,7 +496,7 @@
     
     Þegar smellt er á mynd birtist tákn (**Duplicate**) og þegar smellt er á það verður til afrit af myndinni. Þannig er auðveldlega hægt að búa til mörg afrit. Svo er hægt að stækka og minnka myndirnar með því að grípa í hornin og draga þau til.
 
-![ ](img_leidbeiningar/JolakulaCanva_SnjokornMargfoldudNytt500x296.jpg)
+    ![ ](img_leidbeiningar/JolakulaCanva_SnjokornMargfoldudNytt500x296.jpg)
 
 
 !!! tip "Jólakúlan flutt út úr Canva"
@@ -540,7 +540,7 @@
     * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Veldu myndina.
     * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
-    * Smelltu þrisvar á báða plúsana.
+    * Smelltu þrisvar á báða plúsana (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
 
     ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
 
@@ -572,13 +572,24 @@
 
     ![ ](img_leidbeiningar/JolakulaCanva_VistaPDF600x352.jpg)
 
-
-
 ### Jólakúla 4 - Unnin frá grunni!
 
 !!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
     
-    M..........
+    Byrjaðu á að velja hringverkfærið á vinstri stikunni. Teiknaðu fyrst hring sem er 100mm í þvermál. Teiknaðu svo annan hring sem er 90mm í þvermál. Veldu svo sinnhvorn litinn á hringina. 
+   
+    ![ ](img_leidbeiningar/90cm_Hringur600x500.jpg)
+
+    Ef hringirnir birtast ekki fylltir með lit, líkt og á myndinni hér fyrir ofan, skaltu velja **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þar skaltu smella á flipann merktan **Fylling (Fill)** og kveikja á fyllingunni (annar gluggi frá vinstri)**.
+
+    ![ ](img_leidbeiningar/KveiktAFyllingu.jpg)
+
+!!! info "Hringar jafnaðir"
+    
+    Smelltu á **Hlutur (Object)** og svo **Jafna og dreifa (Align and distribute)**. Veldu báða hringina og jafnaðu bæði á x- og y- ás.
+
+    ![ ](img_leidbeiningar/Jolakula4_HringarJafnaOgDreifa600x396.jpg)
+
 
 
 
@@ -614,7 +625,7 @@
     
     M
 
-![ ](img_leidbeiningar/90cm_Hringur600x500.jpg)
+
 
 
 !!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
