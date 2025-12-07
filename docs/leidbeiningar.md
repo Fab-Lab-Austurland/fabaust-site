@@ -590,11 +590,25 @@
 
     ![ ](img_leidbeiningar/Jolakula4_HringarJafnaOgDreifa600x396.jpg)
 
+!!! info "Innri hringur gerður að gati"
+    
+    Veldu báða hringana. Smelltu á **Ferill (Path)** og svo **Mismunur (Difference)**. Þá verður minni hringurinn að gati.
 
+    ![ ](img_leidbeiningar/Ferill_mismunur600x478.jpg)
 
+!!! info "Rétthyrningsverkfærið"
+    
+    Veldu rétthyrningsverkfærið á stikunni vinstra megin og teiknaðu ferhyrning.
 
+    ![ ](img_leidbeiningar/Ferhyrningur_retthyrningsverkfaeri400x469.jpg)
 
-![ ](img_leidbeiningar/Ferhyrningur_retthyrningsverkfaeri400x469.jpg)
+    Stilltu breidd rétthyrningsins sem 20mm og hæð hans sem 10mm.
+
+    ![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
+
+    Á efstu stikunni er hægt að stilla hvort hornin á rétthyrningnum eru hvöss eða mjúk. Séu Rx og Ry stillt á 0 eru hornin hvöss en hér er valið að stilla á 3.
+
+    ![ ](img_leidbeiningar/Ferhyrningur_Rx_Ry3_400x382.jpg)
 
 
 !!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
@@ -602,14 +616,6 @@
     M
 
 
-![ ](img_leidbeiningar/Ferhyrningur_Rx_Ry3_400x382.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
 
 
 !!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
