@@ -242,7 +242,7 @@
 ![ ](img_leidbeiningar/Jolakulur_mism600x450.jpg)
 
 
-### Jólakúla 1 - Heill flötur þar sem texti og mynstur eru skorin út
+### Jólakúla 1 - Heill flötur þar sem texti og mynstur eru skorin út og/eða rasteruð
 
 ![ ](img_leidbeiningar/Jolakulur_gudny_krossv_landscape600x450.jpg)
 
@@ -272,9 +272,11 @@
 !!! note "Að finna myndir á netinu til að nota sem skraut"
     
     Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
-    Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið
+    Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið.
 
     ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
+
+    Hægrismelltu á myndina sem þú vilt nota og veldu **Vista mynd sem (Save image as)**. Skráargerðirnar .jpg,.jpeg og .png henta vel í svona verkefni.
 
 !!! note "Að flytja mynd inn í Inkscape"
     
@@ -360,6 +362,8 @@
     Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið
 
     ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
+
+    Hægrismelltu á myndina sem þú vilt nota og veldu **Vista mynd sem (Save image as)**. Skráargerðirnar .jpg,.jpeg og .png henta vel í svona verkefni.
 
 !!! example "Að flytja mynd inn í Inkscape"
     
@@ -477,6 +481,8 @@
     Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið
 
     ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
+
+    Hægrismelltu á myndina sem þú vilt nota og veldu **Vista mynd sem (Save image as)**. Skráargerðirnar .jpg,.jpeg og .png henta vel í svona verkefni.
 
 
 !!! tip "Mynd með snjókorni (eða öðru skrauti) bætt við"
