@@ -438,82 +438,8 @@
 
 
 
-### Jólakúla 3 - Unnin frá grunni!
 
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M..........
-
-
-
-
-![ ](img_leidbeiningar/Ferhyrningur_retthyrningsverkfaeri400x469.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-
-![ ](img_leidbeiningar/Ferhyrningur_Rx_Ry3_400x382.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-
-
-![ ](img_leidbeiningar/Hringur_sporbaugs_bogaverkfaeri300x281.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-![ ](img_leidbeiningar/90cm_Hringur600x500.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-![ ](img_leidbeiningar/Innri_hringur_fyrir_gat_10mm_400x560.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-![ ](img_leidbeiningar/Hringar_fyrir_gat_midja_a_lodrettum400x399.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-
-![ ](img_leidbeiningar/Allt_ferill_braeda_saman600x524.jpg)
-
-
-!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
-    
-    M
-
-
-![ ](img_leidbeiningar/Hringir_uppi_Ferill_mismunur600x481.jpg)
-
-
-
-
-### Jólakúla 4 - Unnin að hluta til í Canva
+### Jólakúla 3 - Unnin að hluta til í Canva
 
 ![ ](img_leidbeiningar/Jolakulur_Helena_krossv_landscape600x450.jpg)
 
@@ -639,6 +565,84 @@
     Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna það og gera breytingar ef einhverjar breytingar þarf að gera. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/JolakulaCanva_VistaPDF600x352.jpg)
+
+
+
+### Jólakúla 4 - Unnin frá grunni!
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M..........
+
+
+
+
+![ ](img_leidbeiningar/Ferhyrningur_retthyrningsverkfaeri400x469.jpg)
+
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+
+![ ](img_leidbeiningar/Ferhyrningur_Rx_Ry3_400x382.jpg)
+
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
+
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+
+
+![ ](img_leidbeiningar/Hringur_sporbaugs_bogaverkfaeri300x281.jpg)
+
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+![ ](img_leidbeiningar/90cm_Hringur600x500.jpg)
+
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+![ ](img_leidbeiningar/Innri_hringur_fyrir_gat_10mm_400x560.jpg)
+
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+![ ](img_leidbeiningar/Hringar_fyrir_gat_midja_a_lodrettum400x399.jpg)
+
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+
+![ ](img_leidbeiningar/Allt_ferill_braeda_saman600x524.jpg)
+
+
+!!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
+    
+    M
+
+
+![ ](img_leidbeiningar/Hringir_uppi_Ferill_mismunur600x481.jpg)
+
+
+
+
 
 ### Þrívíddarhönnun og þrívíddarprentun
 
