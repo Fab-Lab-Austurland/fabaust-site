@@ -769,88 +769,105 @@
 
 !!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
     
-    Byrjaðu á að velja hringverkfærið á vinstri stikunni. 
+    * Byrjaðu á að velja hringverkfærið á vinstri stikunni. 
     
     ![ ](img_leidbeiningar/Hringur_sporbaugs_bogaverkfaeri300x281.jpg)
     
-    Teiknaðu fyrst hring sem er 100mm í þvermál. Teiknaðu svo annan hring sem er 90mm í þvermál. Veldu svo sinnhvorn litinn á hringina. 
+    * Teiknaðu fyrst hring sem er 100mm í þvermál. 
+    
+    * Teiknaðu svo annan hring sem er 90mm í þvermál. 
+    
+    * Veldu svo sinnhvorn litinn á hringina. 
    
     ![ ](img_leidbeiningar/90cm_Hringur600x500.jpg)
 
 !!! info "Sjást hringir ekki eins og hér er sýnt?"
     
-    Ef hringirnir birtast ekki fylltir með lit, líkt og á myndinni hér fyrir ofan, skaltu velja **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þar skaltu smella á flipann merktan **Fylling (Fill)** og kveikja á fyllingunni (annar gluggi frá vinstri)**.
+    * Ef hringirnir birtast ekki fylltir með lit, líkt og á myndinni hér fyrir ofan, skaltu velja **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. 
+    
+    * Þar skaltu smella á flipann merktan **Fylling (Fill)** og kveikja á fyllingunni (annar gluggi frá vinstri)**.
 
     ![ ](img_leidbeiningar/KveiktAFyllingu.jpg)
 
 !!! info "Hringar jafnaðir"
     
-    Smelltu á **Hlutur (Object)** og svo **Jafna og dreifa (Align and distribute)**. Veldu báða hringina og jafnaðu bæði á x- og y- ás.
+    * Smelltu á **Hlutur (Object)** og svo **Jafna og dreifa (Align and distribute)**. 
+    * Veldu báða hringina og jafnaðu bæði á x- og y- ás.
 
     ![ ](img_leidbeiningar/Jolakula4_HringarJafnaOgDreifa600x396.jpg)
 
 !!! info "Innri hringur gerður að gati"
     
-    Veldu báða hringana. Smelltu á **Ferill (Path)** og svo **Mismunur (Difference)**. Þá verður minni hringurinn að gati.
+    * Veldu báða hringana. 
+    
+    * Smelltu á **Ferill (Path)** og svo **Mismunur (Difference)**. Þá verður minni hringurinn að gati.
 
     ![ ](img_leidbeiningar/Ferill_mismunur600x478.jpg)
 
 !!! info "Rétthyrningsverkfærið"
     
-    Veldu rétthyrningsverkfærið á stikunni vinstra megin og teiknaðu ferhyrning.
+    * Veldu rétthyrningsverkfærið á stikunni vinstra megin og teiknaðu ferhyrning.
 
     ![ ](img_leidbeiningar/Ferhyrningur_retthyrningsverkfaeri400x469.jpg)
 
-    Stilltu breidd rétthyrningsins sem 20mm og hæð hans sem 10mm.
+    * Stilltu breidd rétthyrningsins sem 20mm og hæð hans sem 10mm.
 
     ![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
 
-    Á efstu stikunni er hægt að stilla hvort hornin á rétthyrningnum eru hvöss eða mjúk. Séu Rx og Ry stillt á 0 eru hornin hvöss en hér er valið að stilla á 3.
+    * Á efstu stikunni er hægt að stilla hvort hornin á rétthyrningnum eru hvöss eða mjúk. Séu Rx og Ry stillt á 0 eru hornin hvöss en hér er valið að stilla á 3.
 
     ![ ](img_leidbeiningar/Ferhyrningur_Rx_Ry3_400x382.jpg)
 
 
 !!! info "Að miðja ferhyrninginn og hringinn"
     
-    Smelltu á **Hlutur (Object)** og svo **Jafna og dreifa (Align and distribute)**. Veldu bæði hringinn og ferhyrninginn.  Jafnaðu formin á y- ás (lóðréttum ás).
+    * Smelltu á **Hlutur (Object)** og svo **Jafna og dreifa (Align and distribute)**. 
+    
+    * Veldu bæði hringinn og ferhyrninginn.  Jafnaðu formin á y- ás (lóðréttum ás).
 
     ![ ](img_leidbeiningar/Ferhyrningur_midja_a_lodrettum600x400.jpg)
 
 !!! info "Hringur og ferhyrningur brædd saman"
     
-    Veldu bæði formin. Smelltu á **Ferill (Path)** og svo **Bræða saman (Union)**.
+    * Veldu bæði formin. Smelltu á **Ferill (Path)** og svo **Bræða saman (Union)**.
 
 !!! info "Tveir hringir fyrir festingu"
     
-    Teiknaðu tvo hringi. Hafðu þann stærri 18mm í þvermál og þann minni 10mm í þvermál.
+    * Teiknaðu tvo hringi. 
+    
+    * Hafðu þann stærri 18mm í þvermál og þann minni 10mm í þvermál.
 
     ![ ](img_leidbeiningar/Innri_hringur_fyrir_gat_10mm_400x560.jpg)
 
 !!! info "Litlu hringarnir sameinaðir með gati"
     
-    Veldu báða hringana. Smelltu á **Ferill (Path)** og svo **Mismunur (Difference)**. Þá verður minni hringurinn að gati.
+    * Veldu báða hringana. 
+    
+    * Smelltu á **Ferill (Path)** og svo **Mismunur (Difference)**. Þá verður minni hringurinn að gati.
 
     ![ ](img_leidbeiningar/Hringir_uppi_Ferill_mismunur600x481.jpg)
 
 !!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
     
-    Stilltu hringnum upp á ferhyrningnum og **miðjaðu á lóðréttum ás (y-ás)**.
+    * Stilltu hringnum upp á ferhyrningnum og **miðjaðu á lóðréttum ás (y-ás)**.
 
     ![ ](img_leidbeiningar/Midja_efri_hring_og_nedri_hring500x428.jpg)
 
 !!! info "Formin brædd saman"
     
-    Veldu bæði formin. Smelltu á **Ferill (Path)** og svo **Bræða saman (Union)**. Þá er grunnurinn að jólakúlunni tilbúinn.
+    * Veldu bæði formin. 
+    
+    * Smelltu á **Ferill (Path)** og svo **Bræða saman (Union)**. Þá er grunnurinn að jólakúlunni tilbúinn.
 
     ![ ](img_leidbeiningar/Jolakula4_utskyring400x482.jpg)
 
 !!! info "Bættu við skrauti að vild"
     
-    Nú getur þú bætt skrauti við jólakúluna. Þegar það er búið fylgir þú næstu skrefum.
+    * Nú getur þú bætt skrauti við jólakúluna. Þegar það er búið fylgir þú næstu skrefum.
 
 !!! info "Vinnusvæði stillt utan um hönnunina" 
     
-    Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
+    * Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
 
     * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Veldu myndina.
@@ -863,13 +880,21 @@
 
 !!! info "Að jafna og dreifa miðað við síðu"
     
-    Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. Veldu að jafna miðað við síðuna og miðjaðu svo bæði á x- og y-ás. Þá er hönnunin á miðri síðunni.
+    * Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. 
+    
+    * Veldu að jafna miðað við síðuna og miðjaðu svo bæði á x- og y-ás. Þá er hönnunin á miðri síðunni.
 
     ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
 
 !!! info "Skurðarlínur stilltar í Inkscape"
     
-    Nú velur þú þau svæði sem þú vilt að séu skorin út. Myndirnar hér fyrir neðan sýna jólakúluna úr Smelltu á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+    * Nú velur þú þau svæði sem þú vilt að séu skorin út. 
+    * Myndirnar hér fyrir neðan sýna jólakúluna úr verkefninu **Jólakúla 3** en skurðarlínurnar þínar eru stilltar á sama hátt.
+    
+    *  Smelltu á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. 
+    
+    * Þú smellir á þann flipa sem þú ætlar að vinna með. 
+    * Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
 
     ![ ](img_leidbeiningar/JolakulaCanva_SlokkvaFylling600x384.jpg)
 
