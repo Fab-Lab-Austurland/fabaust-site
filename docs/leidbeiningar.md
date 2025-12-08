@@ -695,7 +695,8 @@
 
 !!! example "Að eyða réttu myndinni"
     
-    * Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. 
+    * Smelltu á myndina og vektorteikninguna til skiptis. 
+    * Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. 
 
     ![ ](img_leidbeiningar/JolakulaCanva_EydaMynd600x455.jpg)
 
