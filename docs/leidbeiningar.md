@@ -261,7 +261,7 @@
     
     * Opnaðu skrána. Þá sérðu jólakúlu með svörtum útlínum.
 
-    ![Jólakúla 1 .svg skrá](img_leidbeiningar/Jolakula_snidmat_heil.svg)
+    [Jólakúla 1 .svg skrá](img_leidbeiningar/Jolakula_snidmat_heil.svg)
 
     [Jólakúla 1 sniðmát](img_leidbeiningar/Jolakula1_sniðmat.png){ .md-button }
 
