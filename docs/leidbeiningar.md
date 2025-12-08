@@ -819,7 +819,7 @@
 
     ![ ](img_leidbeiningar/Ferhyrningur_retthyrningsverkfaeri400x469.jpg)
 
-    * Stilltu breidd rétthyrningsins sem **20mm og hæð hans sem 10mm**.
+    * Stilltu breidd rétthyrningsins sem **20mm** og hæð hans sem **10mm**.
 
     ![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
 
@@ -832,19 +832,21 @@
     
     * Smelltu á **Hlutur (Object)** og svo **Jafna og dreifa (Align and distribute)**. 
     
-    * Veldu bæði hringinn og ferhyrninginn.  Jafnaðu formin á y- ás (lóðréttum ás).
+    * Veldu bæði hringinn og ferhyrninginn.  
+    * Jafnaðu formin á **y- ás (lóðréttum ás)**.
 
     ![ ](img_leidbeiningar/Ferhyrningur_midja_a_lodrettum600x400.jpg)
 
 !!! info "Hringur og ferhyrningur brædd saman"
     
-    * Veldu bæði formin. Smelltu á **Ferill (Path)** og svo **Bræða saman (Union)**.
+    * Veldu bæði formin. 
+    * Smelltu á **Ferill (Path)** og svo **Bræða saman (Union)**.
 
 !!! info "Tveir hringir fyrir festingu"
     
     * Teiknaðu tvo hringi. 
     
-    * Hafðu þann stærri 18mm í þvermál og þann minni 10mm í þvermál.
+    * Hafðu þann stærri **18mm** í þvermál og þann minni **10mm** í þvermál.
 
     ![ ](img_leidbeiningar/Innri_hringur_fyrir_gat_10mm_400x560.jpg)
 
@@ -872,7 +874,8 @@
 
 !!! info "Bættu við skrauti að vild"
     
-    * Nú getur þú bætt skrauti við jólakúluna. Þegar það er búið fylgir þú næstu skrefum.
+    * Nú getur þú bætt skrauti við jólakúluna. 
+    * Þegar það er búið fylgir þú næstu skrefum.
 
 !!! info "Vinnusvæði stillt utan um hönnunina" 
     
@@ -881,7 +884,7 @@
     * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Veldu myndina.
     * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
-    * Smelltu þrisvar á báða plúsana (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
+    * Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
 
     ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
 
@@ -891,7 +894,7 @@
     
     * Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. 
     
-    * Veldu að jafna miðað við síðuna og miðjaðu svo bæði á x- og y-ás. Þá er hönnunin á miðri síðunni.
+    * Veldu að jafna miðað við síðuna og **miðjaðu svo bæði á x- og y-ás**. Þá er hönnunin á miðri síðunni.
 
     ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
 
