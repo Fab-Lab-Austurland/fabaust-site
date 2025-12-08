@@ -239,14 +239,14 @@
 
 ## Jólakúlur
 
-!!! note "Sniðmát notað sem grunnur að jólakúlu 1"
+!!! note
     
     ![ ](img_leidbeiningar/Forsida_Landscape1000x563.jpg)
 
 ### Jólakúla 1 - Heill flötur þar sem texti og mynstur eru skorin út og/eða rasteruð
 
 
-!!! note "Sniðmát notað sem grunnur að jólakúlu 1"
+!!! note "Dæmi um hvernig hægt er að útfæra jólakúlu 1"
     
     ![ ](img_leidbeiningar/Jolakulur_gudny_krossv_landscape600x450.jpg)
 
