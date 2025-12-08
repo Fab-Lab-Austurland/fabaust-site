@@ -746,7 +746,7 @@
     
     * Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. 
     
-    * Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
+    * Passaðu einnig að neðsta stikan (**Alpha channel sem er merkt með **A**) sé stillt á **100**. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
 
     ![ ](img_leidbeiningar/JolakulaCanva_LiturUtlinuKveikja600x321.jpg)
 
@@ -778,13 +778,13 @@
 
 !!! info "Hér er ekkert sniðmát notað heldur býrð þú kúluna til frá grunni"
     
-    * Byrjaðu á að velja hringverkfærið á vinstri stikunni. 
+    * Byrjaðu á að velja **hringverkfærið** á vinstri stikunni. 
     
     ![ ](img_leidbeiningar/Hringur_sporbaugs_bogaverkfaeri300x281.jpg)
     
-    * Teiknaðu fyrst hring sem er 100mm í þvermál. 
+    * Teiknaðu fyrst hring sem er **100mm** í þvermál. 
     
-    * Teiknaðu svo annan hring sem er 90mm í þvermál. 
+    * Teiknaðu svo annan hring sem er **90mm** í þvermál. 
     
     * Veldu svo sinnhvorn litinn á hringina. 
    
@@ -794,14 +794,14 @@
     
     * Ef hringirnir birtast ekki fylltir með lit, líkt og á myndinni hér fyrir ofan, skaltu velja **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. 
     
-    * Þar skaltu smella á flipann merktan **Fylling (Fill)** og kveikja á fyllingunni (annar gluggi frá vinstri)**.
+    * Þar skaltu smella á flipann merktan **Fylling (Fill)** og **kveikja á fyllingunni** (annar gluggi frá vinstri).
 
     ![ ](img_leidbeiningar/KveiktAFyllingu.jpg)
 
 !!! info "Hringar jafnaðir"
     
     * Smelltu á **Hlutur (Object)** og svo **Jafna og dreifa (Align and distribute)**. 
-    * Veldu báða hringina og jafnaðu bæði á x- og y- ás.
+    * Veldu báða hringina og **jafnaðu bæði á x- og y- ás**.
 
     ![ ](img_leidbeiningar/Jolakula4_HringarJafnaOgDreifa600x396.jpg)
 
@@ -815,15 +815,15 @@
 
 !!! info "Rétthyrningsverkfærið"
     
-    * Veldu rétthyrningsverkfærið á stikunni vinstra megin og teiknaðu ferhyrning.
+    * Veldu **rétthyrningsverkfærið** á stikunni vinstra megin og teiknaðu ferhyrning.
 
     ![ ](img_leidbeiningar/Ferhyrningur_retthyrningsverkfaeri400x469.jpg)
 
-    * Stilltu breidd rétthyrningsins sem 20mm og hæð hans sem 10mm.
+    * Stilltu breidd rétthyrningsins sem **20mm og hæð hans sem 10mm**.
 
     ![ ](img_leidbeiningar/Ferhyrningur_20x10_310x400.jpg)
 
-    * Á efstu stikunni er hægt að stilla hvort hornin á rétthyrningnum eru hvöss eða mjúk. Séu Rx og Ry stillt á 0 eru hornin hvöss en hér er valið að stilla á 3.
+    * Á efstu stikunni er hægt að stilla hvort hornin á rétthyrningnum eru hvöss eða mjúk. Séu **Rx og Ry** stillt á 0 eru hornin hvöss en hér er valið að stilla á **3**.
 
     ![ ](img_leidbeiningar/Ferhyrningur_Rx_Ry3_400x382.jpg)
 
