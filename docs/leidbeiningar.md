@@ -257,7 +257,9 @@
     
     * Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. 
 
-    * Þegar þú smellir á hlekkinn birtist mynd af sniðmátinu fyrir jólakúluna. Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum. 
+    * Þegar þú smellir á hlekkinn birtist mynd af sniðmátinu fyrir jólakúluna. Hægrismelltu á myndina og veldu að vista hana sem .svg skrá.
+    
+    * Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum. 
     
     * Opnaðu skrána. Þá sérðu jólakúlu með svörtum útlínum.
 
