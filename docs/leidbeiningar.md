@@ -580,71 +580,115 @@
 
 !!! tip "Mynd hlaðið inn í Canva"
     
-    Búðu til nýtt skjal (New template) í Canva. Smelltu á **Upload** og sæktu myndina af jólakúlunni. Smelltu á myndina til að hún birtist á vinnusvæðinu.
+    * Búðu til nýtt skjal (New template) í Canva. 
+    
+    * Smelltu á **Upload** og sæktu myndina af jólakúlunni. 
+    
+    * Smelltu á myndina til að hún birtist á vinnusvæðinu.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Upload600x292.jpg)
 
 !!! tip "Unnið með texta í Canva"
     
-    Smelltu á textatáknið á vinstri stikunni. Skrifaðu textann sem þú vilt hafa. Efst á skjánum getur þú breytt stærð textans og leturgerðinni.
+    * Smelltu á textatáknið á vinstri stikunni. 
+    
+    * Skrifaðu textann sem þú vilt hafa. 
+    
+    * Efst á skjánum getur þú breytt stærð textans og leturgerðinni.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Font600x302.jpg)
 
 !!! tip "Að nota myndir í Canva til að nota sem skraut"
     
-    Smelltu á **Elements** á vinstri stikunni. Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Ef þú finnur skýra, óskyggða, svart/hvíta mynd sem hentar getur þú smellt á hana og hún birtist á vinnusvæðinu. Ef þú finnur ekki mynd sem þér hentar skaltu fylgja næsta skrefi og finna mynd á netinu.
+    * Smelltu á **Elements** á vinstri stikunni. 
+    
+    * Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. 
+    
+    * Ef þú finnur skýra, óskyggða, svart/hvíta mynd sem hentar getur þú smellt á hana og hún birtist á vinnusvæðinu. 
+    
+    * Ef þú finnur ekki mynd sem þér hentar skaltu fylgja næsta skrefi og finna mynd á netinu.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Elements400x393.jpg)
 
 !!! tip "Að finna myndir á netinu til að nota sem skraut"
     
-    Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
-    Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið
+    * Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. 
+    
+    * Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
+    
+    
+    * Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. 
+    
+    * Veldu svo **Creative Commons** leyfið
 
     ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
 
-    Hægrismelltu á myndina sem þú vilt nota og veldu **Vista mynd sem (Save image as)**. Skráargerðirnar .jpg,.jpeg og .png henta vel í svona verkefni.
+    * Hægrismelltu á myndina sem þú vilt nota og veldu **Vista mynd sem (Save image as)**. 
+    
+    * Skráargerðirnar .jpg,.jpeg og .png henta vel í svona verkefni.
 
 
 !!! tip "Mynd með snjókorni (eða öðru skrauti) bætt við"
     
-    Hér er mynd af snjókorni sem var fundin á netinu, vistuð í tölvu og svo flutt inn í Canva með **Upload files**. Svo var smellt á myndina og hún birtist á vinnusvæðinu.
+    * Hér er mynd af snjókorni sem var fundin á netinu, vistuð í tölvu og svo flutt inn í Canva með **Upload files**. 
+    
+    * Svo var smellt á myndina og hún birtist á vinnusvæðinu.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Snjokorn600x397.jpg)
 
 
 !!! tip "Mynd afrituð, límd og stækkuð eða minnkuð"
     
-    Þegar smellt er á mynd birtist tákn (**Duplicate**) og þegar smellt er á það verður til afrit af myndinni. Þannig er auðveldlega hægt að búa til mörg afrit. Svo er hægt að stækka og minnka myndirnar með því að grípa í hornin og draga þau til.
+    * Þegar smellt er á mynd birtist tákn (**Duplicate**) og þegar smellt er á það verður til afrit af myndinni. Þannig er auðveldlega hægt að búa til mörg afrit. 
+    
+    * Svo er hægt að stækka og minnka myndirnar með því að grípa í hornin og draga þau til.
 
     ![ ](img_leidbeiningar/JolakulaCanva_SnjokornMargfoldudNytt500x296.jpg)
 
 
 !!! tip "Jólakúlan flutt út úr Canva"
     
-    Þegar hönnunin er tilbúin er smellt á **Share** hnappinn efst til hægri og svo á **Download**.
+    * Þegar hönnunin er tilbúin er smellt á **Share** hnappinn efst til hægri og svo á **Download**.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Download600x404.jpg)
 
-    Því næst er gerð skráarinnar valin. Hér er PNG valið en JPG virkar líka vel. Ef blaðsíðurnar í skjalinu eru fleiri en ein þarf að velja blaðsíðuna sem á að flytja út. Svo er smellt á **Download**.
+    * Því næst er gerð skráarinnar valin. Hér er PNG valið en JPG virkar líka vel. 
+    
+    * Ef blaðsíðurnar í skjalinu eru fleiri en ein þarf að velja blaðsíðuna sem á að flytja út. 
+    
+    * Svo er smellt á **Download**.
 
     ![ ](img_leidbeiningar/JolakulaCanva_PNGDownload600x397.jpg)
 
 !!! tip "Hönnunin flutt inn í Inkscape"
     
-    Inkscape er opnað og nýtt skjal búið til. Svo er smellt á **Skrá (File)** og **Flytja inn (Import)**. Myndin er valin og smellt á **Opna (Open)**. Þá opnast lítill gluggi þar sem smellt er á **OK**.
+    * Inkscape er opnað og nýtt skjal búið til. 
+    
+    * Svo er smellt á **Skrá (File)** og **Flytja inn (Import)**. 
+    
+    * Myndin er valin og smellt á **Opna (Open)**. Þá opnast lítill gluggi þar sem smellt er á **OK**.
 
     ![ ](img_leidbeiningar/JolakulaCanva_FileImport600x341.jpg)
 
 !!! tip "Vektorteikning búin til"
     
-    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka eða minnka litmörk ef myndin kemur ekki nógu vel út. Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
+    * Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. 
+    
+    * Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
+    
+    * Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). 
+    
+    * Smelltu svo á **Virkja (Apply)**. 
+    
+    * Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka eða minnka litmörk ef myndin kemur ekki nógu vel út. 
+    
+    * Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
 
     ![ ](img_leidbeiningar/JolakulaCanva_LinuteiknaBitamynd600x372.jpg)
 
 !!! example "Að eyða réttu myndinni"
     
-    Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. 
+    * Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. 
 
     ![ ](img_leidbeiningar/JolakulaCanva_EydaMynd600x455.jpg)
 
