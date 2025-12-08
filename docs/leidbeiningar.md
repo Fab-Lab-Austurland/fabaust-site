@@ -309,67 +309,103 @@
 
 !!! note "Að búa til vektorteikningu eftir myndinni"
     
-    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka og minnka litmörk ef myndin kemur ekki nógu vel út. Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
+    * Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. 
+    
+    * Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
+    
+    * Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. 
+    
+    * Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka og minnka litmörk ef myndin kemur ekki nógu vel út. 
+    
+    * Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
 
     ![ ](img_leidbeiningar/Jolakula1_linuteikna600x370.jpg)
 
 !!! example "Að eyða réttu myndinni"
     
-    Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. Smelltu svo á vektorteikninguna og veldu einhvern lit úr litastikunni sem er neðst á skjánum. Það auðveldar þér að raða saman vektorteikningunni og jólakúlunni. 
+    * Smelltu á myndina og vektorteikninguna til skiptis. 
+    
+    * Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. 
+    
+    * Smelltu svo á vektorteikninguna og veldu einhvern lit úr litastikunni sem er neðst á skjánum. Það auðveldar þér að raða saman vektorteikningunni og jólakúlunni. 
 
     ![ ](img_leidbeiningar/Jolakula2_EydaMyndOgSkiptaUmLit600x340.jpg)
 
 !!! note "Að vinna með myndirnar í Inkscape"
     
-    Ef þú vilt fá fleiri myndir hægrismellir þú á myndina og velur **Afrita (Copy)**. Svo hægrismellir þú á skjáinn og velur **Líma (Paste)**. 
+    * Ef þú vilt fá fleiri myndir hægrismellir þú á myndina og velur **Afrita (Copy)**. 
+    
+    * Svo hægrismellir þú á skjáinn og velur **Líma (Paste)**. 
 
     ![ ](img_leidbeiningar/Jolakula1_AfritaLima300x201.jpg)
 
 !!! note "Að vinna með myndirnar í Inkscape"
     
-    Ef þú vilt stækka og minnka formin getur þú gripið í örina á horninu og togað hana til og frá. Þannig stækka og minnka formin. 
+    * Ef þú vilt stækka og minnka formin getur þú gripið í örina á horninu og togað hana til og frá. Þannig stækka og minnka formin. 
 
     ![ ](img_leidbeiningar/Jolakula1_StaekkaMinnka500x594.jpg)
 
 
 !!! note "Að stilla skurðarlínur"
     
-    Næst velur þú þau svæði sem þú vilt láta skera út. Fyrst þarftu að smella á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+    *Næst velur þú þau svæði sem þú vilt láta skera út. 
+    
+    * Fyrst þarftu að smella á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. 
+    
+    * Þú smellir á þann flipa sem þú ætlar að vinna með. 
+    
+    * Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
 
     ![ ](img_leidbeiningar/Jolakula1_skurdarlina_slokktAFyllingu_Canva600x437.jpg)
 
-    Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
+    * Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. 
+    
+    * Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. 
+    
+    * Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
 
     ![ ](img_leidbeiningar/Jolakula1_Skurdarlina_kveiktALit_Canva600x377.jpg)
 
-    Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
+    * Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. 
+    
+    * Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
 
     ![ ](img_leidbeiningar/Jolakula1_Lina002_500x351.jpg)
 
 !!! note "Að stilla fyrir brennimerkingu (rasteringu)"
     
-    Næst velur þú þau svæði sem á að brennimerkja. Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. 
+    * Næst velur þú þau svæði sem á að brennimerkja. Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. 
 
     ![ ](<img_leidbeiningar/Jolakula1_Rastering_KveiktAFyllingu_Canva (1)_600x318.jpg>)
 
-    Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
+    * Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
 
     ![ ](img_leidbeiningar/Jolakula1_rastering_SlokktALitUtlinu600x416.jpg)
 
 !!! note "Að vista skjal"
     
-    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    * Smelltu á **Skrá (File)** og **Vista sem (Save as)**. 
+    
+    * **Veldu *pdf** undir **Save as type**. 
+    
+    * Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. 
+    
+    * Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
 
-### Jólakúla 2 - Með borða í miðju
+### Jólakúla 2
 
-![ ](img_leidbeiningar/Jolakulur_Jona_Krossv_landscape600x450.jpg)
+!!! example "Jólakúla með borða í miðjunni"
+    
+    Þetta er dæmi um hvernig hægt væri að útfæra jólakúlu 2.
+
+    ![ ](img_leidbeiningar/Jolakulur_Jona_Krossv_landscape600x450.jpg)
 
 !!! example "Sniðmát notað sem grunnur að jólakúlu 2"
     
-    Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Þegar þú smellir á hlekkinn birtist mynd af kúlunni. Hægrismelltu á hana og veldu að vista sem .svg. Opnaðu svo skrána.
+    * Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Þegar þú smellir á hlekkinn birtist mynd af kúlunni. Hægrismelltu á hana og veldu að vista sem .svg. Opnaðu svo skrána.
 
     [Jólakúla 2 - sniðmát](files_leidbeiningar/JolakulaMidja_snidmat.svg){ .md-button }
 
