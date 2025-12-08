@@ -302,7 +302,7 @@
 
 !!! note "Að flytja mynd inn í Inkscape"
     
-    Smelltu á **Skrá (File)** og **Flytja inn (Import)**. Smelltu svo á **Í lagi (OK)**. Þá birtist myndin á skjánum.
+    * Smelltu á **Skrá (File)** og **Flytja inn (Import)**. Smelltu svo á **Í lagi (OK)**. Þá birtist myndin á skjánum.
 
     ![ ](img_leidbeiningar/Snjokorn1_flytjaInnOk600x286.jpg)
 
@@ -404,34 +404,53 @@
 
 !!! example "Sniðmát notað sem grunnur að jólakúlu 2"
     
-    * Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. Þegar þú smellir á hlekkinn birtist mynd af kúlunni. Hægrismelltu á hana og veldu að vista sem .svg. Opnaðu svo skrána.
+    * Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. 
+    
+    * Þegar þú smellir á hlekkinn birtist mynd af kúlunni. Hægrismelltu á hana og veldu að vista sem .svg. 
+    
+    * Opnaðu svo skrána.
 
     [Jólakúla 2 - sniðmát](files_leidbeiningar/JolakulaMidja_snidmat.svg){ .md-button }
 
 !!! example "Að stilla stærðina"
     
-    Þegar þú smellir á jólakúluna sérðu efst á stikunni að hún er 100mm breið og rúmlega 121mm á hæð en þú getur stillt stærðina að þínum óskum. Með því að smella á litla lásinn sem er á milli talnanna haldast hlutföllin rétt ef þú breytir tölunum. 
+    * Þegar þú smellir á jólakúluna sérðu efst á stikunni að hún er 100mm breið og rúmlega 121mm á hæð en þú getur stillt stærðina að þínum óskum. 
+    
+    * Með því að smella á litla lásinn sem er á milli talnanna haldast hlutföllin rétt ef þú breytir tölunum. 
 
     ![ ](img_leidbeiningar/Jolakula2_AdBreytaStaerd400x499.jpg)
 
 !!! examplee "Að finna myndir á netinu til að nota sem skraut"
     
-    Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
-    Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið
+    * Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. 
+    
+    * Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
+    
+    * Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið.
 
     ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
 
-    Hægrismelltu á myndina sem þú vilt nota og veldu **Vista mynd sem (Save image as)**. Skráargerðirnar .jpg,.jpeg og .png henta vel í svona verkefni.
+    * Hægrismelltu á myndina sem þú vilt nota og veldu **Vista mynd sem (Save image as)**. Skráargerðirnar .jpg,.jpeg og .png henta vel í svona verkefni.
 
 !!! example "Að flytja mynd inn í Inkscape"
     
-    Smelltu á **Skrá (File)** og **Flytja inn (Import)**. Smelltu svo á **Í lagi (OK)**. Þá birtist myndin á skjánum.
+    * Smelltu á **Skrá (File)** og **Flytja inn (Import)**. Smelltu svo á **Í lagi (OK)**. Þá birtist myndin á skjánum.
 
     ![ ](img_leidbeiningar/Jolakula2_SkraFlytjaInn500x349.jpg)
 
 !!! example "Að búa til vektorteikningu eftir myndinni"
     
-    Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka eða minnka litmörk ef myndin kemur ekki nógu vel út. Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
+    * Nauðsynlegt er að láta Inkscape búa til vektorteikningu eftir myndinni, svo hægt sé að vinna með teikninguna á ýmsan hátt. 
+    
+    * Smelltu á **Ferill (Path)** og **Línuteikna bitamynd (Trace bitmap)**. 
+    
+    * Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). 
+    
+    * Smelltu svo á **Virkja (Apply)**. 
+    
+    * Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka eða minnka litmörk ef myndin kemur ekki nógu vel út. 
+    
+    * Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
 
     ![ ](img_leidbeiningar/Jolakula2_TraceBitmap600x359.jpg)
 
