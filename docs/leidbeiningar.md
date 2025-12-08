@@ -564,7 +564,12 @@
 
 ### Jólakúla 3 - Unnin að hluta til í Canva
 
-![ ](img_leidbeiningar/Jolakulur_Helena_krossv_landscape600x450.jpg)
+
+!!! tip "Jólakúla 3 er unnin að hluta til í Canva"
+    
+    Myndin hér sýnir dæmi um hvernig hægt er að útfæra jólakúlu 3
+    
+    ![ ](img_leidbeiningar/Jolakulur_Helena_krossv_landscape600x450.jpg)
 
 !!! tip "PNG mynd notuð sem sniðmát í Canva"
     
