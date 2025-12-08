@@ -702,7 +702,8 @@
 
 !!! tip "Stærð jólakúlu stillt í Inkscape"
     
-    * Þegar þú smellir á jólakúluna sérðu efst á stikunni að hún er tæplega 58mm breið og 70mm á hæð en þú getur stillt stærðina að þínum óskum. Með því að smella á litla lásinn sem er á milli talnanna haldast hlutföllin rétt ef þú breytir tölunum. 
+    * Þegar þú smellir á jólakúluna sérðu efst á stikunni að hún er tæplega 58mm breið og 70mm á hæð en þú getur stillt stærðina að þínum óskum. 
+    * Með því að smella á litla lásinn sem er á milli talnanna haldast hlutföllin rétt ef þú breytir tölunum. 
 
     ![ ](img_leidbeiningar/JolakulaCanva_StillaStaerd600x637.jpg)
 
