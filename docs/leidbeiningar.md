@@ -512,22 +512,36 @@
 
 !!! example "Að stilla skurðarlínur"
     
-    Næst velur þú þau svæði sem þú vilt láta skera út. Fyrst þarftu að smella á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+    * Næst velur þú þau svæði sem þú vilt láta skera út. 
+    
+    * Fyrst þarftu að smella á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. 
+    
+    * Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
 
     ![ ](img_leidbeiningar/Jolakula2_skurdarlina_slokktAFyllingu_Canva.jpg)
 
-    Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
+    * Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. 
+    
+    * Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. 
+    
+    * Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
 
     ![ ](img_leidbeiningar/Jolakula2_Skurdarlina_kveiktALit500x404.jpg)
 
-    Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
+    * Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. 
+    
+    * Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
 
     ![ ](img_leidbeiningar/JolakulaMidja_StillUtlinu500x403.jpg)
 
 
 !!! example "Að stilla fyrir brennimerkingu (rasteringu)"
     
-    Næst velur þú þau svæði sem á að brennimerkja. Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
+    * Næst velur þú þau svæði sem á að brennimerkja. 
+    
+    * Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. 
+    
+    * Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
 
     ![ ](img_leidbeiningar/Jolakula2_Rastering_KveiktAFyllingu_500x396.jpg)
 
@@ -535,7 +549,7 @@
 
 !!! example "Að vista skjal"
     
-    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    * Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
