@@ -456,37 +456,57 @@
 
 !!! example "Að eyða réttu myndinni"
     
-    Smelltu á myndina og vektorteikninguna til skiptis. Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. Smelltu svo á vektorteikninguna og veldu einhvern lit úr litastikunni sem er neðst á skjánum. Það auðveldar þér að raða saman skrautinu og jólakúlunni. 
+    * Smelltu á myndina og vektorteikninguna til skiptis. 
+    
+    * Þegar þú sérð að það stendur **Mynd (Image)** neðst á skjánum skaltu eyða þeirri mynd. 
+    
+    * Smelltu svo á vektorteikninguna og veldu einhvern lit úr litastikunni sem er neðst á skjánum. Það auðveldar þér að raða saman skrautinu og jólakúlunni. 
 
     ![ ](img_leidbeiningar/Jolakula2_EydaMyndOgSkiptaUmLit600x340.jpg)
 
 !!! example "Að vinna með myndirnar í Inkscape"
     
-    Ef þú vilt stækka og minnka formin getur þú gripið í örina á horninu og togað hana til og frá. Þannig stækka og minnka formin. 
+    * Ef þú vilt stækka og minnka formin getur þú gripið í örina á horninu og togað hana til og frá. Þannig stækka og minnka formin. 
 
     ![ ](img_leidbeiningar/Jolakula2_AdStaekkaOgMinnkaMedOrvum.jpg)
 
 !!! example "Að bræða form saman"
     
-    Til að snjókornið og jólakúlan verði ein heild og skeri ekki hvort annað í sundur þarf að bræða þau saman. Veldu bæði formin og smelltu á **Ferill (Path)** og **Bræða saman (Union)**.
+    * Til að snjókornið og jólakúlan verði ein heild og skeri ekki hvort annað í sundur þarf að bræða þau saman. 
+    
+    * Veldu bæði formin og smelltu á **Ferill (Path)** og **Bræða saman (Union)**.
 
     ![ ](img_leidbeiningar/Braeda_snjokorn_og_jolakulu_600x551.jpg)
 
 !!! example "Að eyða ákveðnum atriðum"
     
-    Ef þú vilt eyða hlutum úr myndinni er hægt að gera það á ýmsa vegu. Á þessari mynd eru t.d. litlar örvar í hægra horninu niðri sem voru óþarfi. Til að eyða út litlu örvunum var smellt á **hnútaverkfærið (Node tool)** og smellt á svæðið. Þá sáust allir hnútarnir sem mynda formið. Með því að draga með músinni yfir svæðið og velja þannig tiltekna hnúta er hægt að eyða þeim með því að ýta á **Delete**.
+    * Ef þú vilt eyða hlutum úr myndinni er hægt að gera það á ýmsa vegu. Á þessari mynd eru t.d. litlar örvar í hægra horninu niðri sem voru óþarfi. 
+    
+    * Til að eyða út litlu örvunum var smellt á **hnútaverkfærið (Node tool)** og smellt á svæðið. Þá sáust allir hnútarnir sem mynda formið. 
+    
+    * Með því að draga með músinni yfir svæðið og velja þannig tiltekna hnúta er hægt að eyða þeim með því að ýta á **Delete**.
 
     ![ ](img_leidbeiningar/Hnutar400x262.jpg)
 
 !!! example "Að bæta við texta"
     
-    Veldu táknið með bókstafnum **A** sem er á stikunni vinstra megin. Smelltu svo á skjáinn og byrjaðu að skrifa. Veldu einhvern lit úr litastikunni neðst, svo auðvelt sé fyrir þig að sjá textann þegar þú stillir honum upp á jólakúlunni. Ef textinn sést alls ekki er líklegt að þú þurfir að velja **Hlutur (Object)** og **fylling og útlína (Fill and stroke)**. Þar undir smellir þú á flipann sem merktur er **Fylling (Fill)** og kveikir á fyllingunni (annar reitur frá vinstri). Efst sérðu hvaða leturgerð þú ert að nota og hver stærð textans er í pt.
+    * Veldu táknið með bókstafnum **A** sem er á stikunni vinstra megin. 
+    
+    * Smelltu svo á skjáinn og byrjaðu að skrifa. 
+    
+    * Veldu einhvern lit úr litastikunni neðst, svo auðvelt sé fyrir þig að sjá textann þegar þú stillir honum upp á jólakúlunni. 
+    
+    * Ef textinn sést alls ekki er líklegt að þú þurfir að velja **Hlutur (Object)** og **fylling og útlína (Fill and stroke)**. 
+    
+    * Þar undir smellir þú á flipann sem merktur er **Fylling (Fill)** og kveikir á fyllingunni (annar reitur frá vinstri). 
+    
+    * Efst sérðu hvaða leturgerð þú ert að nota og hver stærð textans er í pt.
 
     ![ ](img_leidbeiningar/Jona_texti_600x329.jpg)
 
 !!! example "Að skipta um leturgerð"
     
-    Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
+    * Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
 
     ![ ](img_leidbeiningar/Jolakula2_Jona_Texti_og_letur600x382.jpg)
 
