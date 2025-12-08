@@ -345,7 +345,7 @@
 
 !!! note "Að stilla skurðarlínur"
     
-    *Næst velur þú þau svæði sem þú vilt láta skera út. 
+    * Næst velur þú þau svæði sem þú vilt láta skera út. 
     
     * Fyrst þarftu að smella á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. 
     
