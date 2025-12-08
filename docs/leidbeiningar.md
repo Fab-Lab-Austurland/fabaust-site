@@ -267,25 +267,38 @@
 
 !!! note "Að setja texta á jólakúluna"
     
-    Smelltu á **táknið með bókstafnum A**. Þú finnur það á stikunni vinstra megin á skjánum. Smelltu svo á skjáinn og byrjaðu að skrifa. Efst á skjánum getur þú valið leturgerð og stærð letursins.
+    * Smelltu á **táknið með bókstafnum A**. Þú finnur það á stikunni vinstra megin á skjánum. 
+    
+    * Smelltu svo á skjáinn og byrjaðu að skrifa. Efst á skjánum getur þú valið leturgerð og stærð letursins.
 
     ![ ](img_leidbeiningar/Jolakula_A_400x416.jpg)
 
 !!! note "Að vinna með letur og stærð"
     
-    Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
+    * Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. 
+    
+    * Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
 
     ![ ](img_leidbeiningar/jolakula_TextiOgLetur600x386.jpg)
 
 
 !!! note "Að finna myndir á netinu til að nota sem skraut"
     
-    Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi:
-    Smelltu á **Myndir (Images)**. Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. Veldu svo **Creative Commons** leyfið.
+    * Skrifaðu leitarorð og bættu orðinu **Silhouette** eða **Black and white** á eftir. 
+
+    * Mikilvægt er að virða höfundarrétt annarra. Meðal annars er hægt að finna myndir sem höfundar gefa leyfi til að nota með því að leita að myndum með Creative commons leyfi. Það er gert á eftirfarandi hátt:
+    
+    * Smelltu á **Myndir (Images)**. 
+    
+    * Veldu **Verkfæri (Tools)** og **Notkunarréttur (Usage rights)**. 
+    
+    * Veldu svo **Creative Commons** leyfið.
 
     ![ ](img_leidbeiningar/Santa_CreativeCommons.jpg900x171.jpg)
 
-    Hægrismelltu á myndina sem þú vilt nota og veldu **Vista mynd sem (Save image as)**. Skráargerðirnar .jpg,.jpeg og .png henta vel í svona verkefni.
+    * Hægrismelltu á myndina sem þú vilt nota og veldu **Vista mynd sem (Save image as)**. 
+    
+    * Skráargerðirnar .jpg,.jpeg og .png henta vel í svona verkefni.
 
 !!! note "Að flytja mynd inn í Inkscape"
     
