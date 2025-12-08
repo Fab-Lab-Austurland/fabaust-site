@@ -314,7 +314,7 @@
     
     * Veldu myndina með því að smella á myndina (þá sjást örvar í kringum hana). Smelltu svo á **Virkja (Apply)**. 
     
-    * Myndin hér fyrir neðan sýnir stillingarnar sem voru notaðar hér en það er hægt að auka og minnka litmörk ef myndin kemur ekki nógu vel út. 
+    * Myndin hér fyrir neðan sýnir stillingarnar (0.450) sem voru notaðar hér en það er hægt að auka og minnka litmörk ef myndin kemur ekki nógu vel út. 
     
     * Vektorteikningin sem forritið bjó til liggur nú ofan á upphaflegu myndinni. Dragðu hana til hliðar.
 
@@ -543,9 +543,9 @@
     
     * Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. 
     
-    * Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
-
     ![ ](img_leidbeiningar/Jolakula2_Rastering_KveiktAFyllingu_500x396.jpg)
+
+    * Undir flipanum sem merktur er **Litur útlínu (Stroke style)** á að slökkva á línunni með því að smella á x-ið.
 
     ![ ](img_leidbeiningar/Jolakula2_rastering_SlokktALitUtlinu500x401.jpg)
 
