@@ -694,7 +694,7 @@
 
 !!! tip "Stærð jólakúlu stillt í Inkscape"
     
-    Þegar þú smellir á jólakúluna sérðu efst á stikunni að hún er tæplega 58mm breið og 70mm á hæð en þú getur stillt stærðina að þínum óskum. Með því að smella á litla lásinn sem er á milli talnanna haldast hlutföllin rétt ef þú breytir tölunum. 
+    * Þegar þú smellir á jólakúluna sérðu efst á stikunni að hún er tæplega 58mm breið og 70mm á hæð en þú getur stillt stærðina að þínum óskum. Með því að smella á litla lásinn sem er á milli talnanna haldast hlutföllin rétt ef þú breytir tölunum. 
 
     ![ ](img_leidbeiningar/JolakulaCanva_StillaStaerd600x637.jpg)
 
@@ -713,27 +713,49 @@
 
 !!! tip "Að jafna og dreifa miðað við síðu"
     
-    Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. Veldu að jafna miðað við síðuna og miðjaðu svo bæði á x- og y-ás. Þá er hönnunin á miðri síðunni.
+    * Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. 
+    
+    * Veldu að jafna miðað við síðuna og miðjaðu svo bæði á x- og y-ás. Þá er hönnunin á miðri síðunni.
 
     ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
 
 !!! tip "Skurðarlínur stilltar í Inkscape"
     
-    Í þessu verkefni eru allar línur gerðar að skurðarlínum. Veldu alla jólakúluna. Smelltu á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+    * Í þessu verkefni eru allar línur gerðar að skurðarlínum. 
+    
+    * Veldu alla jólakúluna. 
+    
+    * Smelltu á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. 
+    
+    * Þú smellir á þann flipa sem þú ætlar að vinna með. 
+    
+    * Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
 
     ![ ](img_leidbeiningar/JolakulaCanva_SlokkvaFylling600x384.jpg)
 
-    Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
+    * Næst velur þú flipann sem merktur er **Litur útlínu (Stroke style)** og kveikir á lit útlínunnar. 
+    
+    * Athugaðu að það á að nota **RGB** og undir því á rauði liturinn að fara upp í það mesta, sem er **255**. 
+    
+    * Passaðu einnig að neðsta stikan (Alpha channel sem er merkt með A) sé stillt á 100. Þessi stika er notuð til að stilla hvort litur sé gegnsær eða ekki.
 
     ![ ](img_leidbeiningar/JolakulaCanva_LiturUtlinuKveikja600x321.jpg)
 
-    Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
+    * Að lokum smellir þú á flipann sem merktur er **Stíll útlínu (Stroke style)** og stillir línuþykktina á **0,02mm**. 
+    
+    * Það getur verið misjafnt eftir tölvum hvort það á að skrifa töluna með punkti eða kommu. Ef þú skrifar 0,02 en talan breytist í 0.000 skaltu skipta á milli punkts og kommu.
 
     ![ ](img_leidbeiningar/JolakulaCanva_Lina002_600x387.jpg)
 
 !!! tip "Að vista skjal"
     
-    Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    * Smelltu á **Skrá (File)** og **Vista sem (Save as)**. 
+    
+    * **Veldu *pdf** undir **Save as type**. 
+    
+    * Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. 
+    
+    * Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/JolakulaCanva_VistaPDF600x352.jpg)
 
