@@ -579,7 +579,7 @@
     
     * Fyrstu skrefin eru svo unnin á vefsíðu Canva.com.
 
-    [ ](img_leidbeiningar/JólakulaCanva_sniðmat.png){ .md-button }
+    [Sniðmát fyrir jólakúlu í Canva](img_leidbeiningar/JólakulaCanva_sniðmat.png){ .md-button }
 
 
 ![](img_leidbeiningar/JolakulaCanva_TextBox700x347.jpg){ .md-button }
