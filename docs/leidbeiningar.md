@@ -568,7 +568,7 @@
 !!! tip "Jólakúla 3 er unnin að hluta til í Canva"
     
     Myndin hér sýnir dæmi um hvernig hægt er að útfæra jólakúlu 3
-    
+
     ![ ](img_leidbeiningar/Jolakulur_Helena_krossv_landscape600x450.jpg)
 
 !!! tip "PNG mynd notuð sem sniðmát í Canva"
@@ -579,7 +579,7 @@
     
     * Fyrstu skrefin eru svo unnin á vefsíðu Canva.com.
 
-    [Sniðmát til að nota í Canva - jólakúla ](<img_leidbeiningar/Jólakúla_sniðmát fyrir gesti.png>){ .md-button }
+    [ ](img_leidbeiningar/JólakulaCanva_sniðmat.png){ .md-button }
 
 
 ![](img_leidbeiningar/JolakulaCanva_TextBox700x347.jpg){ .md-button }
