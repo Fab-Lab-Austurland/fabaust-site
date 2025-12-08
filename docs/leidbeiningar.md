@@ -239,6 +239,10 @@
 
 ## Jólakúlur
 
+![ ](img_leidbeiningar/Forsida_Landscape1000x563.jpg)
+
+
+
 ![ ](img_leidbeiningar/Jolakulur_mism600x450.jpg)
 
 
@@ -657,7 +661,11 @@
 
     ![ ](img_leidbeiningar/Jolakula4_utskyring400x482.jpg)
 
-!!! tip "Vinnusvæði stillt utan um hönnunina" 
+!!! info "Bættu við skrauti að vild"
+    
+    Nú getur þú bætt skrauti við jólakúluna. Þegar það er búið fylgir þú næstu skrefum.
+
+!!! info "Vinnusvæði stillt utan um hönnunina" 
     
     Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
 
@@ -670,15 +678,15 @@
 
     ![ ](img_leidbeiningar/JolakulaCanva_AdlagaStaerd600x393.jpg)
 
-!!! tip "Að jafna og dreifa miðað við síðu"
+!!! info "Að jafna og dreifa miðað við síðu"
     
     Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. Veldu að jafna miðað við síðuna og miðjaðu svo bæði á x- og y-ás. Þá er hönnunin á miðri síðunni.
 
     ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
 
-!!! tip "Skurðarlínur stilltar í Inkscape"
+!!! info "Skurðarlínur stilltar í Inkscape"
     
-    Í þessu verkefni eru allar línur gerðar að skurðarlínum. Veldu alla jólakúluna. Smelltu á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
+    Nú velur þú þau svæði sem þú vilt að séu skorin út. Myndirnar hér fyrir neðan sýna jólakúluna úr Smelltu á **Hlutur (Object)** og svo **Fylling og útlína (Fill and stroke)**. Þú smellir á þann flipa sem þú ætlar að vinna með. Byrjaðu á að smella á flipann merktan **Fylling (fill)** og slökktu á fyllingunni.
 
     ![ ](img_leidbeiningar/JolakulaCanva_SlokkvaFylling600x384.jpg)
 
@@ -690,7 +698,7 @@
 
     ![ ](img_leidbeiningar/JolakulaCanva_Lina002_600x387.jpg)
 
-!!! tip "Að vista skjal"
+!!! info "Að vista skjal"
     
     Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
