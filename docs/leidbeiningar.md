@@ -549,7 +549,13 @@
 
 !!! example "Að vista skjal"
     
-    * Smelltu á **Skrá (File)** og **Vista sem (Save as)**. **Veldu *pdf** undir **Save as type**. Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
+    * Smelltu á **Skrá (File)** og **Vista sem (Save as)**. 
+    
+    * **Veldu *pdf** undir **Save as type**. 
+    
+    * Það er einnig gott að vista skrána sem .svg (Inkscape skrá) því þá er auðvelt að opna þá skrá og gera breytingar ef eitthvað þarf að laga. 
+    
+    * Að lokum notar þú PDF skjalið til að laserskera og rastera í lasernum.
 
     ![ ](img_leidbeiningar/SaveAsPDF500x444.jpg)
 
@@ -560,7 +566,11 @@
 
 !!! tip "PNG mynd notuð sem sniðmát í Canva"
     
-    Með því að smella á hlekkinn hér fyrir neðan færð þú .png mynd sem þú getur notað sem grunn að jólakúlu. Eftir að þú smellir á hlekkinn færðu .png mynd upp á skjáinn. Hægrismelltu á myndina og vistaðu hana. Fyrstu skrefin eru svo unnin á vefsíðu Canva.com.
+    * Með því að smella á hlekkinn hér fyrir neðan færð þú .png mynd sem þú getur notað sem grunn að jólakúlu. 
+    
+    * Eftir að þú smellir á hlekkinn færðu .png mynd upp á skjáinn. Hægrismelltu á myndina og vistaðu hana. 
+    
+    * Fyrstu skrefin eru svo unnin á vefsíðu Canva.com.
 
     [Sniðmát til að nota í Canva - jólakúla ](<img_leidbeiningar/Jólakúla_sniðmát fyrir gesti.png>){ .md-button }
 
