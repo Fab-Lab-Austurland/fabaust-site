@@ -263,7 +263,7 @@
 
     [Jólakúla 1 - sniðmát](leidbeiningar_files/Jolakula_snidmat_heil.svg){ .md-button }
 
-    ![Jólakúla 1 sniðmát](img_leidbeiningar/Jolakula1_sniðmat.png){ .md-button }
+    [Jólakúla 1 sniðmát](img_leidbeiningar/Jolakula1_sniðmat.png){ .md-button }
 
 !!! note "Að setja texta á jólakúluna"
     
