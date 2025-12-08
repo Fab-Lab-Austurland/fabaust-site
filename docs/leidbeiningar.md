@@ -939,6 +939,8 @@
     
     Smellið [hér](https://www.youtube.com/watch?v=ouvf-4wciak) til að horfa á myndband sem útskýrir ýmsar aðgerðir sem notaðar eru þegar verið er að hanna hluti í 3D.
 
+    ![ ](img_leidbeiningar/3DModelingConcepts600x387.jpg) 
+
 #### Tinkercad
 
 !!! Example "Leiðbeiningar um þrívíddarprentun og hönnun þrívíðra hluta"
