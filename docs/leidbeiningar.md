@@ -257,13 +257,14 @@
     
     * Með því að smella á hlekkinn hér fyrir neðan færð þú Inkscape skjal sem þú getur notað sem grunn að jólakúlu. 
 
-    * Eftir að þú smellir finnur þú skjalið í niðurhalsmöppunni þinni (downloads). Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum. 
+    * Þegar þú smellir á hlekkinn birtist mynd af sniðmátinu fyrir jólakúluna. Athugaðu að þessi kúla er 100mm í þvermál en þú getur stillt stærðina að þínum óskum. 
     
     * Opnaðu skrána. Þá sérðu jólakúlu með svörtum útlínum.
 
-    [Jólakúla 1 - sniðmát](leidbeiningar_files/Jolakula_snidmat_heil.svg){ .md-button }
+    ![Jólakúla 1 .svg skrá](img_leidbeiningar/Jolakula_snidmat_heil.svg)
 
     [Jólakúla 1 sniðmát](img_leidbeiningar/Jolakula1_sniðmat.png){ .md-button }
+
 
 !!! note "Að setja texta á jólakúluna"
     
