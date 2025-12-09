@@ -109,13 +109,10 @@
     
     * Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
 
-    * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
-
-    ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
-
+    1. **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Veldu myndina.
-    * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
-    * Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
+    2. Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
+    3. Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
 
     ![ ](img_leidbeiningar/EiginleikarSkjals_AdlagaStaerdAdInnihaldi600x348.jpg)
 
@@ -298,13 +295,10 @@
     
     * Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
 
-    * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
-
-    ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
-
+    1. **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Veldu myndina.
-    * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
-    * Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
+    2. Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
+    3. Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
 
     ![ ](img_leidbeiningar/EiginleikarSkjals_AdlagaStaerdAdInnihaldi600x348.jpg)
 
@@ -513,12 +507,12 @@
 
 !!! tip "Vinnusvæði stillt utan um hönnunina" 
     
-    Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
+    * Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
 
-    * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
+    1. **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Veldu myndina.
-    * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
-    * Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
+    2. Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
+    3. Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
 
     ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
 
@@ -691,15 +685,12 @@
     
     * Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
 
-    * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
-
-    ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
-
+    1. **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
     * Veldu myndina.
-    * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
-    * Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
+    2. Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
+    3. Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
 
-    ![ ](img_leidbeiningar/JolakulaCanva_AdlagaStaerd600x393.jpg)
+    ![ ](img_leidbeiningar/EiginleikarSkjals_AdlagaStaerdAdInnihaldi600x348.jpg)  
 
 !!! info "Að jafna og dreifa miðað við síðu"
     
