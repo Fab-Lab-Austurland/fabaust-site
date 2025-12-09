@@ -901,9 +901,9 @@
     
     * Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. 
     
-    * Veldu að jafna miðað við síðuna og **miðjaðu svo bæði á x- og y-ás**. Þá er hönnunin á miðri síðunni.
+    * Veldu að jafna **miðað við síðuna** og **miðjaðu svo bæði á láréttum og lóðréttum ás (x- og y-ás)**. Þá er hönnunin á miðri síðunni.
 
-    ![alt text](img_leidbeiningar/JolakulaCanva_Midja600x317.jpg)
+    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs.jpg) 
 
 !!! info "Skurðarlínur stilltar í Inkscape"
     
