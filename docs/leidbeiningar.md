@@ -375,7 +375,7 @@
     
     * Næst velur þú þau svæði sem á að brennimerkja. 
     
-* Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. 
+    * Undir flipanum sem merktur er **Fylling (Fill)** á að kveikja á fyllingunni. 
 
     ![ ](<img_leidbeiningar/Jolakula1_Rastering_KveiktAFyllingu_Canva (1)_600x318.jpg>)
 
