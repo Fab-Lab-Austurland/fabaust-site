@@ -122,7 +122,7 @@
     
     * Veldu að jafna **miðað við síðuna** og **miðjaðu svo bæði á láréttum og lóðréttum ás (x- og y-ás)**. Þá er hönnunin á miðri síðunni.
 
-    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs.jpg) 
+    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs600x358.jpg)   
 
 !!! note "Að stilla skurðarlínur"
     
@@ -307,8 +307,8 @@
     * Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. 
     
     * Veldu að jafna **miðað við síðuna** og **miðjaðu svo bæði á láréttum og lóðréttum ás (x- og y-ás)**. Þá er hönnunin á miðri síðunni.
-
-    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs.jpg) 
+  
+    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs600x358.jpg) 
     
 !!! example "Að stilla skurðarlínur"
     
@@ -523,8 +523,8 @@
     * Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. 
     
     * Veldu að jafna **miðað við síðuna** og **miðjaðu svo bæði á láréttum og lóðréttum ás (x- og y-ás)**. Þá er hönnunin á miðri síðunni.
-
-    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs.jpg) 
+  
+    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs600x358.jpg)  
 
 !!! tip "Skurðarlínur stilltar í Inkscape"
     
@@ -656,7 +656,7 @@
     * Veldu báða hringana. 
     **Jafnaðu bæði lóðréttum og láréttum ás (y- og x-ás)**.
 
-    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs.jpg)
+    ![ ](img_leidbeiningar/JafnaOgDreifa_Valsvaedi_LodrettumOgLarettumAs600x377.jpg)
     
     * Smelltu svo á **Ferill (Path)** og svo **Mismunur (Difference)**. Þá verður minni hringurinn að gati.
 
@@ -697,8 +697,8 @@
     * Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. 
     
     * Veldu að jafna **miðað við síðuna** og **miðjaðu svo bæði á láréttum og lóðréttum ás (x- og y-ás)**. Þá er hönnunin á miðri síðunni.
-
-    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs.jpg) 
+  
+    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs600x358.jpg)  
 
 !!! info "Skurðarlínur stilltar í Inkscape"
     
