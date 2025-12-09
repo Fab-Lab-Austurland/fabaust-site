@@ -601,8 +601,8 @@
     ![ ](img_leidbeiningar/Jolakula4_HringarJafnaOgDreifa600x396.jpg)
 
     * Veldu báða hringina og **jafnaðu bæði lóðréttum og láréttum ás (y- og x-ás)**.
-
-    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs.jpg)
+    
+    ![ ](img_leidbeiningar/JafnaOgDreifa_Valsvaedi_LodrettumOgLarettumAs600x377.jpg)
 
 !!! info "Innri hringur gerður að gati"
     
