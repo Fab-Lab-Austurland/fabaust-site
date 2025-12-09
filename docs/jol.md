@@ -2,9 +2,7 @@
 
 ## Jólakúlur
 
-!!! note "Leiðbeiningar um hvernig hægt er að búa til jólakúlur"
-    
-![ ](img_leidbeiningar/Forsida_Landscape1000x563.jpg)
+![ ](img_leidbeiningar/HannadFyrirJolinLandscape1000x827.jpg)
 
 ### Jólakúla 1 - Heill flötur þar sem texti og mynstur eru skorin út og/eða rasteruð
 
