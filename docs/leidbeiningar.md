@@ -344,6 +344,29 @@
 
     ![ ](img_leidbeiningar/Jolakula1_StaekkaMinnka500x594.jpg)
 
+!!! info "Vinnusvæði stillt utan um hönnunina" 
+    
+    * Til að nýta efnið vel er gott að stilla vinnusvæðið utan um hönnunina.
+
+    * **Hægrismelltu á skjáinn** og veldu **Eiginleikar skjals (Document properties)**. 
+
+    ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
+
+    * Veldu myndina.
+    * Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
+    * Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
+
+    ![ ](img_leidbeiningar/JolakulaCanva_AdlagaStaerd600x393.jpg)
+
+    ![ ](img_leidbeiningar/EiginleikarSkjals_AdlagaStaerdAdInnihaldi600x348.jpg)
+    
+!!! info "Að jafna og dreifa miðað við síðu"
+    
+    * Smelltu á **Hlutur (Object)** og veldu svo **Jafna og dreifa (Align and distribute)**. 
+    
+    * Veldu að jafna **miðað við síðuna** og **miðjaðu svo bæði á láréttum og lóðréttum ás (x- og y-ás)**. Þá er hönnunin á miðri síðunni.
+
+    ![ ](img_leidbeiningar/JafnaOgDreifa_Sida_LodrettumOgLarettumAs.jpg) 
 
 !!! note "Að stilla skurðarlínur"
     
