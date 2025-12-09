@@ -514,9 +514,7 @@
     2. Smelltu á **Aðlaga stærð að innihaldi (Resize to content)**.
     3. Smelltu **þrisvar á báða plúsana** (Í næsta skrefi færir þú hönnunina betur inn á vinnusvæðið. Þetta dregur úr hættunni á að skurðarlínur fari óvart út fyrir brún vinnusvæðisins).
 
-    ![ ](img_leidbeiningar/JolakulaCanva_EiginleikarSkjals600x261.jpg)
-
-    ![ ](img_leidbeiningar/JolakulaCanva_AdlagaStaerd600x393.jpg)
+    ![ ](img_leidbeiningar/EiginleikarSkjals_AdlagaStaerdAdInnihaldi600x348.jpg)
 
 !!! tip "Að jafna og dreifa miðað við síðu"
     
