@@ -2,6 +2,8 @@
 
 ## Upplýsingar og ítarefni um tækjabúnað smiðjunnar
 
+## Epilog laser 40W
+
 ### Stillingar fyrir Epilog laser mini 40W
 
 !!! Danger "Varúðarráðstafanir fyrir Epilog laser 40W"
@@ -13,7 +15,7 @@
     **Munið að kveikja alltaf á frásogi frá vélinni áður en verkefni er sett í gang.** 
 
     **Hafið á hreinu hvernig á að bregðast við ef eldur kemur upp:**
-    
+
     * Lítill logi: Notið vatnsúðabrúsa, sem staðsettur er við hlið vélarinnar, og úðið á logann.
     * Eldur logar: Notið kolsýruslökkvitæki til að slökkva eldinn. Ekki hika við að kveikja á brunaviðvörunarkerfinu og hringja í 112 ef þið ráðið ekki strax við aðstæður.
 
