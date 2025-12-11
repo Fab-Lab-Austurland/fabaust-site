@@ -6,8 +6,11 @@
 
 !!! Danger "Varúðarráðstafanir fyrir Epilog laser 40W"
     
-    ** * Munið að aldrei má yfirgefa laserskurðarvélina á meðan hún vinnur vegna eldhættu.** * Munið að kveikja alltaf á loftpressunni þegar laserskorið er í vélinni.** Það kælir skurðarsvæðið og dregur úr eldhættu.
-    ** * Munið að kveikja alltaf á frásogi frá vélinni áður en verkefni er sett í gang.** 
+    **Munið að aldrei má yfirgefa laserskurðarvélina á meðan hún vinnur vegna eldhættu.
+    
+    **Munið að kveikja alltaf á loftpressunni þegar laserskorið er í vélinni.** Það kælir skurðarsvæðið og dregur úr eldhættu.
+
+    **Munið að kveikja alltaf á frásogi frá vélinni áður en verkefni er sett í gang.** 
 
     **Hafið á hreinu hvernig á að bregðast við ef eldur kemur upp:**
     * Lítill logi: Notið vatnsúðabrúsa, sem staðsettur er við hlið vélarinnar, og úðið á logann.
@@ -17,7 +20,7 @@
     
     Það má aldrei skera PVC, nylon eða vínyl í lasernum.
 
-!!! info "Yfirlit yfir helstu stillingar í Epilog laser 40W"
+!!! success "Yfirlit yfir helstu stillingar í Epilog laser 40W"
     
     Hér má finna samantekt á stillingum fyrir laserskurð og rasteringu í Epilog laser mini 40W. Athugið að fara vel yfir stillingar áður en verkefni er sett af stað. Lesið yfir varúðarráðstafanir áður en þið byrjið.
 
@@ -35,9 +38,9 @@
 | **Gler**                                   | 25 / 100                              | 35 / 100                              | 45 / 100                               | **Slökkva á vektor!**                    |                                                                                                                                                                   |   |   |
 | **Stimpilgúmmí**                           |                                       |                                       | 45 / 100                               | 18 / 100 / 600                           | Rastering: fara þrjár umferðir. Vector skurður: fara tvær umferðir.                                                                                               |   |   |
 | **Tvílit skilti**                          | 10 / 30                               | 20 / 30                               | 50 / 30                                | 20 / 100 / 5000                          |                                                                                                                                                                   |   |   |
-| **Húðað stál (t.d. Chilly´s vatnsbrúsar)** |                                       |                                       | 45 / 100  45 / 80 = daufari rastering  | **Slökkva á vektor!**                    | Nota **Center engraving**. Undir **Image dithering** - Nota **Stucky** til að fá betri upplausn fyrir myndir.                                                     |   |   |
-| **Stál húðað með Enduramark**              | Mælt með 300 DPI **15**-25 / 100      |                                       |                                        | **Slökkva á vektor!**                    | Nota **Center engraving**. Undir **Image dithering** - nota **Stucky** til að fá betri upplausn fyrir myndir.                                                     |   |   |
-| **Ál húðað með Enduramark**                |                                       |                                       | Mælt með 600 DPI 10-15 / 100           | **Slökkva á vektor!**                    | Nota **Center engraving**. Undir **Image dithering**: Nota **Stucky**  til að fá betri upplausn fyrir myndir.                                                     |   |   |
+| **Húðað stál (t.d. Chilly´s vatnsbrúsar)** |                                       |                                       | 45 / 100  45 / 80 = daufari rastering  | **Slökkva á vektor!**                    | Nota **Center engraving**. Undir **Image dithering** er **Stucky** stillingin notuð til að fá betri upplausn fyrir myndir.                                                     |   |   |
+| **Stál húðað með Enduramark**              | Mælt með 300 DPI **15**-25 / 100      |                                       |                                        | **Slökkva á vektor!**                    | Nota **Center engraving**. Undir **Image dithering** er **Stucky** stillingin notuð til að fá betri upplausn fyrir myndir.                                                     |   |   |
+| **Ál húðað með Enduramark**                |                                       |                                       | Mælt með 600 DPI 10-15 / 100           | **Slökkva á vektor!**                    | Nota **Center engraving**. Undir **Image dithering** er **Stucky** stillingin notuð til að fá betri upplausn fyrir myndir.                                                     |   |   |
 | **Pappi**                                  | 100 /65                               | 100 / 55                              | 100 / 45                               | 45 / 70 / 500                            | Stillingar fyrir vektor fara eftir þykkt og gerð pappans. Tölurnar hér eru dæmi en nauðsynlegt er að gera litla prufu. Aðrar mögulegar stillingar: 30 / 80 / 500. |   |   |
 | **Spónn**                                  |                                       |                                       |                                        | 45 / 80 / 500                            |                                                                                                                                                                   |   |   |
 | **Pappír - skurðarlína**                   |                                       |                                       |                                        | Skurður: 100 / 40 / 2500                 |                                                                                                                                                                   |   |   |
