@@ -6,7 +6,7 @@
 
 !!! Danger "Varúðarráðstafanir fyrir Epilog laser 40W"
     
-    **Munið að aldrei má yfirgefa laserskurðarvélina á meðan hún vinnur vegna eldhættu.
+    **Munið að aldrei má yfirgefa laserskurðarvélina á meðan hún vinnur vegna eldhættu.**
     
     **Munið að kveikja alltaf á loftpressunni þegar laserskorið er í vélinni.** Það kælir skurðarsvæðið og dregur úr eldhættu.
 
