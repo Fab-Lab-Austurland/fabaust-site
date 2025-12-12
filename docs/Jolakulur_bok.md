@@ -34,7 +34,7 @@
 
 !!! note "Að vinna með letur og stærð"
     
-    * Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. 
+    * Þú getur einnig smellt á **Texti** og svo **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. 
     
     * Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
 
@@ -284,7 +284,7 @@
 
 !!! example "Að skipta um leturgerð"
     
-    * Þú getur einnig smellt á **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
+    * Þú getur einnig smellt á **Texti** og svo **Texti og letur (Text and font)**. Þannig getur þú valið á mismunandi leturgerðir og séð hvernig það mun líta út. Smelltu svo á **virkja (Apply)** til að velja letrið sem þú ætlar að nota.
 
     ![ ](img_leidbeiningar/Jolakula2_Jona_Texti_og_letur600x382.jpg)
 
