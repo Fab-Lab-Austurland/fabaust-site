@@ -166,7 +166,7 @@
 
 !!!Tip "Myndband"
 
-    Myndbandið hér [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=2cc7ba8af64649318bb3ec98d6022eaf&wix-vod-comp-id=comp-l0gj7s07) sýnir hvernig rennismellur eru búnar til. *Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík*
+    Myndbandið [hér](https://www.fabmennt.com/myndbondgeisla?wix-vod-video-id=2cc7ba8af64649318bb3ec98d6022eaf&wix-vod-comp-id=comp-l0gj7s07) sýnir hvernig rennismellur eru búnar til. *Leiðbeiningarnar gerði Andri Sæmundsson hjá Fab Lab Reykjavík*
 
 ### Verkefni 4 - verkefni að eigin vali
 
