@@ -74,7 +74,6 @@
 
     - Ath! Best er að vista oft á meðan þú vinnur verkefnið, svo upplýsingar glatist ekki.
 
-
 ## Verkefni 1 - Límmiði
 
 !!!success "Mikilvæg upprifjun"
