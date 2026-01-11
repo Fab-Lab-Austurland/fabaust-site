@@ -90,6 +90,14 @@
     * Veldu myndina og smelltu á **Opna (Open)**.
     * Smelltu á **Í lagi (OK)**.
 
+!!!Success "Að stilla stærðina á myndinni"
+
+    * Veldu myndina með því að smella á hana.
+    * Hafðu lásinn fyrir ofan myndina lokaðan.
+    * Stilltu stærðina á myndinni. Hér er hæðin til dæmis stillt á 50mm.
+
+    ![ ](img_framhaldsskoli/SizeOfImage300x442.jpg)
+
 !!!Success "Að láta vinnusvæðið (blaðsíðuna) passa utan um myndina"
 
     Þegar hönnunin er tilbúin er blaðsíðan oft stærri en það sem þið ætlið að búa til. Þá er gott að minnka blaðsíðuna til að efnið nýtist betur. Það gerið þið svona:
