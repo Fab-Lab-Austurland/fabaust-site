@@ -70,7 +70,7 @@
 
     - Ath! Best er að vista oft á meðan þú vinnur verkefnið, svo upplýsingar glatist ekki.
 
-### Að búa til límmiða í BN-20 litaprentaranum (verkefni 1)
+## Að búa til límmiða í BN-20 litaprentaranum (verkefni 1)
 
 !!!Success "Að finna mynd á netinu"
 
@@ -79,7 +79,7 @@
     * Smelltu svo á **Verkfæri (Tools)** 
     * Veldu Creative Commons leyfið.
 
-    ![ ](img_grunnskolar/CreativeCommons700x189.jpg)
+    ![ ](img_framhaldsskoli/FABL1_CreativeCommons700x128.jpg)
 
     * Vistaðu myndina í möppunni þinni.
 
@@ -102,15 +102,24 @@
 
     Þegar hönnunin er tilbúin er blaðsíðan oft stærri en það sem þið ætlið að búa til. Þá er gott að minnka blaðsíðuna til að efnið nýtist betur. Það gerið þið svona:
 
-    Smellið á **Skrá (File) og Skráareiginleikar (Document Properties)**. Það er líka hægt að hægrismella á skjáinn og velja **Eiginleikar skjals (Document properties)**. Smellið svo á litla hnappinn hægra megin við **Aðlaga stærð að innihaldi (Resize to content).** Þá minnkar hvíta svæðið þannig að það passar nákvæmlega utan um hönnunina. Svo þarf að stækka það aðeins með því að smella þrisvar sinnum á báða plúsana.
+    * Hægrismellið á skjáinn og veljið **Eiginleikar skjals (Document properties)**. 
+    * Ef það virkar ekki er hægt að smella á **Skrá (File) og Skráareiginleikar (Document Properties)**. 
 
-    ![](img_grunnskolar/Picture7.png)       ![ ](img_grunnskolar/Picture8.png)
+    ![ ](img_framhaldsskoli/FABL1_RightClickDocumentProperties700x254.jpg)
 
-!!!Tip "Mismundandi útlit í tölvum"
+   
+!!!Success "Að láta vinnusvæðið (hvítu blaðsíðuna) passa undir myndina"
 
-    Stundum lítur þetta öðruvísi út í tölvum (sjá hér fyrir neðan). Þá þarf að skrifa 1 í alla fjóra gluggana og smella svo á ,,Laga síðu að teikningu eða vali“ (Resize page to content).
+    * Smellið svo á litla hnappinn hægra megin við **Aðlaga stærð að innihaldi (Resize to content).** Þá minnkar hvíta svæðið þannig að það passar nákvæmlega utan um hönnunina. 
 
-    ![ ](img_grunnskolar/Picture9_600x159.jpg)
+    ![ ](img_framhaldsskoli/FABL1_ResizeToContent700x296.jpg)
+
+
+!!!Success "Vinnusvæðið aðlagað og tilbúið"
+
+    * Þá sjáið þið að vinnusvæðið(hvíta blaðsíðan) er bara undir myndinni.
+
+    ![ ](img_framhaldsskoli/FABL1_Resized700x303.jpg)
 
 !!!Tip "Eitt mikilvægt atriði"
 
